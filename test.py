@@ -103,4 +103,4 @@ def findCategory(filePath, stopWordsPath, categoriesPath):
 
 
 if __name__ == "__main__":
-    print("category: ", findCategory("texte.txt", "stopWordsFR.txt", "categories.txt"))
+    print("category: ", findCategory("textFiles/texte.txt", "stopWordsFR.txt", "categories.txt"))
