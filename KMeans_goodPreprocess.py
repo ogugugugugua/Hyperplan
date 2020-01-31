@@ -4,7 +4,6 @@ import json
 import numpy as np
 import csv
 import codecs
-
 import time
 from sklearn import feature_extraction
 from sklearn.feature_extraction.text import TfidfTransformer
