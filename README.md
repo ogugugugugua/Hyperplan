@@ -9,4 +9,6 @@ categories.txt: all existing possible categories
 
 test.py: program for finding the corresponding category of the text file
 
+KMeans
+
 Author: Yulin XIE
