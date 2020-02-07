@@ -1,0 +1,10 @@
+{
+  "guessed": {
+    "who": "projet Smarteo",
+    "where": "Nantes",
+    "what": "développement d’une API REST de mocking + app Angular"
+  },
+  "provided": {
+    "who": "La Poste"
+  }
+}

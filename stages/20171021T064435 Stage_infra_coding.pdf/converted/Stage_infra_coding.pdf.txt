@@ -1,0 +1,70 @@
+Kosmos
+8 rue Kervégan
+44000 NANTES
+
+OFFRE DE STAGE
+Infrastructure as Code et provisionning
+Vous souhaitez développer une expertise sur les sujets DevOps ? Vous êtes
+passionné(e) par les technologies comme Terraform, Puppet, Consul, RackHD, Docker,
+Rancher? Rejoignez-nous!
+MISSIONS
+
+Intégré (e) dans notre équipe exploitation dédiée, vous mènerez une étude sur les
+technologies émergentes d’Infrastructure as Code et de provisionning afin de faire
+progresser les usages en termes de création de machines virtuelles et de serveurs. Dans
+ce cadre, vos activités seront les suivantes :
+•
+•
+•
+
+QUALITES
+REQUISES
+
+Support à la production sous forme d’expertise : résolution de problèmes et
+d’incidents variés
+Participation à l’amélioration continue en interne : outillage, procédures, audit
+interne, R&D
+Mise en place d’un POC global utilisant les technologies citées afin de gérer de
+manière automatisée le cycle de vie de nos serveurs physiques et virtuels
+
+Etudiant en dernière année de Master ou de formation Ingénieur avec une
+spécialisation Systèmes et Réseaux, vous avez une connaissance pratique du monde
+opensource avec idéalement des participations à des projets communautaires. Vous
+avez acquis des compétences sur les sujets suivants :
+•
+
+Administration Linux (CentOS/Debian, FreeBSD serait un plus)
+
+•
+
+Réseau : DHCP, DNS, PXE
+
+•
+
+Outils de gestion de code : Git, Bitbucket, GitHub
+
+•
+
+Langage de programmation : Bash, Ruby, Go
+
+Votre rigueur contribue à la qualité de vos actions et votre curiosité technique vous
+permet d’être force de proposition dans une démarche d’amélioration continue.
+Esprit d’équipe et sens du service sont des valeurs dans lesquelles vous vous
+reconnaissez et qui favorisent votre épanouissement dans le travail.
+MODALTÉS
+
+Stage de fin d’étude de 5 à 6 mois, à pourvoir dans l’une ou l’autre de nos filiales :
+•
+
+Kosmos situé rue Kervégan en plein centre de Nantes
+
+•
+
+NFrance situé rue Kennedy en plein centre de Toulouse
+
+CV et lettre de motivation à transmettre à
+recrutement@nfrance.com
+
+recrutement@kosmos.fr ou
+
+

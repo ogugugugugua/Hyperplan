@@ -1,0 +1,42 @@
+Poste:​ ​Stage​ ​admin​ ​sys​ ​Cloud
+La​ ​Startup​ ​:​ ​en​ ​activité​ ​depuis​ ​2015,​ ​Semoa​ ​Group​ ​oeuvre​ ​dans​ ​le​ ​domaine​ ​des​ ​moyens​ ​de
+paiements​ ​innovants​ ​à​ ​destination​ ​des​ ​pays​ ​d’Afrique.
+
+
+Contrat​ ​:​ ​Stage​ ​3​ ​à​ ​6​ ​mois                        Indemnisation​ ​:​ ​Selon​ ​profil.
+
+Profil​ ​recherché​ ​:                                        Contact​ ​CV​ ​+​ ​LM​ ​:
+Elève​ ​Ingénieur​ ​Bac​ ​+3/4/5                              edem.adjamagbo@semoa-group.com
+
+Date​ ​de​ ​début​ ​:​ ​A​ ​définir                           Lieu:​​ ​Nantes,​ ​La​ ​beaujoire,​ ​Village
+                                                              innovation​ ​Crédit​ ​Agricole.
+
+
+Description:
+Nous proposons un poste au sein de notre startup afin de nous permettre d’étudier la viabilité
+des services Cloud d’Amazon. Notamment sur la partie montée en charge des application,
+création​ ​de​ ​VM​ ​à​ ​la​ ​volée,​ ​load​ ​balancing​ ​etc.
+
+Votre mission si toutefois vous l’acceptez sera de configurer un cluster de serveurs exécutant
+une application de paiements. Celle-ci devra répondre à des exigences d’optimisation de coûts,
+d’auto​ ​scale,​ ​de​ ​facilité​ ​sur​ ​la​ ​mise​ ​en​ ​oeuvre​ ​etc.
+
+Grâce au partenariat Amazon / Startups vous serez amené à suivre des formations dispensées
+par​ ​Amazon​ ​Training.
+
+Profil​ ​recherché:
+Titulaire d’un Bac +2 à +5 en informatique, vous possédez d’une première expérience dans
+l’administration de cluster cloud. Vous connaissez les principes d’architectures réseaux et les
+méthodes Agile. Vous avez le sens du relationnel et de la communication. Une bonne
+connaissance des langages système, et surtout du dynamisme, de la volonté d’apprendre et le
+sens​ ​de​ ​l’entrepreneuriat.
+Compétences​ ​requises                                     Compétences​ ​appréciées
+
+SCM:​ ​Git,​ ​SVN,​ ​autre                                 UML,​ ​SQL,​ ​Symfony
+
+Systèmes​ ​UNIX:​ ​Shell,​ ​Bash,​ ​réseau,​ ​etc.         Méthodes​ ​Agile​ ​et​ ​DevOps
+
+Langage​ ​objets:​ ​Java,​ ​Python​ ​ou​ ​autres           Outils​ ​dev​ ​tels​ ​que​ ​Maven,​ ​Docker,​ ​Vagrant,​ ​etc.
+
+                                                           Bonnes​ ​notions​ ​en​ ​architecture​ ​réseau
+

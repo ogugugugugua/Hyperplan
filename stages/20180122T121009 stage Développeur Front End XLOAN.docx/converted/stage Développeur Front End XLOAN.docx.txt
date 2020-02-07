@@ -1,0 +1,29 @@
+
+
+STAGE DÉVELOPPEUR WEB FRONT END Année 2018
+Editeur de progiciel nantais spécialisé en solutions pour les professionnels du financement, XLoan propose d’accueillir des étudiants stagiaires en 2018
+
+Objectifs :
+Intégrer une équipe de développement progiciel intervenant, sur une plateforme technique J2EE, en conception et réalisation de modules applicatifs métiers destinés à répondre aux demandes d’évolution de ses clients (établissements de crédits) ou aux besoins d’évolution de l’offre progicielle.
+
+Lieu : Nantes centre						Durée : 2 mois minimum
+	•	Profil « Développeur » ou « Ingénieur Etude et Développement » recherché
+	•	Secteur : banque/ finance/ crédits
+	•	Environnement technique : J2EE, Mobile
+Langages et outils : Java, SQL, Ajax, Html, JavaScript, Struts, eclipse, Birt, Oracle, Mysql, DB2, TomCat, Websphere, Bootstrap
+
+Thèmes :
+Curiosité et autonomie recherchées. Exemples de sujet de stage possibles : le choix sera adapté au profil du stagiaire.
+
+	•	Développements J2EE
+Participer à l’étude et à la réalisation de fonctionnalités des progiciels de la suite Jloan et Xloan.
+
+	•	Service Web
+Participer à la conception et à la réalisation de services web permettant la gestion de crédits
+
+	•	Portail Extranet
+Participer à la conception de fonctions déportées par un portail applicatif 
+
+
+Rosine Fonteneau attend vos candidatures : 
+rfonteneau@mco-finance.fr

@@ -1,0 +1,20 @@
+
+
+
+Groupe international spécialisé en conseil et technologies innovantes, Micropole recrute des Développeurs WEB, en stage. 
+Acteurs incontournables de la transformation digitale, les collaborateurs Micropole Grand-Ouest participent activement à la croissance et au rayonnement de l’agence. Rattachés à nos bureaux de Nantes, Niort et Rennes, ces spécialistes du digital accompagnent des clients de tous secteurs d’activité dans l’appréhension des nouvelles technologies et les conseillent sur les nouveaux usages, tant vis-à-vis de leurs clients internes qu’externes.  
+Vos missions :
+Votre stage se déroulera dans le cadre d’un projet traitant de problématiques digitales.  Ce projet a pour objectif la refonte d’un portail intranet / extranet. Intégré (e) au sein d’une équipe projet, vous interviendrez sur les étapes suivantes du projet : 
+	•	Conception, modélisation, spécifications techniques et fonctionnelles détaillées
+	•	Développement et tests unitaires
+	•	Tests d’intégration
+	•	Rédaction de documentation
+	•	Assistance à la recette et retours recette (suivi des anomalies et du reste à faire)
+Ce projet vous permettra d'acquérir de solides compétences :
+	•	Apprendre et appliquer les bonnes pratiques dans le cadre d’un projet chez Micropole
+	•	Participer à l’ensemble des étapes d’un projet (de la conception à la mise en production)
+	•	Développer vos capacités relationnelles (communication avec l’équipe et le client, réunions…)
+	•	Accompagner le Chef de Projets dans ses tâches de gestion de projet (planification, avancement, estimation du reste à faire)
+Votre profil : 
+A l’aise avec les nouvelles technologies, vous êtes en dernière année d’école d’ingénieurs ou d’université. Vous avez des connaissances sur les langages Java, Javascript, PHP, JAVASCRIPT, HTML CSS. Vous avez le goût du travail en équipe, et êtes organisé et rigoureux. Enfin, vous avez un bon sens relationnel, la capacité à travailler en équipe et la volonté d’accompagner les ambitions de nos clients. Rejoindre Micropole, c’est se donner l’opportunité de travailler dans une entreprise en plein essor aux perspectives d’évolution réelles. Depuis 2015, Le Groupe Micropole est labelissé Happy Trainees et Happy at Work for Starters. En 2017, c'est la consécration : le Groupe est classé 8ème des entreprises où il fait bon de démarrer sa carrière, partout en France. 
+Pour candidater, merci d’envoyer votre CV à : recrutement.ouest@micropole.com

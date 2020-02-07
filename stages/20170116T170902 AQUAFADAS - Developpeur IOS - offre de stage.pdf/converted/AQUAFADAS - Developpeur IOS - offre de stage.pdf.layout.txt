@@ -1,0 +1,54 @@
+                                              Qui sommes-nous ?
+                                              Un peu plus de 70 personnes forment la famille Aquafadas, éditeur de
+                                              logiciel basé à Montpellier, distribuant ses solutions en Europe, en
+                                              Amérique et en Asie, filiale du géant de l’Internet japonais Rakuten.
+                                              L’esprit start-up nous caractérise: nous sommes toujours prêts à
+                                             développer de nouveaux outils. Notre dernier challenge : accélérer notre
+présence dans le monde entier grâce à nos solutions pour les Entreprises et le eLearning.
+
+Découvrez les outils Aquafadas sur http://www.aquafadas.com
+
+
+
+Développeur iOS - Stage (H/F)
+
+Au sein de l’équipe iOS, votre mission consistera à développer de nouvelles animations de transitions entres les
+différents écrans de nos applications iPhone/iPad pour les rendre plus attirantes et réactives.
+
+Dans un premier temps, vous serez amené(e) à investiguer sur la meilleure façon d’implémenter ces animations pour
+ensuite les intégrer à notre code.
+Vous maintiendrez un standard élevé de qualité de code, en suivant les bonnes pratiques et les processus d’intégration
+continue.
+
+Votre rôle sera divisé en plusieurs parties :
+•   Investigation sur les différentes façon de réaliser des animations d’interfaces
+•   Compréhension et étude du SDK et des kiosques Aquafadas,
+•   Compréhension et étude du lecteur de magazine iOS,
+•   Documentation.
+
+Votre profil :
+De formation Bac+2 minimum en développement informatique, vous avez un très bon niveau en programmation objet.
+Vous possédez un goût prononcé pour la qualité de réalisation.
+Une bonne maîtrise de l’anglais écrit et oral est requise.
+
+Qualités & Compétences recherchées:
+•  Créativité, passion et curiosité
+•  Autonomie.
+•  Attentif à l’ergonomie des produits.
+•  Esprit analytique et rigoureux.
+•  Bonne connaissance des patrons de conception standard (Design patterns).
+•  La connaissance l’environnement de développement Xcode est un plus.
+
+
+Conditions:
+Stage de 6 mois de préférence, à pourvoir dès que possible
+Lieu : Montpellier, Quartier du Millénaire.
+Gratification de stage selon la loi en vigueur.
+
+Vous souhaitez participer à l'aventure d'Aquafadas et concevoir la technologie de demain dans le domaine de la lecture
+                       de livres, magazines, bandes-dessinées, contenus riches sur tablettes ?
+
+
+                                              N'hésitez plus, postulez !
+                Merci d’envoyer votre candidature (CV + Lettre de Motivation) à stages@aquafadas.com
+

@@ -1,0 +1,54 @@
+                                          Stage – DBA SQL/NoSQL – (H/F)
+                                                   Durée 6 mois
+                                                 Localisation : Lille
+
+
+                                                      Contexte
+
+Voyages-sncf.com est le premier site e-commerce de France et le leader européen du Voyage avec 12 millions de
+visiteurs uniques par mois, 1 billet vendu toutes les 3 secondes et 4,1 milliards d’euros de volume d’affaire en 2016.
+
+Avec un tel trafic et un tel niveau de transactions, vous imaginez aisément les enjeux techniques et fonctionnels
+passionnants auxquels nous pouvons faire face quotidiennement…
+
+En tant que stagiaire, vous intégrez une équipe d’administrateurs de Bases de Données (DBA) pour gérer des
+architectures haute disponibilité.
+
+
+                                      Activités et Principales Responsabilités
+
+Prise en charge des collectes d'infos SGBD pour la conception de tableaux de bord :
+    - Suivi des sauvegardes
+    - Monitoring de performance
+    - Capacity planning
+    - Détection erreurs
+    - Requêtes lentes
+Participation au maintien opérationnel des plateformes Oracle, MySQL, PostgreSQL et MongoDB
+
+                                                        Profil
+
+Etudiant en école d’ingénieurs ou bac+5, vous recherchez un stage de fin d’étude orienté en Exploitation de
+bases de données et mise en place de tableaux de bord
+
+Compétences Techniques
+Tableau de bord
+
+Environnement Technique
+Oracle, MySQL, MariaDB, PostgreSQL, MongoDB, Cassandra
+Graphite, Grafana, Kibana
+
+Qualités requises
+Esprit d’équipe, Autonomie, Curiosité, Force de proposition
+
+                                                Ce que nous offrons
+
+    -   Un stage de qualité sur lequel vous pourrez capitaliser avec une possibilité d’embauche à la clef.
+    -   Un environnement de travail où tout est fait pour que vous vous sentiez bien
+    -   Une ambiance chaleureuse et un esprit Start Up au sein d’un groupe solide (innovation, dynamisme,
+        Hackatons, séminaires, « vis ma vie » etc.)
+
+
+
+
+                                                         12
+

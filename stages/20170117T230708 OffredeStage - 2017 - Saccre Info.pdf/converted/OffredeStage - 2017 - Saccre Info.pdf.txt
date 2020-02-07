@@ -1,0 +1,49 @@
+STAGE R&I: Simulateur Analyseur pour la Conception et la Conduite
+Routière Electrique. (H/F)
+Référence du stage : SMT-EST- 07
+Identité du Pilote R&I : Cédric DUSART
+Secteur d’activité : Automobile
+
+Durée: 6 MOIS
+Lieu du stage : Montbéliard
+
+ PRESENTATION DE L’ENTREPRISE
+SEGULA Technologies est un groupe d’ingénierie présent mondialement, au service de la
+compétitivité de tous les grands secteurs industriels : automobile, aéronautique, énergie, ferroviaire,
+naval, pharmacie et pétrochimie. Présent dans 22 pays, fort de ses 80 implantations dans le monde,
+le Groupe privilégie une relation de proximité avec ses clients grâce aux compétences de ses 7000
+collaborateurs. Ingénieriste de premier plan plaçant l’innovation au coeur de sa stratégie, SEGULA
+Technologies mène des projets d’envergure, allant des études jusqu’à l’industrialisation et la
+production.
+
+ DESCRIPTIF DE POSTE
+Le projet de recherche « SACCRE » concerne la création d’un outil de simulation numérique, intégré
+et modulaire, basé sur des modèles physiques des systèmes, sous-systèmes et organes des véhicules
+routiers, électriques et hybrides. Ce simulateur devra permettre d’assurer les fonctionnalités
+suivantes :
+- Dimensionnement et commande des chaînes de motorisation et des véhicules.
+- Modélisation et simulation de différents types de motorisation (électrique, hybride, avec ou
+sans transmission mécanique).
+- Aide à la conception du type de commande en modes normal ou dégradé.
+- Paramétrage et prise de décision.
+- Expérimentation pratique des solutions.
+L’objectif du stage est :
+- Amélioration des interfaces existantes
+- Développement de l’environnement de gestion de la console et son interpréteur
+- Suivi de l’application : correction des erreurs à partir des retours des utilisateurs
+La programmation se ferra en grande majorité en c++ avec les outils de développement Rad Studio.
+
+ PROFIL :
+De formation bac 4/+5 avec une spécialisation en génie logiciel.
+
+ MOTS CLEFS :
+-
+
+Informatique numérique, génie logiciel
+
+Merci de nous faire parvenir votre candidature sous la référence ST_07 à l’adresse suivante :
+cedric.dusart@segula.fr
+
+Copyright © SEGULA Technologies – Tous droits réservés – Octobre 2015
+
+

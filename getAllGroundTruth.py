@@ -4,6 +4,8 @@ import json
 import numpy as np
 import csv
 import codecs
+
+import time
 from sklearn import feature_extraction
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
@@ -14,52 +16,84 @@ parser.add_argument('--path', type = str, default = None)
 parser.add_argument('--clusters',type = int, default = 20)
 args = parser.parse_args()
 
-truths = []
+labels = [] #table that stores all labels for corresponding converted inputs
+contents = [] #table that store all converted inputs
+encodingError = []
 path = args.path
-
-#Print all ground truth:
-for root, dirs, files in os.walk(path, topdown=False):
-    for name in files:
-        if os.path.splitext(name)[-1]==".json":
-            pathComplet = os.path.join(root,name)
-            #print(pathComplet)
-            with open(pathComplet,'r') as jsonFile:
-                content = json.load(jsonFile)
-                print(content['guessed']['what'])
-                truths.append(content['guessed']['what'])
-
-#truths: all the unique labels
-truths = np.unique(truths)
-print(np.size(truths))
-
 #endings: all possible file suffix
-endings = [".doc",".DOC",".pdf",".rtf",".odt",".docx"] 
+endings = [".doc",".DOC",".pdf",".rtf",".odt",".docx",".txt",".PDF",".DOCX"]
 
-#textPaths: paths of all the file to be trained
-textPaths = []
+#all directories that contains converted input && ground labels
+dossiers = os.listdir(path)
+for i in range(len(dossiers)):
+    dossiers[i] = path + dossiers[i]
 
-for root, dirs, files in os.walk(path, topdown=False):
-    for name in files:
-        if os.path.splitext(os.path.splitext(name)[0])[-1] in endings:
-            pathComplet = os.path.join(root,name)
-            textPaths.append(pathComplet)
-print(textPaths)
 
-#in the following part we are gonna get all the content of those files
-#remember to use try/except because there are some character that are not in UTF-8 encoding
-contents = []
-for File in textPaths:
-    with open(File, 'r') as f:
-        try:
-            contents.append(f.readlines())
-            #print(File)
-        except:
-            continue
 
-#Cast the contents list into contents table
-for j,_ in enumerate(contents):
+for i in range(len(dossiers)):
+    #In each directory which contains converted input && ground labels, we get them both out:
+
+    #--------------------------------converted part begins-----------------------------------#
+    if dossiers[i][-1] =='/':
+        converted = dossiers[i] + 'converted/'
+    else:
+        converted = dossiers[i] + '/converted/'
+    # print("converted: ",converted)
+
+    #get all possible files in the 'converted' directory in this current father directory
+    files = os.listdir(converted)
+    if files == []:
+        raise Exception
+
+    #complet the full name
+    for j in range(len(files)):
+        files[j] = converted + files[j]
+
+    mark = False
+
+    #get all converted file contents out
+    for file in files:
+        if os.path.splitext(os.path.splitext(file)[0])[-1] in endings:
+            mark = True
+            with open(file, 'r') as File:
+                try:
+                    contents.append(File.readlines())
+                except:
+                    encodingError.append(i)
+                    raise Exception
+    if mark==False:
+        print("404: ",i,"th directory: ",dossiers[i])
+    # ---------------------------------converted part ends----------------------------------------#
+
+    # ---------------------------------groundtruth part begins------------------------------------#
+    if i not in encodingError:
+        if dossiers[i][-1] == '/':
+            label = dossiers[i] + 'groundtruth/'
+        else:
+            label = dossiers[i] + '/groundtruth/'
+        # print("label: ",label)
+
+        # get all possible files in the 'label' directory in this current father directory
+        fileLabels = os.listdir(label)
+
+        # complet the full name
+        for i in range(len(fileLabels)):
+            fileLabels[i] = label + fileLabels[i]
+
+        # get all label file contents out
+        for file in fileLabels:
+            if os.path.splitext(file)[-1] == ".json":
+                with open(file, 'r') as jsonFile:
+                    jsonFileContent = json.load(jsonFile)
+                    labels.append(jsonFileContent['guessed']['what'])
+
+    # ---------------------------------groundtruth part ends----------------------------------------#
+
+
+# Cast the contents type from list into table
+for j, _ in enumerate(contents):
     temp = []
-    for i,li in enumerate(contents[j]):
+    for i, li in enumerate(contents[j]):
         if i == 0:
             temp = contents[j][i]
         temp = temp + contents[j][i]
@@ -74,8 +108,10 @@ with open("test.csv",'w') as csvfile:
 #Read the stored data in csv file
 with open("test.csv",'r') as csvfile:
     reader = csv.reader(csvfile)
-    for line in reader:
-        print(line)
+    # for line in reader:
+        # print(line)
+
+
 
 
 vectorizer =  CountVectorizer()
@@ -84,7 +120,7 @@ tfidf = transformer.fit_transform(vectorizer.fit_transform(contents))
 word = vectorizer.get_feature_names()
 weight = tfidf.toarray()
 
-print("Features length: ",str(len(word)))
+# print("Features length: ",str(len(word)))
 resultName = "Tfidf_Result.txt"
 result = codecs.open(resultName, 'w', 'utf-8')
 
@@ -108,12 +144,13 @@ clf = KMeans(n_clusters = clusters)
 s = clf.fit(weight)
 
 #print cluster centers
-print("centers for the ",clusters," clusters: ",clf.cluster_centers_)
+print("centers for the ",clusters," clusters: \n",clf.cluster_centers_)
 
 #print clusters for each text file
 i = 1
 while i<=len(clf.labels_):
     print("The ",i,"th file belongs to ",clf.labels_[i-1]," cluster")
+    print(labels[i-1])
     i = i+1
 
 print("inertia: ",clf.inertia_)

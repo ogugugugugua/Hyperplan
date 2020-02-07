@@ -1,0 +1,39 @@
+Stage : Développement et intégration de modules dans le switch logiciel Open vSwitch (F/H)
+
+A propos de b<>com 
+b<>com est un Institut de Recherche Technologiques (IRT) dont la mission est d’accélérer grâce à la recherche et l’innovation dans les technologies numériques la mise sur le marché d’outils, de produits et de services améliorant notre vie quotidienne. b<>com innove dans les domaines de l’hypermédia, des réseaux fixes et mobiles de 5ième génération et de la médecine du futur.
+Descriptif de la mission 
+Au sein du laboratoire Network Architecture et d’un projet de recherche sur les réseaux 5G SDN distribués, le stage vise à :
+	•	Analyser le fonctionnement du switch logiciel open source Open vSwitch (OVS http://openvswitch.org/)
+	•	Intégrer/améliorer des modules utiles pour les réseaux 5G étendus
+En particulier, la/le stagiaire sera amené(e) à :
+	•	Décrire le fonctionnement interne d’un switch OVS
+	•	Intégrer ce switch dans une architecture SDN étendue et distribuée, avec le contrôleur SDN OpenDayLight
+	•	Explorer les fonctionnalités avancées du switch, mettre en place des modules répondant aux besoins du projet de recherche (traitements de QoS, gestion de chemins réseau, isolation ou « slicing »…)
+	•	Proposer et intégrer des évolutions afin d’enrichir les fonctionnalités des switchs OVS
+	•	Evaluer les performances des évolutions apportées
+Profil recherché 
+Bac+5 (école d’ingénieur, Master), spécialité Réseaux et Informatique
+Compétences souhaitées :
+	•	Protocoles réseau Internet
+	•	Programmation C
+	•	OS Linux
+Intérêt pour le stagiaire 
+	•	Montée en compétences sur le langage C.
+	•	Prise en main et maîtrise d’OVS, une solution innovante de switch logiciel utilisé par une vaste communauté, aussi bien dans l’industrie que dans la recherche.
+	•	Competences SDN (Software Defined Network), contrôleur Opendaylight.
+	•	Architecture réseaux 5G et NFV (Networks Functions Virtualization).
+	•	Manipulation des piles de protocole réseau.
+	•	Intégration dans une équipe de R&D en mode agile, méthode scrum.
+Modalités 
+	•	Durée : 6 mois
+	•	Date de démarrage : mars 2018
+	•	Localisation : Rennes
+	•	Candidature à envoyer à : job@b-com.com avec la référence Bcom/STGNA014
+
+Meilleures salutations,
+Salaheddine Zerkane
+Brest, France
+Ambassadeur VegoResto
+Food Not Bombs
+ATER UBO

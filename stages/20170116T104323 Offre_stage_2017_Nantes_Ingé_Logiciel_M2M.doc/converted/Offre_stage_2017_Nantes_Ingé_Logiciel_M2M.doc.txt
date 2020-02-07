@@ -1,0 +1,32 @@
+ 
+OFFRE DE STAGE
+Thème :	IoT - Connectivité des machines de travail mobiles - Prise en main distante par un opérateur de télédiagnostic resp. télémaintenance
+Poste :	Ingénieur 4ème ou 5ème année
+Lieu :	Nantes
+Durée :	4 à 6 mois
+Date de début :	mars 2017
+
+Mission :
+Au sein du pôle « machines connectées  » de SECOM Engineering, vous participerez à divers développements de briques logicielles d’une chaîne M2M existante. Au cours de ce stage, en tant que développeur, vous participez à toutes les phases du cycle en V, y compris la conception architecturale.
+Sous la responsabilité du chef de projet, vos principales contributions seront : 
+Spécifications fonctionnelles
+Participation à la conception architecturale des logiciels embarqués sur l’écran de bord, la plate-forme télématique, le serveur et le client WEB
+Conception détaillée des modules 
+Codage
+Tests unitaires et tests d’intégration
+Mise au point et recette sur machine de la chaîne complète
+Profil de l’apprenti :
+Connaissances obligatoires
+* Programmation : C, C++, PHP
+* Technologies : Ethernet, TCP/IP, VPN, VNC
+* Anglais opérationnel indispensable (relations avec nos partenaires projets)
+
+Connaissances optionnelles
+* Buildroot
+
+
+Pour postuler, nous écrire à l’adresse suivante :
+SECOM – 15, rue Marcel Sembat –44100 NANTES
+Ou par courriel :  HYPERLINK "mailto:talents@secom.fr" talents@secom.fr 
+
+Plus d’informations sur l’entreprise :  HYPERLINK "http://www.secom.fr" www.secom.fr

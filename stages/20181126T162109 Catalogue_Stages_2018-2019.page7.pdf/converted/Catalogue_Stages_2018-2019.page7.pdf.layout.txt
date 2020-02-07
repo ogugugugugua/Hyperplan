@@ -1,0 +1,55 @@
+                                          Stagiaire Développeur Java H/F
+                                           Localisation : Paris ou Nantes
+                                                   Durée : 6 mois
+
+                                                      Contexte
+
+L’entrepôt tarifaire – ET – est une application centrale dans le SI de distribution de la SNCF où sont stockés tous
+les tarifs et règles de vente associées. Constituée d’une base de donnée MySQL et d’un front Java exposant des
+services REST, cette application est requêtée par les backend de distribution.
+
+LIS est une application web permettant la consultation des données de l’ET, à destination des fonctions support
+notamment. Cette application est aujourd’hui vieillissante, nous souhaitons donc la refondre dans des technologies
+plus sympathiques, en proposant un peu plus de fonctionnalités pour ses clients.
+
+                                      Activités et Principales Responsabilités
+
+     Participation à la rédaction et à la priorisation du backlog avec les différents clients de la future
+      application
+     Réalisation des développements en mode itératif
+     Démonstrations régulières de l’avancée du projet
+     Documentation de l’architecture et des fonctionnalités
+
+                                                        Profil
+
+Etudiant en bac+5, vous êtes à la recherche de votre stage de fin d’étude.
+
+Ces outils ne vous sont pas inconnus :
+Java/Spring/Angular/Json/REST/ Git/Tomcat/
+Jenkins/SQL
+
+Là vous nous épatez !
+Vous possédez des connaissances théoriques des principes des méthodologies Scrum, des principes de TU et
+TDD et de l’intégration continue.
+
+Vos atouts !
+Rigoureux
+Autonomie
+Aisance relationnel
+Capacité à travailler en équipe
+Pragmatisme et adaptabilité aux situations
+
+
+                                        Ce que vous trouverez dans ce stage
+
+    -   Un environnement de travail agréable, intégré dans une équipe sympathique
+    -   Un stage de qualité sur lequel vous pourrez capitaliser avec une possibilité d’embauche à la clef.
+    -   Un environnement de travail où tout est fait pour que vous vous sentiez bien
+    -   Une ambiance chaleureuse et un esprit team player au sein d’un groupe solide (innovation, dynamisme,
+        Hackathons, séminaires, « vis ma vie » etc.)
+
+
+
+
+                                                          7
+

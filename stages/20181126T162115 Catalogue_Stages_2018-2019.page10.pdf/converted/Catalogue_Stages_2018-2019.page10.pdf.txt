@@ -1,0 +1,36 @@
+Stagiaire DevOps H/F
+Localisation : Nantes
+Durée : 6 mois
+Contexte
+Au sein de l’entité DWM, en charge du développement du site principal et de l’application mobile, dans une
+équipe Devops vous participerez à la création et à l'amélioration d'outillages permettant aux OPS des équipes projet
+de pouvoir accompagner sereinement une application en production.
+Coté techno, faites-vous plaisir avec du jenkins pipeline, du python ou du docker !
+
+Activités et Principales Responsabilités
+Vous participez à la conception et au développement des outils DEVOPS adaptés au produit à délivrer en
+respectant les choix et les bonnes pratiques de l’entreprise.
+ La mise en place d’outils de conteneurisation d’applications (docker)
+ La mise en place de tests techniques et de résilience avec rundeck
+ La mise en place de jenkins pipeline
+Vous accompagnez les équipes dans la mise en place de leurs bonnes pratiques DevOps
+Profil
+Etudiant en bac+5, vous êtes à la recherche de votre stage de fin d’étude.
+Ceci ne vous est pas inconnu :
+•
+Connaissances de Java
+•
+Une idée de ce qu’est l’intégration continue, Python, Docker etc. est un plus
+•
+Apprécie le travail en équipe
+Ce que vous trouverez dans ce stage
+-
+
+Organisation agile
+Stack technique récente
+Montée en compétence sur les sujets DevOps
+Un cadre de travail agréable dans nos bureaux Nantais
+
+10
+
+

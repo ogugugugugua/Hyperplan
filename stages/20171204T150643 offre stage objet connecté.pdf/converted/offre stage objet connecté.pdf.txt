@@ -1,0 +1,41 @@
+Offre de stage Développement Objet Connecté
+Et si vous rejoigniez une équipe de techs, libérée, dynamique, où vos idées comptent ?
+Ideolys est une start-up innovante, éditeur de solutions web R.I.A et d’objets connectés pour le
+marché de la restauration.
+Notre équipe qui prône le bien-être au travail est basé sur la confiance et le respect, où il fait bon
+travailler ! Entreprise libérée, elle permet à chacun d’être autonome dans la prise d’initiatives et
+d’organisation.
+
+Ideolys la start-up « Great Place to Work » recrute des développeurs pour un stage!
+Vous recherchez un stage (3ème ou 5ème année) et souhaitez rejoindre une start-up innovante ?
+Adepte du babyfoot, notre équipe de 35 individus motivés est en plein développement. Nous
+recherchons de nouveaux équipiers, auxquels nous accordons une réelle importance. Le(s)
+poste(s) est basé sur Nantes ou La Roche sur Yon (stage de 3 à 6 mois).
+
+L’Agilité, vous connaissez ? Avec nous, vous la pratiquerez au quotidien.
+Motivés pour analyser, concevoir et développer,
+Vous travaillerez en équipe où l’entraide et le partage sont nos valeurs.
+Vous intégrerez une équipe et profiterez de nos pratiques agiles (scrum, code review, par
+programming,…)
+De nature curieux(se) et rigoureux(se), vous avez un réel goût pour les nouvelles technologies.
+Vous êtes connu pour votre capacité à innover et votre autonomie.
+
+Vous recherchez des thèmes de stage innovants ?
+Votre projet consistera à créer des solutions innovantes
+pour améliorer la gestion des déchets dans la restauration.
+Programmation de microcontrôleur Microchip PIC (langage C).
+Conception de nouvelles cartes électroniques sur Kicad (RFID, PIC, communication sans fil 868 Mhz,
+divers capteurs…).
+Des connaissances avec Node.js et le web en général seraient un plus.
+Vos indemnités seront de 800 à 1000€ brut/mois.
+Si vous vous êtes reconnu dans cette offre, alors n’attendez plus et venez vivre l’expérience Ideolys!
+Merci d’envoyer CV et lettre de motivation à pleycure@ideolys.com
+SIRET : 521295162 00015 - APE : 5829C Edition de Logiciels Applicatifs
+
+15 Quai Ernest Renaud 44100 Nantes
+
+52 rue Jacques Yves Cousteau 85000 La Roche sur Yon
+Tél. : 02 85 52 08 84 Fax : 02 85 52 09 37 e-mail : contact@ideolys.com
+Déclaration d’activité enregistrée sous le numéro 52 85 01547 85 auprès du préfet de région de Pays de la Loire
+
+

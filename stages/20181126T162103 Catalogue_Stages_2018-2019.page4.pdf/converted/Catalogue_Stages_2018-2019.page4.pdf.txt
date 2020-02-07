@@ -1,0 +1,61 @@
+Stage Développeur Mobile (H/F)
+Localisation : Nantes
+Contexte
+Nous créons et gérons les sites et applications OUI.sncf, mais pas seulement. En tant que Digital
+Factory du groupe, nous intervenons auprès de SNCF et ses filiales pour leur apporter notre
+expertise du Digital.
+Dans ce cadre, vous rejoindrez notre Mobile Factory Nantaise qui s'occupe notamment de
+différentes applications mobiles pour la SNCF (TGV Pro, iDPASS,…)
+Au cours de votre stage, vous serez amené à réaliser, par exemple, des prototypes d'intégration de
+nouveaux usages mobiles sur iOS ou Android.
+Activités et Principales Responsabilités
+Les principales missions seront les suivantes:
+-
+
+Contribuer à la recherche de nouveaux usages possibles sur les différents OS
+Chiffrage des tâches de réalisation.
+Développer des prototypes iOS
+Développer des prototypes Android
+Réalisation des développements en mode agile (Kanban ou Scrum)
+Soumettre vos conclusions suite à la mise en place des prototypes
+Profil
+
+Attentes Techniques :
+ Connaissances en développement mobile
+iOS et/ou Android :
+o iOS : Swift/XCode
+o Android : Java/Android Studio
+ Développement de prototypes
+
+Vos atouts :
+•
+Rigoureux
+•
+Motivé
+•
+Constructif
+•
+Capacité à travailler en équipe
+•
+Pragmatisme
+•
+Adaptabilité aux situations
+
+Les connaissances suivantes sont un plus :
+ Intégration continue dans Jenkins
+ Développement de tests
+unitaires/fonctionnels
+
+Ce que vous trouverez dans ce stage
+-
+
+Un stage de qualité sur lequel vous pourrez capitaliser avec une possibilité d’embauche à la
+clef.
+Un environnement de travail où tout est fait pour que vous vous sentiez bien
+De superbes locaux neufs et à proximité de la gare de Nantes.
+Une ambiance chaleureuse et un esprit Start Up au sein d’un groupe solide (innovation,
+dynamisme, Hackathons, séminaires, « vis ma vie » etc.)
+
+4
+
+

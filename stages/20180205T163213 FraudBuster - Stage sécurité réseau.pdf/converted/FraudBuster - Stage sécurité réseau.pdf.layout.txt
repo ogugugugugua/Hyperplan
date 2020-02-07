@@ -1,0 +1,56 @@
+       Sujet de stage - Sécurisation d'une solution industrielle
+
+Entreprise
+FraudBuster est l'une des entreprise leader dans le domaine de l'anti-fraude téléphonique. Elle innove dans sa
+façon d'analyser les appels, détecter les fraudes et protéger en temps réelles réseaux d'opérateurs téléphonique.
+
+Ses solutions d'anti-fraude sont déployées en Europe, au Moyen-Orient et en Afrique.
+
+
+Descriptif du sujet de stage
+Mission
+La mission sera de sécuriser une solution industrielle qui sera largement déployée à l'étranger. Plusieurs axes
+seront abordés :
+    •    Faire l'état des lieux des besoins en sécurité, des points de vulnérabilité.
+    •    Chiffrement des fichiers sensibles.
+    •    Offuscation de divers scripts.
+    •    Mettre en place un système de licence avec expiration.
+    •    Lier la licence à une empreinte hardware.
+    •    Mettre en place un document unique regroupant les best-practices à suivre pour maintenir le niveau de
+         sécurisation de la solution.
+
+Livrables
+     •       Fournir une documentation de référence contenant :
+                 o Les différentes failles qui pourraient être exploitées, leurs incidences et comment y remédier.
+                 o Ce qui a d'ores et déjà été sécurisé, et comment.
+                 o Des best-practices à suivre.
+     •       Des tests fonctionnels pour garantir le niveau de sécurité en intégration continue (jenkins).
+
+
+
+Profil
+Pour mener à bien cette mission, FraudBuster recherche un profil ayant les compétences suivantes :
+    •  Linux.
+    •  Sécurité.
+    •  Langage C.
+    •  À l'écoute et autonome.
+
+
+Conditions
+Convention
+Une convention de stage sera rédigée et signée conjointement.
+
+Lieu
+Sur place, à Marseille (1er arrondissement).
+
+Période
+6 mois.
+
+Rémunération
+A définir.
+
+
+
+
+                            FraudBuster © 2018 – www.fraudbuster.mobi
+

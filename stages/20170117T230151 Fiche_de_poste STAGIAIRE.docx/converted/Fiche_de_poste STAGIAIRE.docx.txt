@@ -1,0 +1,174 @@
+OFFRE DE STAGE
+Production d’outils décisionnels RH
+
+
+
+Durée du stage : 4 à 6 mois 
+Profil : Etudiants en dernière année du cycle d’ingénieur
+Localisation : Direction des Systèmes d’Information et du Numérique de l’Université de Nantes, 2 rue de la Houssinière et 1, quai de Tourville à Nantes
+Contact : Thierry Audrain, responsable du Service Informatique de Gestion de la DSIN et Michel Allemand, Directeur des Systèmes d’Information et du Numérique
+Durée du stage : 4 à 6 mois 
+Profil : Etudiants en dernière année du cycle d’ingénieur
+Localisation : Direction des Systèmes d’Information et du Numérique de l’Université de Nantes, 2 rue de la Houssinière et 1, quai de Tourville à Nantes
+Contact : Thierry Audrain, responsable du Service Informatique de Gestion de la DSIN et Michel Allemand, Directeur des Systèmes d’Information et du Numérique
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Présentation du contexte et de la mission : 
+
+La DSIN de l'Université de Nantes a pour vocation de construire et de veiller au bon fonctionnement du système d'information de l'établissement. Elle accompagne les services de l’Université dans l’utilisation des différentes solutions logicielles.
+
+Au sein du Service Informatique de Gestion, dans le pôle en charge du SI de gestion des ressources humaines, la mission consiste à produire le bilan social de l’Université. Ce document institutionnel présente la synthèse des indicateurs de pilotage des ressources humaines de l’Université.
+
+Business Objects est un outil décisionnel qui lui permet d’exploiter et de restituer les données du SIRH. 
+
+La mission consiste à :
+- analyser les indicateurs, à produire pour le bilan social et concevoir leurs règles de calcul dans le modèle de données du SIRH,
+- apporter les évolutions nécessaires à l’univers Business Objects pour la production de ces indicateurs,
+- structurer les données et définir des méthodes de production permettant une réutilisation pour les années ultérieures,
+- développer le bilan social à l’aide de la suite Business Objects.
+
+Compétences requises :
+Compétences générale : 
+- Conduite de projet,
+- Méthodes d’analyse et de conception
+- Curiosité et capacités d’adaptation à des interlocuteurs différents (équipe RH, informatiques, encadrement …)
+Compétences techniques : 
+-  Maîtriser les principes théoriques des SGBD, 
+	- Connaître le langage SQL, les principaux formats de données.
+	- Connaître les principes du décisionnel
+
+
+Présentation du contexte et de la mission : 
+
+La DSIN de l'Université de Nantes a pour vocation de construire et de veiller au bon fonctionnement du système d'information de l'établissement. Elle accompagne les services de l’Université dans l’utilisation des différentes solutions logicielles.
+
+Au sein du Service Informatique de Gestion, dans le pôle en charge du SI de gestion des ressources humaines, la mission consiste à produire le bilan social de l’Université. Ce document institutionnel présente la synthèse des indicateurs de pilotage des ressources humaines de l’Université.
+
+Business Objects est un outil décisionnel qui lui permet d’exploiter et de restituer les données du SIRH. 
+
+La mission consiste à :
+- analyser les indicateurs, à produire pour le bilan social et concevoir leurs règles de calcul dans le modèle de données du SIRH,
+- apporter les évolutions nécessaires à l’univers Business Objects pour la production de ces indicateurs,
+- structurer les données et définir des méthodes de production permettant une réutilisation pour les années ultérieures,
+- développer le bilan social à l’aide de la suite Business Objects.
+
+Compétences requises :
+Compétences générale : 
+- Conduite de projet,
+- Méthodes d’analyse et de conception
+- Curiosité et capacités d’adaptation à des interlocuteurs différents (équipe RH, informatiques, encadrement …)
+Compétences techniques : 
+-  Maîtriser les principes théoriques des SGBD, 
+	- Connaître le langage SQL, les principaux formats de données.
+	- Connaître les principes du décisionnel
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Si ce stage  vous intéresse, merci d’adresser lettre de motivation et curriculum vitae à l’adresse : thierry.audrain@univ-nantes.fr
+
+
+Si ce stage  vous intéresse, merci d’adresser lettre de motivation et curriculum vitae à l’adresse : thierry.audrain@univ-nantes.fr
+
+
+
+
+
+
+
+
+Environnement et contexte de travail – contraintes particulières :
+
+Environnement et contexte de travail – contraintes particulières :
+

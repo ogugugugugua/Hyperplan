@@ -1,0 +1,62 @@
+Stage Datascientist BigData (H/F)
+Localisation : Lille
+Contexte
+Ayant une spécialisation data-science, vous serez intégré dans le pôle BigData technique et vous prendrez en
+charge l’analyse de données techniques, la mise en place de POC machine learning / IA.
+Vous utilisez les technos les plus appropriées selon les problèmatiques (liberté de choix).
+Les enjeux sont divers, voici quelques exemples :
+- Prédictions des prochains appels d’astreintes à partir de données temporelles (timeseries forecasting)
+- Détection d’anomalies sur des logs (algo de classification, clustering, …, correlation)
+- Détection d’intrusion sur des audits logs d’équipements réseaux
+- Enterprise ressource planning (gestion du capacity planning intelligent)
+Activités et Principales Responsabilités
+
+-
+
+Technos
+QLIK, POWERBI, KIBANA, …
+SPARK, R, Python, …
+ML, tensorflow, pytorch, …
+
+DQM, préparation des données
+Détection de patterns
+Evaluation de datasets
+Création et mise en place de modèles de
+machine learning
+Approche des possibilités de l’IA
+Création de rapports automatisés avec des
+outils de dataviz
+
+Environnement :
+Gitlab, ansible, puppet, rundeck
+Docker, Vagrant, Kubernetes
+Hadoop hortonworks
+Cloud AWS, AZURE
+
+Profil
+Etudiant dans un cursus bac+5, vous recherchez
+un stage de fin d’étude (master 2)
+
+Vos atouts !
+Curiosité
+Motivation
+Capacité à travailler en équipe
+Esprit d’initiative
+Autonomie
+
+Ces outils ne vous sont pas inconnus :
+Linux/Python/R/spark
+Là vous nous épatez !
+Vous avez des connaissances sur l’IA
+
+Ce que vous trouverez dans ce stage
+-
+
+Organisation agile
+Stack technique récente
+Montée en compétence sur les sujets DevOps
+Un cadre de travail agréable dans nos bureaux Nantais
+
+11
+
+

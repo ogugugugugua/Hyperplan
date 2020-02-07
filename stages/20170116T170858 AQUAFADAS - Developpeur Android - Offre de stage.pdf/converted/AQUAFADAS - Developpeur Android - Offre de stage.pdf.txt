@@ -1,0 +1,43 @@
+Qui sommes-nous ?
+Un peu plus de 70 personnes forment la famille Aquafadas, éditeur de logiciel basé à Montpellier, distribuant
+ses solutions en Europe, en Amérique et en Asie, filiale du géant japonais Rakuten. L’esprit start-up nous
+caractérise: nous sommes toujours prêts à développer de nouveaux outils. Notre dernier challenge :
+s’adresser aux entreprises et au marché du eLearning.
+Découvrez les outils Aquafadas gratuitement sur http://www.aquafadas.com.
+
+Développeur Android - Stage (H/F)
+Les équipes d’Aquafadas développent toute une gamme d’outils, gravitant autour de son format AVE, et
+permettent aux éditeurs de publier facilement leurs contenus papiers sur des kiosques (applications mobiles
+natives, et web) au travers notamment de l'importation de fichiers PDF, ou de la création "from-scratch" d'un
+magazine depuis Adobe InDesign.
+Au sein de l’équipe Android, votre mission consistera à développer de nouvelles applications et à améliorer
+l’existant.
+Vous serez en relation avec les ingénieurs back-end afin d’utiliser au mieux nos APIs internes et les faire
+évoluer.
+Vous maintiendrez un standard élevé de qualité de code, en suivant les bonnes pratiques et les processus
+d’intégration continue.
+Votre rôle sera divisé en plusieurs parties :
+• Compréhension et étude du SDK et des kiosques Aquafadas,
+• Compréhension et étude du lecteur de magazine Android,
+• Documentation.
+Votre candidature est pertinente si :
+• vous avez une formation Bac+4 en développement informatique
+• vous avez un bon niveau en Java
+• vous avez un goût prononcé pour le développement d’interfaces complexes
+• vous êtes sensible à la qualité et la lisibilité de votre code,
+• vous recherchez l’esthétique et l’ergonomie du produit fini,
+• vous avez un don pour la pâtisserie ;-)
+La connaissance de l'IDE Android Studio et du SDK Android sont un plus.
+Intérêts :
+• Produit à forte visibilité, avec des utilisateurs dans le monde entier,
+• Équipe talentueuse, ambitieuse et passionnée,
+• Moyenne d’âge : 32 ans,
+• Ville ensoleillée de Montpellier,
+• Stage de 6 mois à pourvoir dès que possible
+• Gratification de stage selon la loi en vigueur, Tickets restaurants + 50 % transports en commun.
+
+N'hésitez plus, rejoignez nous !
+Envoyez nous votre candidature (CV + Lettre de Motivation) à l’adresse suivante :
+stages@aquafadas.com
+
+

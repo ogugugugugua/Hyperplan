@@ -1,0 +1,83 @@
+
+
+Mission : banc de test de consommables pour bornes libre-service
+
+Localisation : Nantes
+Type de contrat : stage de 5 à 6 mois
+Niveau d'études : bac+5
+Gratification : 1250€ brut/mois
+Début : 1er trimestre 2017
+
+Vous désirez relever de nouveaux défis au sein d’une équipe d’experts.
+
+Venez bénéficier de l’accompagnement de tuteurs confirmés et impliqués!
+	
+Rejoindre La Poste c'est choisir un employeur de référence développeur de talents.
+Le Groupe La Poste vous offre des missions synonymes de mobilité et de diversité, à l'image de ses 260 000 collaborateurs répartis sur 250 filiales. 
+Vous intégrerez la Direction des Systèmes d’information de La Banque Postale et du Réseau La Poste. Les projets y sont riches et variés et visent à accompagner la transformation du Groupe La Poste. Vous collaborerez avec de nombreuses entités du sein du  Groupe. 
+
+
+
+Contexte Supervision dans le cadre d'un déploiement en masse de solutions mobile.
+
+La DISFE va déployer en masse (40 000 tablettes, potentiellement 17 000 points de vente en WIFI, Métropole et DROM/COM) des solutions mobiles.
+
+Ce type de déploiement impose des dispositifs complexes et industriels. Mais les technologies mises en œuvre, les fonctionnalités  concernées évoluent vite.  Il s’agit de consolider des données d’origines multiples et qui vont évoluer dans le temps tant en contenu qu’en volume:
+- Log techniques et applicatifs présents sur les tablettes (indicateur concernant le WIFI, les temps d’accès..)
+- Log techniques et applicatifs notant l’activité sur les serveurs (bus de traitement des web services…)
+- Log fournis par des EMM Entreprise Mobile Management qui servent à contrôler et paramétrer une flotte de terminaux mobiles
+- Log fournis par les structures de support/installation qui valident les mises en production
+
+L’objectif, à terme, est de :
+- Disposer d’un puits de données utilisables pour des traitements à façon,
+- Disposer de tableaux de bord techniques établis par le service SEI et publiés aux équipes E&D. Ces solutions devront être typées par type d’établissement, technologies…
+- De préétablir ce qui permet à des MOE E&D de construire des tableaux de bord pour les MOA,
+- De mettre en place des dispositifs ponctuels d’alerte, proactifs, si des données remontées évoluent de façon anormale. Ce dispositif pourra être débrayable sil impose la remontée/conservation de données en fort volume.
+
+La DISFE a mis en place un dispositif basé sur les technologies NoSQLBigData innovantes : Elastik Search, Kibana. Ces solutions répondent à des besoins d’avoir des données. 
+Elles sont moins contraignantes que les solutions basées sur une base relationnelle et des outils d’interrogation classiques. 
+Ce dispositif reste fragile tant par sa complétude, sa solution, que par ce que l’on en fait (manque de temps pour faire des corrélations pour  exploiter les bonnes données).
+
+
+Mission : Etudier l’opportunité de faire évoluer la solution actuelle vers Splunk et proposer des solutions pour exploiter au mieux les données  
+
+Il s’agit dans ce stage de :
+- De faire une synthèse des capacités de Splunk (ou autre si opportun),
+- De faire une synthèse des retours de sa mise en œuvre dans des contextes industriels proches du notre,
+- De faire une comparaison détaillée entre les possibilités offertes actuellement par la solution actuelle et la solution proposée (fonctions, exploitabilité, qualité de service),
+- De monter un poc (infra prototype)  et mettre en évidence des axes de traitements de données permettant de prévoir/mettre en en évidence des incidents.
+
+Environnement technique
+Data scientist
+NoSQLBigData innovantes
+Elastik Search
+Kibana
+Splunk
+Microsoft Excel, Word, PowerPoint, Project.
+Profil
+Motivation,
+esprit d’analyse et de synthèse,
+autonomie dans un contexte de travail en équipe,
+dynamisme et réactivité,
+organisation,
+bon relationnel.
+
+
+
+Pour postuler : Envoyer CV et lettre de motivation à l’adresse suivante : sophie.despomaderes@labanquepostale.fr
+
+
+
+
+
+
+
+
+                     SHAPE  \* MERGEFORMAT                                                    	
+
+ PAGE 1/ NUMPAGES 2
+
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur  HYPERLINK "http://www.labanquepostale.fr" www.labanquepostale.fr – Rubrique « Nous rejoindre »
+
+
+

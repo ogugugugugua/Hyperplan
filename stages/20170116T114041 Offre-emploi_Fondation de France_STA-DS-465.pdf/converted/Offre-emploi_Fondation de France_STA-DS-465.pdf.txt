@@ -1,0 +1,21 @@
+Stagiaire Data Scientist (H/F)
+Date : Réf. : 12/16/2016 STA-DS-465 Localisation : 40, Avenue Hoche, 75008 Paris - 8ème arrondissement (75 Paris) BAC+5
+
+Type de contrat : Stage Expérience : 0-1 an
+
+Rémunération : Formation :
+
+Description de l'entreprise :
+Depuis 1969, la Fondation de France soutient des projets concrets et innovants qui répondent aux besoins des personnes face aux problèmes posés par l’évolution rapide de la société. Elle agit principalement dans trois domaines : l’aide aux personnes vulnérables, le développement de la connaissance et l’environnement. Elle favorise également le développement de la philanthropie. Elle aide les donateurs à choisir les meilleurs projets, conseille les fondateurs sur leur champ d’intervention et sur le cadre juridique et fiscal le plus approprié. Elle regroupe plus de 800 fonds et fondations individualisés sous son égide, dont plusieurs dizaines créés par des entreprises.
+
+Poste proposé :
+Au sein du domaine Pilotage, Risques et Contrôle, le Service Décisionnel, Reporting et Indicateurs (SEDRI) accompagne la Fondation de France dans la réalisation de ses missions en fournissant l'ensemble des services et produits relatifs à la donnée, au pilotage et à l'analyse. Afin d'évaluer la valeur qu'apporteraient les « Machine Learning » dans les processus de décisions de la Fondation de France, le SEDRI souhaite mettre en oeuvre des prototypes couplant algorithmes et data visualisation. Rattaché au Responsable du SEDRI, le/la stagiaire aura pour mission de : - Benchmarker des prototypes basés sur des algorithmes de Machine Learning (réseau de neurones, SVM, k-means, régression logistique, arbre de décisions, ...) dans le cadre de la réalisation d'un moteur de corrélation et d'un moteur de recommandation, - Développer des visualisations en mesure d'illustrer simplement des données corrélées et non corrélées, - Participer à l'évaluation des gains potentiels dans une optique de déploiement des prototypes, - Participer à la mise en oeuvre opérationnelle des prototypes réalisés. Ce stage sera réalisé dans un mode projet agile, alliant Scrum pour la gestion du projet et Xtreme Programming pour le développement.
+
+Profil recherché :
+-Vous avez des compétences solides en informatique et statistique orientées data science : o Utilisation d'un outil de collecte, traitement et nettoyage de données, o Compétences en développement en R ou Python o Utilisation d'un outil de data visualisation, idéalement Tableau ou Qlik Sense. Mission de stage se déroulant d'avril à Septembre 2017. Vous avez un état d'esprit de winner, un sens du collectif et une fibre pour les prises de risques !
+
+Pour postuler, cliquer ici :
+
+http://www.mytalentplug.com/redirection.aspx?ojid=qNeKVb9hV/4=
+
+

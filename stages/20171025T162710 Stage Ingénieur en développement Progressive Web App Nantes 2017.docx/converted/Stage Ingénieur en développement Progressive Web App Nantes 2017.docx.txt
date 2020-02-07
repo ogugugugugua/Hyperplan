@@ -1,0 +1,16 @@
+
+
+
+Groupe international spécialisé en conseil et technologies innovantes, Micropole recrute un Ingénieur d’études, en stage, pour développer une Progressive Web Apps. Acteurs incontournables de la transformation digitale, les collaborateurs Micropole Grand-Ouest participent activement à la croissance et au rayonnement de l’agence. Rattachés à nos bureaux de Nantes, Niort et Rennes, ces spécialistes du digital accompagnent des clients de tous secteurs d’activité dans l’appréhension des nouvelles technologies et les conseillent sur les nouveaux usages, tant vis-à-vis de leurs clients internes qu’externes.  
+Vos missions :
+Passionnée par les nouvelles technologies et l’innovation, notre agence souhaite étudier et mettre en place les applications métiers « progressive Web Apps » dans le cadre de ses projets clients. Le but du stage est de faire un état des lieux complet de la technologie en illustrant les différentes possibilités des PWA avec le développement d'une application mobile.
+Le stage se déroulera en plusieurs étapes :
+- Réalisation d'un état des lieux de la technologie
+- Identification des cas d'utilisation de la technologie, de ses limites et de ses avantages pour nos différents projets en cours. 
+- Rédaction d'un guide de bonnes pratiques pour la réalisation de PWA.
+- Développement d'une application PWA ayant les critères responsive (mobile, tablette et desktop), installable sur différents devices,
+- Présentation aux équipes des résultats de l'étude et du POC.
+Technologies mises en œuvre : HTML5, Javascript (VUE.JS, Angular2), CSS3, Mode connecté, Node JS.
+Votre profil : 
+Vous êtes un amoureux du développement et des nouvelles technologies. Vous êtes en dernière année d’école d’ingénieurs ou d’université. Vous maîtrisez ces langages : HTML5, Javascript, CSS3, et ces frameworks : Vue, Angular et Node JS. Vous avez le goût du travail en équipe, et êtes curieux et rigoureux. Rejoindre Micropole, c’est se donner l’opportunité de travailler dans une entreprise en plein essor aux perspectives d’évolution réelles. Depuis 2015, Le Groupe Micropole est labelissé Happy Trainees et Happy at Work for Starters. En 2017, c'est la consécration : le Groupe est classé 8ème des entreprises où il fait bon de démarrer sa carrière, partout en France. 
+Pour candidater, merci d’envoyer votre CV à : recrutement.ouest@micropole.com

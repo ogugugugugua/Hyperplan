@@ -28,7 +28,7 @@ for root, dirs, files in os.walk(path, topdown=False):
                 print(content['guessed']['what'])
                 truths.append(content['guessed']['what'])
 
-#truths: all the unique labels
+#labels: all the unique labels
 truths = np.unique(truths)
 print(np.size(truths))
 

@@ -1,0 +1,94 @@
+                Mission : Data Sciences au service de la Supervision
+Localisation : Toulouse
+Type de contrat : stage de 5 à 6 mois
+Niveau d'études : bac+5
+Gratification : 1250€
+Début : janvier
+
+ Vous désirez relever de nouveaux défis au sein d’une équipe d’experts.
+Venez bénéficier de l’accompagnement de tuteurs confirmés et impliqués!
+
+Rejoindre La Poste c'est choisir un employeur de référence développeur de talents.
+Le Groupe La Poste vous offre des missions synonymes de mobilité et de diversité, à l'image de ses 260
+000 collaborateurs répartis sur 250 filiales.
+Vous intégrerez la Direction des Systèmes d’information de La Banque Postale et du Réseau La Poste.
+Les projets y sont riches et variés et visent à accompagner la transformation du Groupe La Poste. Vous
+pourrez aussi collaborer avec de nombreuses entités du sein du Groupe.
+
+
+
+
+Contexte de la mission
+Au sein de la DSI de la Banque Postale, la Direction de la Production Informatique (DPI)    a pour objectifs
+la gestion des infrastructures techniques et des applications.
+
+Description de la DPI …
+
+Périmètre
+
+Le service de Monitoring a pour mission de développer et de mettre à disposition les outils pour assurer les
+services de surveillance, de métrologie et de restitution des logs aux équipes de la Production Informatique.
+Le service est constitué d’une trentaine de personnes et utilise principalement les composants suivants :
+Splunk, Elastic Search, Centreon.
+
+
+
+
+                                                     1/2
+
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur www.labanquepostale.fr
+                              – Rubrique « Nous rejoindre »
+Votre mission :
+
+
+        Expérimenter une nouvelle méthode de supervision. Aujourd’hui, le déploiement de la surveillance
+        est réalisé de manière déclarative. Des modèles sont constitués pour chaque type de composant et
+        déployés de manière identique sur l’ensemble du parc.
+
+        Cette solution a 2 limites : dans certain cas la surveillance remonte trop d’alerte (faux positif) ou
+        ne détecte pas une anomalie. Dans ces cas la surveillance doit être adaptée manuellement.
+
+        Le projet est d’enrichir notre offre avec des modèles de surveillance adaptatifs et multi-source
+        (croissement de plusieurs données). Ce projet doit améliorer la pertinence de la surveillance et
+        réduire le coût de mise en place.
+
+        Le projet consiste en utilisant les nouvelles technologies (AI, machine learning, bigdata) de
+        rechercher et valider les solutions permettant de répondre au besoin.
+
+Le stagiaire aura pour mission de faire une analyse du besoin, de définir les objectifs à atteindre et de
+réaliser un (ou plusieurs) POC (proof of concept) pour définir les solutions adaptées. Il sera en relation
+direct avec les équipes d’expertise sur le monitoring. Le stage sera supervisé par un chef de projet.
+
+
+      Vous êtes :
+
+  -   Curieux(euse), enthousiaste, pragmatique et rigoureux(euse)
+
+  -   Force de proposition, créatif et doté d'un fort esprit critique
+
+      Vous avez :
+
+      La capacité à retranscrire des problématiques métier en termes statistiques / mathématiques et à
+      faire parler les chiffres, à vulgariser des concepts complexes auprès de non statisticiens
+
+      Vous voulez travailler dans une équipe tout en ayant votre autonomie.
+
+      Compétences techniques
+
+  -   Compétences sur les techniques et algorithmes d'analyse de données, data mining, machine
+      learning, intelligence artificielle
+
+  -   Maîtrise d'au moins un outil de référence du marché : R sous Linux, Python
+
+  -   Intérêt pour la gestion de données (mySQL, noSQL, Hadoop, Spark)
+
+      Pour postuler : Envoyer CV et lettre de motivation à l’adresse suivante :
+      sophie.despomaderes@labanquepostale.fr
+
+
+
+                                                      2/2
+
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur www.labanquepostale.fr
+                              – Rubrique « Nous rejoindre »
+

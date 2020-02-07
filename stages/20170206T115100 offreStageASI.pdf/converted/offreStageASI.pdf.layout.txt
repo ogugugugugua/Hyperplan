@@ -1,0 +1,39 @@
+Objet : Offre de stage
+
+Titre :
+Analyse prédictive de données opérationnelles
+
+Contexte :
+ASI est une ESN positionnée notamment sur des activités liées à la "Data Intelligence", qui consistent
+à extraire de l'information et de la connaissance à partir des données disséminées dans les SI de ses
+clients. Fort d'une expérience de plus de 15 ans sur la Business Intelligence "Classique" (data
+warehousing, master data management, traitement de flux de données, reporting et exploration
+multi-dimensionnelle), ASI souhaite développer ses compétences et ses offres sur le domaine de
+l'analyse prédictive, communément appelé aujourd'hui "Machine Learning". Dans le cadre d'une
+collaboration, un de nos clients souhaite nous confier une étude de faisabilité pour l'analyse
+prédictive de ses données opérationnelles.
+
+Travail à mener et résultats attendus :
+L'objectif de ce stage est de mener de bout en bout une prestation d'analyse prédictive pour notre
+client :
+    Recueil des besoins, définition du périmètre de l'étude et des objectifs avec le client,
+    Collecte et préparation des données (train / test, structuration, traitement des valeurs
+       manquantes/aberrantes…),
+    Réalisation de plusieurs modèles à comparer,
+    Synthèse et présentation des résultats au client.
+
+Aucun algorithme particulier de machine learning n'est imposé à priori. Le stagiaire sera force de
+proposition et aura le loisir de mener à bien sa recherche en toute autonomie, bien entendu dans le
+cadre d'un échange permanent avec son encadrant et le client.
+Aucun outil d'analyse n'est imposé. En revanche, l'utilisation de R et Rstudio serait fortement
+apprécié.
+
+Encadrement :
+L'encadrement sera réalisé par un consultant senior en Business Intelligence, ayant une forte
+appétence et un premier vernis sur le Machine Learning.
+
+Lieu du Stage :
+Nantes / Saint-Herblain.
+
+La durée du stage est entre 4 et 6 mois avec, le cas échéant, une possibilité d'embauche.
+

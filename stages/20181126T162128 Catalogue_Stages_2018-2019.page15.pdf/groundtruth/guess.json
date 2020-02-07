@@ -1,0 +1,10 @@
+{
+  "guessed": {
+    "who": "OUI.sncf",
+    "where": "Paris",
+    "what": "Développeur FullStack"
+  },
+  "provided": {
+    "who": "Oui.sncf"
+  }
+}

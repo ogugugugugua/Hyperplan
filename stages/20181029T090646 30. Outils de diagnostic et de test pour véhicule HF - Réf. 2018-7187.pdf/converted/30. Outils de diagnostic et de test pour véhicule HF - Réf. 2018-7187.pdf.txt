@@ -1,0 +1,74 @@
+2018-7187 Outils de diagnostic et de test pour véhicule H/F
+
+Informations générales
+Description de l'entité Le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) est un organisme public de
+recherche.
+Acteur majeur de la recherche, du développement et de l'innovation, le CEA intervient dans le cadre de ses
+quatre missions :
+. la défense et la sécurité
+. l'énergie nucléaire (fission et fusion)
+. la recherche technologique pour l'industrie
+. la recherche fondamentale (sciences de la matière et sciences de la vie).
+Avec ses 16000 salariés -techniciens, ingénieurs, chercheurs, et personnel en soutien à la recherche- le CEA
+participe à de nombreux projets de collaboration aux côtés de ses partenaires académiques et industriels.
+Description de l'unité Le Leti, institut de recherche technologique de Cea Tech, a pour mission de créer de la valeur et de
+l'innovation avec ses partenaires industriels. Il fait le lien entre la recherche fondamentale et la production de
+micro et nanotechnologies dans le but d'améliorer la qualité de vie de chacun. Fort d'un portefeuille de 2.800
+brevets, le Leti façonne des solutions avancées pour améliorer la compétitivité de ses partenaires industriels:
+grands groupes, PME ou startups. Localisé à Grenoble (38), le Leti compte plus de 1 800 chercheurs et a des
+bureaux aux US et au Japon.
+Le LSOSP, Laboratoire sécurité des objets et des systèmes physiques, mène des activités de R&D dans le
+domaine des technologies de sécurité et de protection de la vie privée. Il analyse et caractérise les risques
+auxquels sont soumis les systèmes électroniques et les composants; il conçoit des contre-mesures
+s'appuyant notamment sur des techniques cryptographiques mais aussi sur des modifications dans
+l'architecture des systèmes pour intégrer les technologies nécessaires (composants, codes embarqués,
+interfaces ou protocoles de communications...). Il caractérise l'efficacité des contremesures intégrées dans
+des composants, des objets (communicants) et des systèmes cyberphysiques afin de résister aux attaques
+au niveau de leur structure, de leurs fonctions ou de leur utilisation.
+Délai de traitement 2 mois
+
+Description du poste
+Site Grenoble
+Lieu 17, avenue des martyrs, 38000 GRENOBLE
+Domaine Composants et équipements électroniques
+Contrat Stage
+Intitulé de l'offre Outils de diagnostic et de test pour véhicule H/F
+Sujet de stage Outils de diagnostic et de test pour véhicule
+Durée du contrat (en mois) 6 mois
+Description de l'offre Le laboratoire
+
+LSOSP, dans le cadre de ses activités liées à la sécurité dans le domaine
+automobile, a développé un outil permettant d'effectuer des tests d'intrusion sur le bus
+CAN de cartes électroniques embarquées dans des véhicules. Cet outil nécessite des
+améliorations afin de rendre plus efficaces les tests d'attaques sur calculateurs
+automobiles.
+Le stagiaire sera amené à:
+1°/ prendre en main l'outil actuel (Python) et le fonctionnement du CAN,
+2°/ améliorer le fonctionnement de l’outil (socket CAN, meilleur gestion du bus) en
+interaction avec les membres de l'équipes,
+3°/ mettre en place un mécanisme de décodage automatique des trames (utilisation des
+Bases de données existantes) qui pourra être testé sur des véhicules d'expérimentation,
+4°/ définir et mettre en place des processus permettant de vérifier la sécurité sur le CAN
+(découverte des éléments du réseau, analyse des trames (reverse) et de tester des
+fonctions de sécurité (CCP)),
+Le contenu du stage pourra être complété par reproduction du fonctionnement d’une
+mallette de diagnostic CAN (séquences de trames…).
+Le stagiaire développera ses compétences en développement logiciel, sécurité,
+compréhension des communications sur bus dans le domaine de l'automobile.
+
+Moyens / Méthodes / Logiciels Python, réseau CAN, XML, Git
+Profil du candidat Etudiant en 3ème année d'école d'ingénieur ou 2ème année de master.
+Spécialités informatique, électronique embarquée et/ou réseau.
+Autonomie, développement logiciel, capacité d'adaptation, travail en équipe.
+Une connaissance des bus de communication est un plus.
+Merci de bien vouloir transmettre votre candidature directement à Romain MOTTIN : romain.mottin@cea.fr
+
+Critères candidat
+Langues Anglais (Courant)
+Diplôme préparé Bac+5 - Diplôme École d'ingénieurs
+Formation recommandée 3ème année d'école d'ingénieur ou 2ème année de master
+
+Demandeur
+Disponibilité du poste 01/02/2019
+
+

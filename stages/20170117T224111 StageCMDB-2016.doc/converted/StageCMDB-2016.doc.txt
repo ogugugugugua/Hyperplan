@@ -1,0 +1,93 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Référence document : FOFO0050
+
+Le groupe SIGMA (800 collaborateurs), spécialisé dans l'édition de logiciels, le conseil, l'intégration, et l'infogérance, est devenu un acteur incontournable sur son marché. 
+En plaçant l’homme au cœur de sa démarche, SIGMA s’appuie sur 40 années d’expérience pour proposer à ses clients des projets innovants, un service de qualité et contribuer à la création de valeur.
+Sigma vous propose de rejoindre sa Direction Infogérance :
+
+STAGE : Développement web d’une application de gestion des données clients (CRM) (Java/J2E/Php/JS)
+
+
+
+CONTACT Renseignements 
+
+Référence : ST17IITI
+
+NOM Prénom : GOBILLOT Damien 
+
+Ecrire à : dgobillot HYPERLINK "mailto:smorvan@sigma.fr" @sigma.fr 
+
+CONTACT – Candidature 
+
+ HYPERLINK "http://www.sigma.fr" www.sigma.fr
+ 
+Rubrique carrières
+
+Groupe SIGMA
+Direction des Ressources Humaines
+
+La Gesvrine - 8 rue Newton
+CS 84533 - 44245
+La Chapelle sur Erdre Cedex
+
+Tél : 02 40 37 14 00
+
+
+
+CONDITIONS
+
+Durée : 5-6 mois
+
+Lieu : Nantes 
+
+
+
+à vos talents !
+
+Missions
+
+Dans le cadre de son activité, la direction de l’intégration collecte les informations techniques de configuration des clients dans des « fiches de configuration » au format bureautique. Cette gestion permet de formaliser et centraliser l’information mais rend la recherche parfois complexe et peu efficace. L’objet du stage consiste à faire évoluer l’existant vers une solution plus souple et performante notamment dans la recherche et la présentation des données.
+
+Le stage se décompose en trois phases :
+
+Analyse de l’existant et collecte des informations (environ 2 semaines)
+Cette phase couvre la prise de connaissance de l’existant et l’identification des informations clés contenues dans les fiches mais aussi l’analyse des besoins complémentaires par l’interview des intervenants techniques
+
+Conception de la solution (environ 3-4 mois)
+Après avoir analysé les outils du marché, le stagiaire devra proposer une solution couvrant le périmètre identifié lors de la première phase. En complément, un outil d’alimentation sur la base des fiches existantes devra être réalisé.
+
+Déploiement et reprise de données (environ 1-2 mois)
+Une fois la solution réalisée et validée, elle sera déployée puis alimentée par l’outil de reprise de données
+
+
+Profil
+
+Niveau d’étude souhaité : Bac +4/5 Informatique ou avec une composante informatique forte.
+
+Compétences mises en œuvre : 
+-	Force de proposition
+-	Analyse et synthèse
+-	Prise de recul
+-	Autonomie
+-	Qualité relationnelles
+
+-	Au moins une technologie Web maitrisée (PHP / J2E / RoR / JS …)
+
+
+
+Date de révision: 05/08/2013 rév A
+
+
+

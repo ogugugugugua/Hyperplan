@@ -1,0 +1,85 @@
+        Transformation afﬁne d’image avec précision arbitraire
+                     Thématiques : Géométrie discrète et preuves formelles
+                         Sujet de stage de niveau master (printemps 2016)
+
+Laboratoire d’accueil
+ICube (UMR 7357) CNRS-Univ. de Strasbourg http://icube.unistra.fr
+Boulevard Sébastien Brant, BP 10413, 67412 Illkirch Cedex
+
+
+Encadrement
+Nicolas Magaud (magaud@unistra.fr), bur. C126, tel : 03 68 85 44 66, équipe IGG, ICube
+Marie-Andrée Da Col (dacolm@unistra.fr), bur. C226, tel : 06 86 08 00 85, équipe MIV, ICube
+Loïc Mazo (mazo@unistra.fr), bur. C219, tel : 03 68 85 44 96, équipe MIV, ICube
+
+Mots-clefs : Géométrie discrète, Transformation afﬁne discrète, Sage, Python, preuves formelles, Coq
+
+Présentation
+    L’utilisation de transformations afﬁnes ou linéaires – les rotations, symétries, homothéties, transvec-
+tions, etc. – est une opération courante en traitement d’image. Ces transformations sont associées à des
+matrices à coefﬁcients réels. Parce que les nombres ﬂottants ne peuvent pas coder les nombres réels, mais
+seulement un nombre ﬁni de rationnels, les implantations des transformations afﬁnes ont le plus souvent
+des propriétés algébriques (bijectivité, . . .), topologiques (connexité, . . .) et géométriques (conservation
+de la distance,. . .) différentes des transformations qu’elles sont sensées représenter.
+
+
+
+
+             F IGURE 1 – Exemple de transformation discrète (ici une rotation) d’une image
+
+    Les applications quasi-afﬁnes (souvent abrégées AQA) [CBC09] sont les équivalents discrétisés des
+applications afﬁnes. Elles permettent de représenter, par des matrices à coefﬁcients rationnels, des trans-
+formations afﬁnes ou linéaires, comme par exemple des rotations discrètes [NKPT13] (telles que celle
+présentée dans la Figure 1).
+    Une Ω-AQA [ACF+ 14] peut être vue comme une suite de ces applications quasi-afﬁnes dont les co-
+efﬁcients (rationnels) se rapprochent de plus en plus de l’application réelle. Cette représentation permet
+à la fois de gérer l’aspect discret de l’espace considéré et de faire du calcul exact en se basant sur un mo-
+dèle discret du continu utilisant uniquement des entiers : la droite d’Harthong-Reeb [CWF+ 12, MCF14].
+
+    Durant ce stage, on cherchera d’abord à établir les propriétés mathématiques des Ω-AQA et de leur
+implantation. On modélisera ensuite à l’aide du système d’aide à la preuve Coq [Coq14, BC04] ces
+applications et on en démontrera formellement les propriétés de base.
+    Plusieurs algorithmes basées sur les Ω-AQA et implantant des transformations d’image numérique
+sont en cours de développement en Python/Sage. Une première étape consistera à les manipuler aﬁn
+de conjecturer certaines propriétés de ces transformations à base d’Ω-AQA, notamment vis-à-vis de la
+transformation réelle de référence. Il s’agira alors de décrire les algorithmes utilisés en Coq et d’en
+prouver formellement les propriétés.
+    Si le temps le permet, on pourra également étudier l’extension à la 3D de ces algorithmes et éven-
+tuellement énoncer et prouver les propriétés associées.
+
+
+Références
+[AC07]   Eric Andrès and Marie-Andrée Jacob-Da Col. Transformations afﬁnes discrètes. In Da-
+         vid Cœurjolly, Annick Montanvert, and Jean-Marc Chassery, editors, Traité IC2-Hermès :
+         Géométrie discrète et images numériques, chapter 7, pages 169–186. Hermès, 2007.
+    +
+[ACF 14] Eric Andrès, Marie-Andrée Da Col, Laurent Fuchs, Gaëlle Largeteau-Skapin, Nicolas Ma-
+         gaud, Loïc Mazo, and Rita Zrour. Les Ω-AQA : Représentation discrète des applications
+         afﬁnes. In Journées du groupe de travail Géométrie Discrète, pages –, 2014. Reims Image
+         2014.
+[BC04]   Yves Bertot and Pierre Castéran. Interactive Theorem Proving and Program Development,
+         Coq’Art : The Calculus of Inductive Constructions. Springer, 2004.
+[CBC09] David Coeurjolly, Valentin Blot, and Marie-Andrée Jacob-Da Col. Quasi-Afﬁne Transfor-
+         mation in 3-D : Theory and Algorithms. In Petra Wiederhold and Reneta P. Barneva, editors,
+         IWCIA, volume 5852 of Lecture Notes in Computer Science, pages 68–81. Springer, 2009.
+[Coq14]  Coq development team. The Coq Proof Assistant Reference Manual, Version 8.4.pl4. INRIA,
+         2014.
+     +
+[CWF 12] Agathe Chollet, Guy Wallet, Laurent Fuchs, Eric Andres, and Gaëlle Largeteau-Skapin.
+         Foundational Aspects of Multiscale Digitization. Theor. Comput. Sci., 466 :2–19, 2012.
+[MCF14] Nicolas Magaud, Agathe Chollet, and Laurent Fuchs. Formalizing a Discrete Model of
+         the Continuum in Coq from a Discrete Geometry Perspective. Annals of Mathematics and
+         Artiﬁcial Intelligence, 2014. Accepted. To appear.
+[NKPT13] Phuc Ngo, Yukiko Kenmochi, Nicolas Passat, and Hugues Talbot. Combinatorial structure
+         of rigid transformations in 2D digital images. Computer Vision and Image Understanding,
+         117(4) :393–408, 2013.
+
+Financement
+   Sujet ﬁnancé par le projet TrADiCont : Transformations Afﬁnes Discrètes pour la représentation du
+Continu (projet interne au laboratoire Icube 2014-2015, prolongé en 2016).
+
+Compétences requises
+    Ce sujet nécessite un bon niveau en programmation (Python, Ocaml, Sage) ainsi que de bonnes bases
+en mathématiques. Des connaissances en géométrie discrète ou en preuves formelles (Coq) seraient un
+plus.
+

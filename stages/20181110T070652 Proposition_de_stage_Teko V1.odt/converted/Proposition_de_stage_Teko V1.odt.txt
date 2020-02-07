@@ -1,0 +1,45 @@
+Réflexion autour de la persistance de TeKo
+Des gestionnaires de tests et de recette applicative existent (Quality center, Testlink, …) mais peu d'entre eux sont sous Licence Libre. La volonté de Code Lutin est de développer un outil simple pour suivre l'avancement d'une campagne de tests et faciliter le travail des testeurs. Ce logiciel doit être facilement compréhensible par tous afin de pouvoir impliquer dans les tests un maximum de personnes des équipes projets, surtout ceux connaissant les besoins et les contraintes fonctionnels. 
+Teko est la solution que nous souhaitons apporter, sous la forme d'une application web, dont l'environnement technique est actuellement composé de : RiotJS, Spgeed, JasperReport.
+
+Le développement de Teko a déjà débuté pour aboutir à une première version proposant les fonctionnalités de base. Cette première version se repose sur la base de données relationnelle PostgreSQL. 
+
+Avec cette première version, et avant d'aller plus loin dans le développement, il parait opportun de réévaluer les besoins de TeKo en terme de format et sauvegarde des données.
+http://www.codelutin.com/page-stage-pollen.html
+
+Basé à Saint Sébastien-sur-Loire (44)
+Durée du stage : 5 mois
+Principales missions
+Les principales missions du stage consisteront en :
+	•	Étude et synthèse des différents systèmes de persistance ;
+	•	Définition et mise en place de métriques ;
+	•	Propositions et implantations de solutions ;
+	•	Synthèse des résultats.
+Technologies utilisées :
+	•	Java
+	•	PostgreSQL
+	•	Spgeed
+	•	MongoDB / CouchDB / Redis
+	•	Neo4j / OrientDB
+Qualités recherchées :
+	•	Autonomie
+	•	Sociabilité
+	•	Capacité d’analyse
+	•	Rigueur
+	•	Argumentation
+	•	Documentation
+Profil recherché
+Nous recherchons une personne motivée et force de proposition.
+Niveau(x) d’études : Bac +4/5
+Autre 
+Gratification : 26,25 €/jour travaillé
+Présentation de la société 
+Créée en 2002, Code Lutin propose des projets de développement informatique en se basant sur des briques de logiciels libres. Code Lutin a fait le choix d’utiliser des technologies robustes, fiables et pérennes dotée de larges librairies : Java, JavaScript.
+Nous proposons à nos clients des projets au forfait, de la régie et de la TMA. Nous travaillons avec des acteurs majeurs du marché sur différents secteurs d’activité : Vewd (télé connectées), Inra, CNRS, Ifremer, My Money Bank, Agence Française pour la Biodiversité …
+Nous invitons toujours nos clients à construire et à travailler avec eux pour que l'application soit la plus conforme à leurs attentes ainsi qu'à celles des utilisateurs finaux. Cela nous permet également de créer une relation de confiance, indispensable selon nous à la réussite des projets. Au-delà des projets de nos clients, nous développons également en interne certaines solutions, libres, nous permettant de répondre à nos besoins spécifiques (par exemple la prise de décision collective avec Pollen[1], la gestion du temps avec WID[2]) et d’effectuer une veille technologique constante ainsi que de la R&D.
+
+[1] https://pollen.cl [2] https://wid.chorem.com
+Ça vous intéresse ? 
+Envoyez votre CV et votre lettre de motivation à : stage@codelutin.com en indiquant le titre de l’offre. 
+Pour en savoir plus sur Code Lutin, et cette offre de stage : http://www.codelutin.com/nous-rejoindre.html
+

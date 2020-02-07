@@ -1,0 +1,98 @@
+                                              STAGE
+
+
+            INGENIEUR DEVELOPPEMENT INFORMATIQUE H/F
+
+
+                      AUTOMATISATION ET SIMPLIFICATION
+                     DES PROCESSUS DE BUILD APPLICATIF
+
+Référence société : Stg2016-USINE
+Date de publication : 30/09/2016
+Secteur d'activité : Ingénierie-R&D
+Lieu de travail : Nantes
+Niveau : Stage de fin d’études (bac+5)
+Durée de stage : 4 à 6 mois minimum
+Date de début de stage : dès que possible
+
+
+
+Description de la société
+
+NEXTFLOW Software est une société innovante spécialisée dans l’édition de logiciels dédiés à la
+simulation numérique, plus particulièrement en hydrodynamique et en mécanique des fluides.
+
+Elle réalise, en partenariat avec l’Ecole Centrale Nantes, le développement de plusieurs logiciels
+performants, et à haute valeur ajoutée. NEXTFLOW Software propose des solutions à ses clients sur
+les secteurs maritime, automobile, aéronautique, des procédés ou de l’énergie.
+
+Notre valeur ajoutée est liée à notre gamme de logiciels innovants et à notre équipe qui se compose
+aujourd'hui d'une dizaine d'ingénieurs et de docteurs, avec des perspectives de développement
+importantes pour les prochaines années.
+
+Dans cette optique, portée par l’ambition de devenir un acteur majeur de l’édition de solutions de
+simulation numérique, NEXTFLOW Software recrute plusieurs stagiaires ingénieurs développeurs.
+
+
+Poste et missions
+
+Au sein de l’équipe architecture de NEXTFLOW Software, votre mission consistera à concevoir des
+outils de haut niveau permettant la simplification de la construction de nos logiciels en environnements
+hétérogènes (multilangages, multiplateformes), dans une architecture modulaire orientée Frameworks.
+
+Dans ce contexte, vous devrez :
+    Capturer les besoins internes ;
+    Spécifier les interfaces et méthodes de construction ;
+    Concevoir et développer les outils (préprocesseur, pré-compilateur, …) ;
+    Intégrer les outils à la chaîne d’intégration continue ;
+    Former les développeurs aux évolutions proposées.
+
+Les résultats de vos travaux seront directement intégrés aux briques stratégiques de notre forge
+logicielle.
+Pour la réussite de ce projet, vous collaborerez avec les différentes équipes de l’entreprise (architecture,
+solveurs innovants, produits).
+
+
+Contexte Technologique
+
+L’usine logicielle permet de produire des logiciels à vocation industrielle et scientifique, et utilise de
+nombreuses briques technologiques, aussi bien pour la cross-compilation que pour les tests unitaires
+(Vagrant, Docker, CMake, Git, Jenkins, drone…)
+
+Les compétences qui seront acquises pendant le stage :
+     Une méthodologie de suivi de projet et la capacité à travailler en équipe et transmettre ses
+       compétences ;
+     Le développement de composants techniques complexes (préprocesseurs, compilateurs) ;
+     La connaissance des architectures orientées Frameworks et composants ;
+     Une expertise technique dans la production d’applications multiplateformes ;
+
+Vous serez accompagné tout au long de votre stage par l’équipe de développement sur laquelle vous
+pourrez vous appuyer, et effectuerez votre stage sous la responsabilité d’un ingénieur qui vous
+encadrera et suivra votre progression.
+
+
+PROFIL RECHERCHE
+Vous êtes élève ingénieur d’une école spécialisée en informatique ou en option informatique, vous êtes
+passionné par la programmation et vous souhaiteriez vous forger une expérience dans le
+développement technique, et l’automatisation/encapsulation des processus de construction des
+applications.
+
+Les connaissances idéalement souhaitées pour ce stage sont :
+           CMake
+           Git
+           Préprocesseur et Compilateurs
+           C++
+           Script Shell
+Les connaissances appréciées sont :
+           Principes d’intégration continue
+           Développement Cross Platform (Linux, Windows, Mac)
+           Fortran
+           Python
+
+Anglais Technique exigé.
+
+
+CONTACT
+Merci d’envoyer votre candidature (CV + lettre de motivation) par email : stage@nextflow-software.com
+en précisant les références du stage et objet.
+

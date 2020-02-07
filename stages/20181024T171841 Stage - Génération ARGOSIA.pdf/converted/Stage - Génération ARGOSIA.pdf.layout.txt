@@ -1,0 +1,94 @@
+                                                                                                                                                                   OFFRE
+                                                                                                                                                                  D’EMPLOI
+
+
+                                                                                                                                                      Lieu : TOULOUSE
+                                                                                                                                                      Date de démarrage: FEV / MARS 2019
+
+
+
+                                                                                                      OBJET : OFFRE DE STAGE (6mois)
+Ce document est la propriété exclusive de NEXEYA FRANCE; il ne peut être utilisé sans autorisation
+
+
+
+
+                                                                                                                             OFFRE DE STAGE INFORMATIQUE
+                                                                                                                Génération automatique d’interfaces de bus logiciel (DDA/MDA)
+
+                                                                                                     NEXEYA est au cœur de l'économie de l'innovation avec plus de 800 techniciens et ingénieurs et une présence croissante à l’international.
+                                                                                                     Partenaire des plus grands secteurs industriels, NEXEYA intervient sur les enjeux-clés de ses clients dans des secteurs aussi variés que la
+                                                                                                     Défense, l'Aéronautique, le Spatial, l’Industrie, l’Energie, le Transport, les Télécoms et la Finance.
+
+                                                                                                     Nos activités d'ingénierie industrielle et technique, de réalisation de produits et de services fédèrent des métiers multiples et une large
+                                                                                                     diversité d'expertises.
+
+                                                                                                     Descriptif du stage : Conception et réalisation d’un générateur automatique d’interfaces liées à un bus logiciel
+
+                                                                                                     NEXEYA, pour sa gamme de systèmes de contrôle de mission tactique ARGOSIA, utilise un bus logiciel permettant de véhiculer les
+                                                                                                     informations entre chaque machine composant ARGOSIA.
+                                                                                                     Des besoins d’interconnecter le bus avec plusieurs technologies communes apparaissent, en particulier des bases de données (SQL), des
+                                                                                                     langages de programmation (C++, Python), des IHM (Qt, HTML 5), etc.
+                                                                                                     Des composants supplémentaires peuvent être ajoutés au système de génération : système de cartographie Carmenta Engine (lecture depuis
+                                                                                                     l’ICC des éléments graphiques, en C++), interface homme-machine Qt (format « UI », XML), couche de pilotage Python pour création de
+                                                                                                     scripts, etc. Ces éléments sont optionnels pour le stage, mais leur implémentation doit être prévue. Le système de génération doit être
+                                                                                                     extensible de façon quasi-illimitée.
+                                                                                                     Les données sources du générateur seront exclusivement sous forme d’un fichier XML, pouvant être lui aussi généré depuis un format plus
+                                                                                                     simple à utiliser pour des non-spécialistes (en particulier un classeur Excel).
+                                                                                                     À partir de l’existant (interconnexion manuelle des éléments et génération partielle), le but est d’aboutir à une génération complète de bout en
+                                                                                                     bout de la chaîne, afin que seules les couches spécifiques métier soient à réaliser manuellement et non plus le transfert et la gestion des
+                                                                                                     données, source d’erreurs et d’oublis lors des modifications des structures véhiculées par le bus logiciel.
+
+                                                                                                     À ce titre, le stagiaire aura pour principales activités :
+                                                                                                          •      Prise en main de l’architecture existante, mise en avant des défauts existants et des problèmes engendrés.
+                                                                                                          •      Conception des interfaces pour chaque technologie existante.
+                                                                                                          •      Création du schéma XSD de tous les nouveaux types de documents XML.
+                                                                                                          •      Export des données Excel vers le format XML servant de point d’entrée au système de génération.
+                                                                                                          •      Création du système de génération, incluant son extensibilité à d’autres technologies d’interconnexion.
+                                                                                                          •      Génération de code pour chaque technologie d’interface requise, incluant les fichiers de type projet/makefile/scripts.
+                                                                                                          •      Génération du code d’interface deux à deux, utilisant les interfaces précédentes.
+                                                                                                          •      Des scripts d’auto-test peuvent être générés pour permettre des tests de non-régression rapides à mettre en œuvre.
+                                                                                                          •      L’ensemble de la génération automatique doit être automatisable en ligne de commande.
+                                                                                                          •      Le résultat de la génération automatique doit être identique à chaque exécution (en cas d’utilisation d’inférences notamment).
+                                                                                                          •      Le système de génération peut être portable, mais la cible principale est un PC sous Windows 7+.
+
+
+
+
+                                                                                                                                                 NSQ-F-018 Ed B Offre emploi                                                             Page : 1 / 2
+Ce document est la propriété exclusive de NEXEYA FRANCE; il ne peut être utilisé sans autorisation
+
+
+
+
+                                                                                                     Profils recherchés
+
+                                                                                                     Elève ingénieur de niveau BAC +4/5, avec de solides connaissances dans les technologies requises (XML, C++, SQL), connaissance d’une
+                                                                                                     ou plusieurs technologies annexes (VBA, Qt, Python, XSD, HTML5) et familier avec les environnements Windows et Linux.
+
+                                                                                                     Idéalement, connaissance des technologies MDA/DDA et des outils associés (ex : XSLT, Xpand, Xtend, …). Toutefois, la génération de
+                                                                                                     code à proprement parler peut être faite avec toute technologie compatible avec les exigences générales (ex : PHP).
+                                                                                                     Des technologies annexes (Doxygen, PHP, batch, shell, Innosetup, etc.) sont un plus, mais ne sont pas requises : comme les autres
+                                                                                                     technologies citées, elles seront encadrées par des spécialistes qui fourniront un cadre spécifique permettant au stagiaire de se concentrer
+                                                                                                     sur la génération de code à proprement parler.
+
+                                                                                                     Le stagiaire doit avoir envie de travailler dans un contexte fortement technique impliquant l’apprentissage de multiples technologies.
+                                                                                                     Zone géographique : Toulouse (Haute-Garonne), zone sud-ouest (ZI Thibaud).
+                                                                                                     Durée envisagée : 6 mois
+
+
+
+                                                                                                     Pour postuler :
+
+                                                                                                     Si vous êtes vous-même intéressé(e) ou si vous connaissez quelqu’un dans votre entourage intéressé(e) par cette offre de stage, faites-nous
+                                                                                                     parvenir votre CV accompagné obligatoirement d’une lettre de motivation (en indiquant clairement vos dates de disponibilité)
+
+
+
+                                                                                                               Postuler directement sur notre site : https://recrutement.nexeya.com/?offerid=141
+
+
+
+
+                                                                                                                                                NSQ-F-018 Ed B Offre emploi                                                           Page : 2 / 2
+

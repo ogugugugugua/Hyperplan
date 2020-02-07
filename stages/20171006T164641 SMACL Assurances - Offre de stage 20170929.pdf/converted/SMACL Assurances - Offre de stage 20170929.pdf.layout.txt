@@ -1,0 +1,154 @@
+ Offre de stage
+
+Mission informatique
+
+
+   29 septembre 2017
+SMACL Assurances                             Offre de stage                          29 septembre 2017
+                                          Mission informatique
+
+
+
+
+1.     Description de l'offre
+La Direction des Systèmes d'information de SMACL Assurances propose un sujet de stage dans le
+cadre d'un projet informatique :
+
+
+1.1. Étude et mise en œuvre d'un extranet de saisie de parc patrimoine
+
+      Sujet de stage
+
+Vous êtes chargé de mettre en place une application permettant l'exposition des étapes de calcul
+de tarification d'un devis d'assurance. Le projet débutera par le recueil du besoin et sera suivi
+d'une préconisation de solution, de la mise en œuvre de la solution retenue, des tests et de la mise
+en exploitation. La technologie utilisée sera en java. Vous aurez à rédiger des spécifications, réali-
+ser des travaux de développement, des tests unitaires et d'intégration.
+
+
+
+      Profil requis
+
+Vous suivez une formation de grade master, et vous maîtrisez la conception par objet.
+
+
+      Environnement technique
+
+Socles techniques : Angular JS, Spring, JSF, Hibernate, langage SQL.
+
+
+2.     Contexte
+
+2.1. Présentation de SMACL Assurances
+       Voir en annexe la plaquette d’entreprise.
+       Société d’assurance mutuelle à cotisations fixes, SMACL Assurances est une entreprise à
+       conseil de surveillance et directoire, régie par le Code des assurances
+       RCS n° 301 309 605
+       Siège social :
+            SMACL Assurances
+            141 avenue Salvador-Allende
+            79000 Niort
+       Mission : proposer des garanties et des services d’assurance adaptés aux préoccupations et
+       aux contraintes des collectivités publiques, des associations et des acteurs de la vie pu-
+       blique.
+
+
+
+
+                                                                                             Page 2/4
+SMACL Assurances                                    Offre de stage                              29 septembre 2017
+                                                 Mission informatique
+
+
+      SMACL Assurances assure la famille territoriale et les associations pour lesquelles elle pro-
+      pose des garanties IARD1 :
+      – les personnes morales de droit public : collectivités territoriales, établissements publics
+        régionaux, départementaux et communaux ;
+      – les personnes morales de droit privé et, d’une façon générale, tout organisme gérant un
+        service public ou d’intérêt général : les institutions d’utilité publique, les associations, les
+        sociétés d’économie mixte et les sociétés coopératives ;
+      – les personnes physiques : élus et agents territoriaux retraités ou en activité,
+        administrateurs, adhérents et personnel des personnes morales de droit privé.
+      Date de création : 1974
+      Effectif au 30/04/2017 : 807 salariés
+      Chiffre d’affaires 2015 : 372,6 M€
+
+
+2.2. Présentation de la Direction des Systèmes d’information
+      Effectif au 29/09/2017: 72 personnes.
+
+     Contacts
+      DSI : M. Bertrand Delamarre
+      Assistante de gestion : Mme Magali GIRARD
+      Adresse postale :
+           SMACL Assurances
+           Département Systèmes d'information
+           CS 20000
+           79031 NIORT CEDEX 9
+      Courriel : dsi@smacl.fr
+
+     Organigramme
+
+
+
+
+                                Direction des Systèmes d'information
+
+
+               Cellule planification, pilotage                          Sécurité des systèmes
+                   et performance du SI                                     d'information
+
+
+                   Assistance de gestion                                   Contrôle interne
+
+
+
+
+              Pôle
+                                                                                       Pôle Technique
+    Études & Développements
+
+1   IARD = incendie, accidents, risques divers (dommages aux biens, multirisques habitation, automobile,
+    etc.)
+
+                                                                                                        Page 3/4
+SMACL Assurances                           Offre de stage                        29 septembre 2017
+                                        Mission informatique
+
+
+
+
+3.   Modalités particulières
+
+3.1. Déroulement du stage
+
+La mission se déroulera à Niort (Deux-Sèvres), au siège social de SMACL Assurances, au sein du
+service Souscription contrats Personnes Morales de la Direction des Systèmes d'information.
+La durée du stage proposé est de plusieurs mois.
+
+
+
+3.2. Envoi de la réponse
+     La réponse est à envoyer :
+     ▪ par voie postale à :
+       SMACL Assurances
+       Direction des Systèmes d'information
+       CS 20000
+       79031 NIORT CEDEX 9
+     ▪ par courriel à :
+       dsi@smacl.fr
+
+
+3.3. Contenu de la réponse
+     La réponse contiendra une présentation du candidat (avec CV et lettre de motivation).
+
+
+
+3.4. Déroulement de la consultation
+     Les candidats sélectionnés seront invités à un entretien sur rendez-vous.
+
+
+
+
+                                                                                         Page 4/4
+

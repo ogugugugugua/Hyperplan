@@ -1,0 +1,42 @@
+STAGE R&I : Participation au développement d’outils logiciel (H/F)
+
+Référence du stage : SMT-EST-26                         Durée : 6 MOIS
+Identité du Pilote R&I : Cédric DUSART                  Lieu du stage : Montbéliard
+Secteur d’activité : Automobile
+
+             PRESENTATION DE L’ENTREPRISE
+SEGULA Technologies est un groupe d’ingénierie présent mondialement, au service de la
+compétitivité de tous les grands secteurs industriels : automobile, aéronautique, énergie, ferroviaire,
+naval, pharmacie et pétrochimie. Présent dans 22 pays, fort de ses 80 implantations dans le monde,
+le Groupe privilégie une relation de proximité avec ses clients grâce aux compétences de ses 7000
+collaborateurs. Ingénieriste de premier plan plaçant l’innovation au cœur de sa stratégie, SEGULA
+Technologies mène des projets d’envergure, allant des études jusqu’à l’industrialisation et la
+production.
+
+             DESCRIPTIF DE POSTE
+Dans le cadre de nos projets de Recherche et Innovation au sein de notre agence de Montbéliard,
+vous travaillerez sur le développement d’une ou plusieurs applications logicielles pour nos métiers.
+Les applications concernées pourront être :
+    - Logiciel de dimensionnement pour moteur électrique : poursuite du développement d’une
+        interface et gestion de projet à partir d’éléments définis par des études antérieur
+    - Finalisation d’une application de gestion pour les plans d’expériences
+    - Développement d’un outil de gestion de la connaissance pour des modèles de composants
+        énergétiques
+    - Base de données de matériaux et ses interfaces
+
+Les développement seront réalisé avec Rad Studio/Lazarus en c++ /pascal objet pour Windows/Linux.
+
+             PROFIL :
+De formation bac 4/+5 avec une spécialisation en génie logiciel.
+
+             MOTS CLEFS :
+    -   Génie logiciel, IHM
+
+Merci de nous faire parvenir votre candidature sous la référence ST_xx à l’adresse suivante :
+cedric.dusart@segula.fr
+
+
+
+
+            Copyright © SEGULA Technologies – Tous droits réservés – Octobre 2015
+

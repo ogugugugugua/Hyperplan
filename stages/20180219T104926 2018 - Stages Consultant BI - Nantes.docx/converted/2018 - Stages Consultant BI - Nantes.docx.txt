@@ -1,0 +1,63 @@
+Offres de stage 2018 en Business Intelligence
+
+
+
+
+Keyrus est un acteur international de la transformation et de la performance des entreprises qui ambitionne de se positionner comme le partenaire stratégique de ses clients en les accompagnant dans l’analyse et la valorisation de leurs données, le développement et la maîtrise de leur expérience digitale. 
+
+Keyrus emploie à ce jour plus de 2800 collaborateurs dans plus de 15 pays sur 4 continents  et accompagne ses clients dans l’optimisation de leur efficacité et de leur performance en leur offrant une gamme complète de prestations dans les domaines suivants : 
+# Conseil en Management 
+# Data Intelligence (BI, EPM, Big Data & Analytics, Smart BI, Data Management)
+# Digital Business   
+
+Dans ce cadre nous recherchons un stagiaire Business Intelligence pour notre agence de Nantes.
+
+
+Vous êtes ambitieux et souhaitez intégrer un groupe agile et international où vos qualités professionnelles seront reconnues et cultivées, où vos qualités personnelles seront développées et pourront s’épanouir, où vos compétences seront élargies et enrichies. 
+
+Pour cela nous vous proposons de nous rejoindre et d’intégrer l’entité consulting Nantes, de taille humaine, spécialiste des problématiques Data, avec un management de proximité, des équipes d’expertise reconnues, un développement de carrière large et des opportunités certaines, où votre projet professionnel est valorisé et travaillé avec votre manager tout au long de votre stage et de votre parcours chez Keyrus.
+
+Nos maitres mots sont AGILITE, EXPERTISE, DIVERSITE.
+
+Vos missions se feront en majorité chez nos clients nantais et de la région, auprès des équipes et projets de nos clients, au plus proche des problématiques métiers.
+
+
+
+Nos Offres de Stage
+Intégré au sein de nos équipes, vous interviendrez sur toutes les phases liées à un projet décisionnel :
+        La modélisation de bases de données
+        La réalisation des chaînes d’alimentation
+        La conception et la réalisation des restitutions BI (reporting opérationnel et décisionnel) /pilotage (indicateur de performance)
+        La recette et le déploiement des solutions réalisées
+        Accompagnement utilisateurs (formation, guide d’utilisation, communication autour du projet…). 
+
+Cela vous permettra d’acquérir des compétences techniques sur des technologies récentes mais également des compétences fonctionnelles en répondant aux problématiques métiers de nos clients.
+Vous possédez plusieurs compétences de la liste suivante :
+- Connaissance de technologies Big Data : Hadoop (MapR, HortonWorks, Cloudera), Spark, NoSQL, Kafka, Map Reduce, etc.
+- Connaissance d’un ou plusieurs ETL (Talend, Datastage, Informatica, etc.)
+- Solides compétences en langages de programmation tels que R, Python, SAS
+- Connaissance en base de données / stockage (PostgreSQL, Hive,  MongoDB, Cassandra, ElasticSearch, Oracle …)
+- Compétences Systèmes (Linux, Windows) 
+Votre stage est un stage de pré-embauche, et dans ce contexte, vous aurez l’opportunité de démontrer vos talents au sein d’une agence en pleine croissance.
+Vous appréciez de travailler en équipe et aimez relever de nouveaux défis, alors rejoignez-nous !
+
+
+
+Profil recherché
+De formation BAC+5, vous :
+-	Maîtrisez les bases du décisionnel : langage SQL et modélisation (la connaissance d’un ETL et/ou d’un outil de restitution est un plus),
+-	Disposez d’un excellent relationnel et appréciez le travail en équipe,
+-	Êtes autonome, rigoureux(se) et aimez être challengé(e),
+- 	Êtes à l’aise à l’oral et disposez de bonnes capacités rédactionnelles.
+
+Votre parcours de stagiaire 
+A votre arrivée chez Keyrus, un manager dédié au suivi des stagiaires vous sera présenté. Ce manager est lui-même consultant chez Keyrus, et connait parfaitement notre métier. Il sera votre référent tout au long de votre stage, pour votre suivi de mission, point avec votre client, difficultés rencontrées, besoins de formations, etc.
+
+Des points réguliers seront faits avec la mise en place de soutenances intermédiaires internes à Keyrus, visant à vous aider dans la prise de parole et la présentation des sujets de votre stage, et ainsi vous préparer au mieux à votre soutenance finale.
+
+L’objectif du stage est de vous donner une expérience professionnelle très concrète et très proche des missions que réalisent nos consultants.
+
+Votre stage est un stage de pré-embauche, et dans ce contexte, représente un enjeu majeur pour Keyrus dans la sélection de ses futurs talents. Au-delà de vos compétences, votre « savoir-être » sera également apprécié. Enfin, votre projet professionnel est un point fondamental pour Keyrus, et vous devrez démontrer que vous savez ce que vous souhaitez faire, et que votre implication est réelle pour atteindre vos objectifs personnels. 
+
+Pour postuler : aurore.gaurin@keyrus.com
+

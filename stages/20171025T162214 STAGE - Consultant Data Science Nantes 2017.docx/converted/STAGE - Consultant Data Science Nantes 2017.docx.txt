@@ -1,0 +1,33 @@
+
+
+
+
+STAGE CONSULTANT DATAMINING/DATA SCIENCE
+
+
+Groupe international spécialisé en conseil et technologies innovantes, Micropole recrute un consultant data science, en stage. 
+
+Acteurs incontournables de la transformation digitale, le pilotage de la perfomance et la gouvernance de la donnée, les collaborateurs Micropole ont des compétences multiples autour de la BI, de l’élaboration de stratégies d’aide à la décision, du Big Data et de la Data Science.
+Micropole Grand-Ouest compte développer ses compétences autour de l’expérience Client : conseil stratégique, Data Science, CRM, Design/UX, conseil et production techniques. 
+Vos missions :
+
+Encadré par des collaborateurs expérimentés, vous travaillerez au sein de l’équipe data analytics et participerez au développement de l’offre. En fonction des projets clients en cours au moment de votre stage, vous serez amené à travailler sur les missions suivantes : 
+	•	Analyse d’une problématique métier et mise en œuvre de l’étude Data Science répondant à cette problématique
+	•	Elaboration de la chaine de préparation des données en vue d’une étude, comportant de la donnée structurée et/ou de données innovantes (Big data)
+	•	Modélisation statistique pouvant aller de l’analyse descriptive jusqu’au machine learning, en passant par l’analyse factorielle, la classification, le scoring, etc
+	•	Industrialisation et mise en œuvre des réalisations du projet
+	•	Restitution, mise en forme des résultats et recommandations
+
+Ce projet vous permettra d'acquérir des compétences sur toutes les étapes d’un projet, et plus particulièrement en data science.
+
+Votre profil :
+
+A l’aise avec les nouvelles technologies, vous êtes en dernière année d’école d’ingénieurs ou d’université. 
+Vous avez le goût du travail en équipe, et êtes organisé et rigoureux. 
+Vous êtes bien sûr passionné par le digital et êtes en veille permanente sur les évolutions du marché.
+Vous savez être force de proposition et avez une vraie volonté de travailler sur des projets stratégiques.
+Vous possédez des compétences impératives sur plusieurs outils : SAS, R, Python, Dataiku.
+Vous avez une forte sensibilité pour la donnée, la statistique et le marketing
+
+Rejoindre Micropole, c’est se donner l’opportunité de travailler dans une entreprise en plein essor aux perspectives d’évolution réelles. Depuis 2015, Le Groupe Micropole est labelissé Happy Trainees et Happy at Work for Starters. En 2017, c'est la consécration : le Groupe est classé 8ème des entreprises où il fait bon de démarrer sa carrière, partout en France.
+Pour candidater, merci d’envoyer votre CV à : recrutement.ouest@micropole.com

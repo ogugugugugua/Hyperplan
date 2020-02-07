@@ -1,0 +1,97 @@
+        Mission : Participation à la réalisation du projet Zephir Contrat
+Localisation : Ivry-sur-Seine
+Type de contrat : stage de 5 à 6 mois
+Niveau d'études : bac+5
+Gratification : 1250€
+Début : janvier 2018
+
+ Vous désirez relever de nouveaux défis au sein d’une équipe d’experts.
+Venez bénéficier de l’accompagnement de tuteurs confirmés et impliqués!
+
+Rejoindre La Poste c'est choisir un employeur de référence développeur de talents.
+Le Groupe La Poste vous offre des missions synonymes de mobilité et de diversité, à l'image de ses 260
+000 collaborateurs répartis sur 250 filiales.
+Vous intégrerez la Direction des Systèmes d’information de La Banque Postale et du Réseau La Poste.
+Les projets y sont riches et variés et visent à accompagner la transformation du Groupe La Poste. Vous
+pourrez aussi collaborer avec de nombreuses entités du sein du Groupe.
+
+
+
+
+Contexte de la mission
+La Banque Postale souhaite réaliser son ambition stratégique de développer l’activité de financement auprès des
+personnes morales, en s’appuyant sur un outil qui permet de fluidifier et sécuriser le processus global de souscription
+des crédits pour l’ensemble des marchés des personnes morales.
+Le Programme Entreprises (PENT) a la responsabilité de construire et d'adapter les briques du SI pour la
+commercialisation des offres de crédit à destination des entreprises, professionnels, collectivités et associations, en
+répondant aux exigences de délais de mise en marché, de coûts et de respect réglementaire. Ces briques couvrent
+tous les aspects du SI bancaire existant : la distribution, les référentiels, le décisionnel et le pilotage marketing, le
+prudentiel, le refinancement, les risques et la comptabilité.
+Au sein du programme Entreprises, le projet Zephir a pour mission de répondre à ces besoins de La Banque Postale,
+en mettant en place un ensemble d’applications qui permettront d’automatiser les fonctionnalités nécessaires à la
+mise en place des offres de financement, optimiser les délais de traitement des dossiers de crédit et maîtriser le risque
+opérationnel.
+Zephir est un projet structurant et ambitieux, tant par sa couverture fonctionnelle que par la diversité des produits et
+des marchés adressés. Il est découpé en briques fonctionnelles autonomes mais interdépendantes :
+1. Analyse financière (Zephir Analyse) : module d’analyse de la personne morale à partir de données financières
+externes et des informations internes détenues sur la personne morale (à travers ses documents comptables et
+fiscaux),
+2. Instruction du dossier Crédit (Zephir Demande De Financement) : module de caractérisation du dossier crédit
+3. Souscription du contrat Crédit (Zephir Contrat) : module de contractualisation et édition des lettres d’offres
+
+                                                            1/2
+
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur www.labanquepostale.fr
+                              – Rubrique « Nous rejoindre »
+Votre mission :
+Le stagiaire réalisera sa mission au sein d’une équipe dynamique et impliquée, qui dispose de compétences
+confirmées pour accompagner les stagiaires sur le plan fonctionnel, méthodologique et technologique. Ce projet lui
+donnera l’opportunité d’acquérir des connaissances sur la conduite de grands projets informatiques, sur la mise en
+œuvre des différentes phases de réalisation.
+
+Intégré dans l’équipe projet Zephir Contrat, le stagiaire participera à la réalisation des activités suivantes :
+- Conception de la solution,
+- Qualification des composants de bout en bout,
+- Rédaction de la documentation associée (Dossier de Conception Technique Détaillée, Dossier de tests, ...)
+
+Il participera également à la vie de l'équipe projet et du service :
+- Instances projets
+- Réunion d’équipe
+
+Il bénéficiera de l’encadrement du chef de projet Zephir Contrat. Une présentation des différents métiers et des
+directions de la DSI lui sera dispensée.
+
+En fonction de l’actualité et de son degré d’autonomie, les missions qui lui seront confiées pourraient évoluer durant
+la durée du stage.
+
+Son intégration à la DISFE et dans l’équipe projet lui permettront d’appréhender la réalisation de grands projets
+informatiques dans des organisations complexes.
+
+
+
+Environnement technique                                        Profil
+
+        Protocoles d’échange : PeSit, http, Https,                       Motivation,
+         FTPS, SWIFT, EBICS, …                                            intérêt pour le domaine du financement,
+        Serveur : LINUX RED Hat, UNIX                                    esprit d’analyse et de synthèse,
+        Serveur d’applications J2EE : WebSphere                          autonomie dans un contexte de travail en
+         Application Server, Weblogic Server, Jboss                        équipe,
+        Navigateur Internet : Internet Explorer,                         dynamisme et réactivité,
+         Firefox
+                                                                          organisation,
+        Base de données : DB2, Couchbase (base
+                                                                          bon relationnel.
+         Nosql), …
+        Langage : html, Java, Javascript, Cobol, …
+
+
+
+
+Pour postuler : Envoyer CV et lettre de motivation à l’adresse suivante :
+sophie.despomaderes@labanquepostale.fr
+
+                                                            2/2
+
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur www.labanquepostale.fr
+                              – Rubrique « Nous rejoindre »
+

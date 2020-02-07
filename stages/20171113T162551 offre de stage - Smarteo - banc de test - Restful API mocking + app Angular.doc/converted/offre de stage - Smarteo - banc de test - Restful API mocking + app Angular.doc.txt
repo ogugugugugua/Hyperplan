@@ -1,0 +1,98 @@
+                
+
+Mission : développement d’une API REST de mocking + app Angular
+
+Localisation : Nantes
+Type de contrat : stage de 5 à 6 mois
+Niveau d'études : bac+5
+Gratification : 1250€/mois
+Début : S1 2018
+
+Vous désirez relever de nouveaux défis au sein d’une équipe d’experts.
+
+Venez bénéficier de l’accompagnement de tuteurs confirmés et impliqués!
+	
+Rejoindre La Poste c'est choisir un employeur de référence développeur de talents.
+Le Groupe La Poste vous offre des missions synonymes de mobilité et de diversité, à l'image de ses 260 000 collaborateurs répartis sur 250 filiales. 
+Vous intégrerez la Direction des Systèmes d’information de La Banque Postale et du Réseau La Poste. 
+Les projets y sont riches et variés et visent à accompagner la transformation du Groupe La Poste. Vous pourrez aussi collaborer avec de nombreuses entités du sein du  Groupe. 
+
+
+Contexte de la mission
+Dans le cadre du programme de numérisation des opérations du réseau La Poste, le projet Smarteo regroupe un ensemble d’applications mobile destinées aux chargés de client et partenaires de La Poste : bureaux de Poste, agence postale communale, relais poste.
+Ces applications nécessitant un haut niveau de fiabilité et dans un contexte de croissance du nombre de fonctionnalités et d’utilisateurs, les équipes d’ingénierie mobile souhaitent regrouper et  automatiser plusieurs typologies de tests :
+-	Tests fonctionnels
+-	Tests de compatibilité 
+-	Tests de performances 
+-	Tests de sécurité
+Le projet « banc de test Smarteo » a pour vocation de rassembler ces tests au sein d’une plateforme d’assurance qualité mobile.
+Le stagiaire participera à la réalisation du banc de test.  En particulier, le stagiaire interviendra sur plusieurs composants pour lesquels tout ou partie des phases d’un projet seront à couvrir : étude, conception, architecture, infrastructure, spécifications, développements/tests, déploiement.
+
+
+
+Votre mission : 
+1/ Implémentation d’une API REST
+Contexte
+Les applications Smarteo sont des applications mobiles « hybrides » (web et native) qui consomment de multiples web services (JSON/REST). Dans le cadre des tests de qualification fonctionnelle, pour un même WS, il est nécessaire de pouvoir tester de nombreux cas : réponses nominales, réponses en erreur, timeout et autres cas limites.
+La maintenance de ces WS étant répartie dans différentes équipes, la mise en œuvre de ces tests  nécessite des opérations de préparation et d'organisation coûteuse en temps. 
+De plus, de par sa nature, un environnement de test est instable, et un WS peut ne plus être opérationnel, ce qui bloque l’exécution de tests de manière imprévisible et perturbe le planning de l’équipe de tests.
+ 
+Sujet
+On souhaite pouvoir valider uniquement les clients consommateurs d’un WS et pas la totalité de la chaîne « client + serveur », ceci afin de ne pas être dépendant : 
+d’une plateforme pouvant être instable
+de la mise à disposition de jeux de données par une équipe tiers
+Afin de permettre d’atteindre cette autonomie, on propose de réaliser une API REST qui permettra de paramétrer des ressources REST qui simuleront les réponses des WS (REST API mocking) .
+Cette API sera exposée par un serveur HTTP. Ainsi, un testeur pourra choisir « à la carte » la réponse qu’il souhaite recevoir en fonction de la fonctionnalité qu’il souhaite valider.
+La création et le paramétrage d’une ressource se fera via une API qui pourra être exploitée par des clients. Un client pour être : une application web/mobile, ou une librairie de tests fonctionnels automatisés.
+
+
+2/ Développement d’une application web responsive
+Contexte
+On propose de réaliser une application Angular cliente de l’API REST décrite ci-dessus afin de faciliter le paramétrage et l’utilisation des ressources de tests.
+
+Sujet
+Concevoir et développer une application web « responsive » exploitant une API REST. 
+Cette application sera mise à disposition des développeurs et des testeurs, elle leur permettra de paramétrer « en direct » les réponses attendues aux appels de web services.
+L’application aura une ergonomie responsive lui permettant d’être utilisée à partir d’un client desktop ou d’un smartphone.
+
+
+Environnement technique
+HTTP 
+RESTful API
+Web API management
+NodeJS, Java
+Angular (TypeScript)
+Apache Cordova
+Android
+Npm
+GIT
+
+
+
+Profil
+intérêt pour la conception d’API et le développement web
+Créativité
+esprit d’analyse et de synthèse ;
+autonomie dans un contexte de travail en équipe,
+dynamisme et réactivité,
+organisation, 
+bon relationnel.
+
+
+Pour postuler : Envoyer CV et lettre de motivation à l’adresse suivante : sophie.despomaderes@labanquepostale.fr
+
+
+
+
+
+
+
+
+ SHAPE  \* MERGEFORMAT 
+
+ PAGE 1/ NUMPAGES 3
+
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur  HYPERLINK "http://www.labanquepostale.fr" www.labanquepostale.fr – Rubrique « Nous rejoindre »
+
+
+

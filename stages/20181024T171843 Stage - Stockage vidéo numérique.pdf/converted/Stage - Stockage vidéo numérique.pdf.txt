@@ -1,0 +1,66 @@
+OFFRE
+D’EMPLOI
+
+Lieu : LA COURONNE (16)
+Date de démarrage: Dès que possible
+
+Ce document est la propriété exclusive de NEXEYA FRANCE; il ne peut être utilisé sans autorisation
+
+OBJET : OFFRE DE STAGE (5-6mois)
+
+OFFRE DE STAGE INFORMATIQUE
+Stockage vidéo numérique
+Présentation de l’entreprise :
+
+NEXEYA est au cœur de l'économie de l'innovation avec plus de 1000 techniciens et ingénieurs et une présence
+croissante à l’international.
+Partenaire des plus grands secteurs industriels, NEXEYA intervient sur les enjeux-clés de ses clients dans des
+secteurs aussi variés que la Défense, l'Aéronautique, le Spatial, l’Industrie, l’Energie, le Transport, les Télécoms
+et la Finance.
+Nos activités d'ingénierie industrielle et technique, de réalisation de produits et de services fédèrent des métiers
+multiples et une large diversité d'expertises.
+Pour NEXEYA c'est avant tout de la créativité, de la technicité, de l’autonomie, des métiers en pointe, qui
+génèrent expériences et opportunités de carrières avec des évolutions rapides
+Descriptif du stage : Conception et réalisation d’un système de stockage vidéo numérique
+Dans le cadre du développement d’un système optronique basé sur aune architecture vidéo totalement
+numérique, vous participerez à l’évaluation et au développement de nouvelles solutions de stockage vidéo en
+temps réel associé à des métadonnées.
+A ce titre vous aurez pour principales activités :
+• Découverte du contexte de l’étude,
+• Mise en œuvre de caméras HD SDI,
+• Mise en œuvre de cartes d’acquisition vidéo,
+• Stockage temps réel de flux vidéo bruts ou compressés suivant la norme MJPEG 2000,
+• Analyse de la structure de fichiers, des données média et des métadonnées,
+• Mise en œuvre de fichier vidéo contenant des métas donnés: génération, échange, décodage
+• Etude de compatibilité avec les player standard tel que VLC,
+• Développement d’un applicatif d’enregistrement et de lecture,
+• Etude de performance et choix des matériels adaptés à la fonction d’enregistrement.
+
+NSQ-F-018 Ed B Offre emploi
+
+Page : 1 / 2
+
+Ce document est la propriété exclusive de NEXEYA FRANCE; il ne peut être utilisé sans autorisation
+
+Profils recherchés :
+Elève ingénieur ou universitaire de niveau BAC + 4/5 en dernière année de formation, vous êtes spécialisé(e) en
+développement logiciel. A ce titre, vous maitrisez le développement en C++.
+Les sujets associés au traitement vidéo vous intéressent plus particulièrement.
+Par ailleurs, vous êtes force de proposition et êtes autonome dans votre activité.
+Vous souhaitez participer à l’amélioration de l’offre NEXEYA et avez envie de travailler dans un contexte
+fortement technique.
+Zone géographique : La Couronne (Charente 16)
+Durée envisagée : de 5 à 6 mois
+Pour postuler :
+
+Si vous êtes vous-même intéressé(e) ou si vous connaissez quelqu’un dans votre entourage intéressé(e) par
+cette offre de stage, faites-nous parvenir votre CV accompagné obligatoirement d’une lettre de motivation (en
+indiquant clairement vos dates de disponibilité)
+
+Postuler directement sur notre site : https://recrutement.nexeya.com/?offerid=140
+
+NSQ-F-018 Ed B Offre emploi
+
+Page : 2 / 2
+
+

@@ -1,0 +1,35 @@
+ 
+OFFRE DE STAGE
+
+Thème :	IoT - Mises à jour distantes (OTA) de véhicules off-highway d’architecture complexe
+Poste :	Ingénieur informatique 4ème ou 5ème année
+Lieu :	Nantes
+Durée :	4 à 6 mois
+Date de début :	entre février et mai
+
+Notre société
+
+Secom Engineering  HYPERLINK "http://www.secom.fr" http://www.secom.fr accompagne les constructeurs de machines de travail mobiles (agricoles, TP, manutention, etc…)  en leur proposant des solutions de connectivité innovantes depuis plus de 10 ans avec des fonctionnalités avancées de maintenance et de traçabilité des travaux effectués. 
+
+Mission :
+
+Spécialiste reconnu des machines de travail mobiles, SECOM Engineering a pour objectif de rendre toujours plus simple et flexible le processus de mises à jour des diverses cibles embarquées dans les machines mobiles (agricoles, TP, manutention etc..). Au sein du pôle « logiciels embarqués et débarqués  » de SECOM Engineering, vous ferez évoluer notre suite IoT existante en développant les différentes briques logicielles d’un UPDATER, outil de déploiement de mises à jour logicielles,  à l’exception des flashloaders embarqués spécifiques aux calculateurs véhicule.  Au cours de ce stage,  en tant que développeur sous la responsabilité d’un chef de projet, vous participez à toutes les phases du cycle en V, y compris la conception architecturale de l’UPDATER.
+
+Sous la responsabilité du chef de projet, vos principales contributions seront : 
+Spécifications fonctionnelles complètes
+Conception architecturale des logiciels débarqués (serveur et client WEB) et embarqués (uniquement le boitier connecté LINUX)
+Conception détaillée des modules 
+Codage
+Tests unitaires et tests d’intégration
+Mise au point et recette sur machine de la chaîne complète
+
+Profil du stagiaire :
+
+Connaissances obligatoires * Spécifications UML * XML, C, C++, PHP, MySQL * TCP/IP, VPN   Connaissances optionnelles * Buildroot * Bus de terrain CAN
+
+
+Pour postuler, nous écrire à l’adresse suivante :
+SECOM – 3, rue Joseph Cholet –44 100 Nantes
+Ou par courriel :  HYPERLINK "mailto:talents@secom.fr" talents@secom.fr 
+
+Plus d’informations sur l’entreprise :  HYPERLINK "http://www.secom.fr" www.secom.fr

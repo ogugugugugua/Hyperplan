@@ -1,0 +1,30 @@
+Poste d’ingénieur informatique (H/F)
+Stage de fin d’étude
+LIBRA FLUIDES est une société spécialisée dans les systèmes de supervision des équipements techniques des bâtiments par objets connectés. LIBRA FLUIDES a développé une solution innovante permettant de mieux gérer les systèmes de production de chaleur et de froid et d’optimiser la régulation de ceux-ci. Très investie dans le secteur de la maîtrise de l’énergie dans le bâtiment, LIBRA FLUIDES apporte une solution efficace et économique à ses clients pour gérer plus efficacement leurs sites. 
+
+Les clients de LIBRA FLUIDES sont les gestionnaires de site de parcs privées, les syndics de copropriétés, les collectivités locales. Les solutions fournies fonctionnent en mode SAAS.
+
+En constante évolution et en développement permanent, nous recherchons de nouveaux collaborateurs pour travailler sur l’optimisation de nos solutions et de nos systèmes. Pour cela, nous sommes à la recherche d’un poste d’ingénieur(e) informaticien(ne) en stage de fin d’étude désireux (désireuse) de mettre ses compétences au service d’une start-up en plein développement.
+
+Lieu du stage : Clichy (92) 
+Période : 6 mois
+
+Le candidat, après une période d’apprentissage de notre métier et de notre organisation interne, aura pour missions de participer aux développements en cours de notre algorithme de traitement. 
+
+Missions : 
+Développement d’une API pour la récupération de données sur site web,
+Participation au développement de l’algorithme de traitement des données stockées sur base de données Mysql,
+Travail sur les procédures de sauvegarde des données,
+Protocole des clés de cryptage des informations,
+Protocole d’automatisation logiciel pour l’initialisation de cartes électroniques,
+
+
+Profil : Ingénieur informatique H ou F (en dernière année d’école d’ingénieur ou Master en lien avec les thématiques informatiques) avec une formation avancée sur les bases de données
+
+Vous suivez une formation en informatique et vous êtes également intéressé par le monde de l’énergie et des nouvelles technologies. Vos principales qualités sont l’organisation, le dynamisme et l’autonomie. Vous connaissez les bases de données et les langages de programmation C/C++/Java. 
+
+
+Stage de 6 mois ouvrant sur une possibilité d'embauche. Début du stage en Février 2017
+
+CV + Lettre de motivation
+Contact : M. Duchamp Julien ( HYPERLINK "mailto:julien.duchamp@libra-fluides.com" julien.duchamp@libra-fluides.com) 06 31 39 61 89

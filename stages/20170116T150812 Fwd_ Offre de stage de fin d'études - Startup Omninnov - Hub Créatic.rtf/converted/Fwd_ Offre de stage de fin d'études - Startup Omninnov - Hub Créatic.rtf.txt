@@ -1,0 +1,37 @@
+Rebonjour,
+Suite à notre échange de ce jour, veuillez trouver ci-dessous notre offre pour 2 stages de fin d’études pour les étudiants de Polytech Nantes en filière « informatique ».
+Je vous remercie par avance de bien vouloir la relayer à vos étudiants, et je me tiens à votre/leur disposition pour toute précision complémentaire.
+Bien cordialement,
+François-Xavier Sambron
+Cofondateur Omninnov
+
+06 52 59 04 73
+francois-xavier.sambron@omninnov.com
+
+
+*******************
+
+
+Intitulé de l’offre : Stage fin d'études - Développement application innovante - Start-up nantaise
+
+
+Description de l’offre :
+Vous souhaitez parfaire votre formation en participant à un projet ambitieux qui ne vous laissera pas indifférent ? Alors le projet IZI-done est fait pour vous : soyez l’un des artisans du 1er « assistant personnel intelligent » qui permet de se simplifier la vie au quotidien et de ne plus jamais manquer de temps !
+Les grands groupes sauront bien vous attendre, vivez dès à présent une expérience unique dans une vraie start-up et rejoignez l’équipe souriante et dynamique d’Omninnov au Hub Créatic de Nantes.
+Dans le cadre de votre stage de fin d’études, vous participerez pendant 6 mois au développement d'une application cross-plateforme (MacOS X, Windows, iOS, Android) dont les données sont dans le cloud.
+Durant ce stage, vous développerez vos compétences autour des "Single Page Applications", de Javascript avec la dernière norme ES2015, d'un niveau avancé de rendu et d'animation en CSS, des plateformes Cordova et Electron et du déploiement sous Docker; vous pourrez aussi être amené à travailler sur un moteur d'intelligence artificielle ainsi que sur une base NoSQL. 
+Les compétences techniques requises : Javascript, HTML 5, CSS; Mocha pour l'automatisation des tests serait un plus.
+A l’issue de ces 6 mois de collaboration et d’échanges, notre ambition est de vous faire une proposition d’embauche afin de poursuivre ensemble cette belle aventure !
+
+
+Rémunération : 1 100 €/mois. 
+
+
+Période : de mars à août 2017, selon les dates de stages de fin d’études Polytech
+
+
+PS : comme nous sommes voisins, n’hésitez pas à passer nous voir au Hub ;)
+
+
+
+

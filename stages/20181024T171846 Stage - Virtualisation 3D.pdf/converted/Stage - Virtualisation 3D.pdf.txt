@@ -1,0 +1,67 @@
+OFFRE
+D’EMPLOI
+
+Lieu : LA COURONNE (16)
+Date de démarrage: Dès que possible
+
+Ce document est la propriété exclusive de NEXEYA FRANCE; il ne peut être utilisé sans autorisation
+
+OBJET : OFFRE DE STAGE (5-6mois)
+
+OFFRE DE STAGE INFORMATIQUE
+Virtualisation 3D
+Présentation de l’entreprise :
+NEXEYA est au cœur de l'économie de l'innovation avec plus de 1000 ingénieurs et techniciens et une présence croissante à
+l’international.
+Partenaire des plus grands secteurs industriels, NEXEYA intervient sur les enjeux-clés de ses clients dans des secteurs aussi
+variés que la Défense, l'Aéronautique, le Spatial, l’Industrie, l’Energie, le Transport, les Télécoms et la Finance.
+Nos activités d'ingénierie industrielle et technique, de réalisation de produits et de services fédèrent des métiers multiples et
+une large diversité d'expertises.
+Pour NEXEYA c'est avant tout de la créativité, de la technicité, de l’autonomie, des métiers en pointe, qui génèrent
+expériences et opportunités de carrières avec des évolutions rapides.
+Descriptif du stage : Stage ingénieur virtualisation 3D
+Au sein de la ligne produit systèmes de trajectographie et d’observation ; vous participerez à la recherche de solutions
+innovantes de virtualisation 3D.
+A ce titre vous aurez pour principales activités :
+•
+Découverte du contexte de l’étude,
+•
+Analyse et comparaison de moteurs 3D issu du domaine scientifique ou du domaine du jeu vidéo (UNITY
+3D)
+•
+Analyse des limites des moteurs 3D vis-à-vis des contraintes projet
+•
+Réalisation de prototypes d’application
+•
+Outils d’intégration de modèles numérique de terrain
+•
+Analyse de solution pour la simulation de vision infra rouge
+Profils recherchés :
+Elève ingénieur ou universitaire de niveau BAC + 4/5 en dernière année de formation spécialisé en développement logiciel.
+Lors de votre cursus vous avez acquis de solides compétences en modélisation 3D, réalité virtuelle, réalité augmentée, vision
+par ordinateur et vous maitrisez le C++/C#. Une connaissance d’Unity3D et de Qt est un plus.
+Par ailleurs, vous êtes force de proposition et êtes curieux et autonome dans votre activité.
+Vous souhaitez participer aux challenges de NEXEYA et avez envie de travailler dans un contexte fortement technique et
+dans un groupe à taille humaine.
+Zone géographique : Sud Ouest - La Couronne (16)
+Durée envisagée : 5 à 6 mois
+
+NSQ-F-018 Ed B Offre emploi
+
+Page : 1 / 2
+
+Ce document est la propriété exclusive de NEXEYA FRANCE; il ne peut être utilisé sans autorisation
+
+Pour postuler :
+
+Si vous êtes vous-même intéressé(e) ou si vous connaissez quelqu’un dans votre entourage intéressé(e) par cette offre de
+stage, faites-nous parvenir votre CV accompagné obligatoirement d’une lettre de motivation (en indiquant clairement vos
+dates de disponibilité)
+
+Postuler directement sur notre site : https://recrutement.nexeya.com/?offerid=138
+
+NSQ-F-018 Ed B Offre emploi
+
+Page : 2 / 2
+
+

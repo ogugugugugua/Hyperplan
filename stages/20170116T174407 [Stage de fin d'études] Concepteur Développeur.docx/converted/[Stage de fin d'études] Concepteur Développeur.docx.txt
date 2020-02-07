@@ -1,0 +1,36 @@
+Concepteur/Développeur Junior (H/F)
+Fonctions supports / Stage de fin d’études minimum de 4-5 mois
+
+Renault Retail Group, filiale du Groupe Renault, est un des réseaux leaders de la distribution automobile en Europe. Nos activités principales sont la vente de véhicules neufs, de véhicules d'occasion, de services d'entretien et de réparation et de pièces de rechange. Nos 12 600 collaborateurs sont répartis sur 223 sites en Europe.
+
+Nous recherchons, pour notre entité SIRVA basé à Saint-Herblain un Concepteur/ Développeur Junior H/F.
+
+Vos missions seront les suivantes :
+Epauler les chefs de projets dans la rédaction des spécifications fonctionnelles
+Effectuer l’analyse des spécifications techniques
+Concevoir des solutions architecturales techniques
+Concevoir et développer les programmes et applications informatiques
+Définir et réaliser les tests techniques et fonctionnels avant livraison
+Analyser les problèmes techniques, fonctionnels et proposer des correctifs,
+Concevoir et réaliser une maquette de présentation (design application)
+Réaliser la mise en production de solution logicielle dans un environnement d'exploitation (serveurs, postes de travail, systèmes d'exploitation, ...)
+Réalisation des chiffrages de dossiers
+Assurer un rôle de support technique au sein de l’entreprise.
+
+	•	La Méthodologie et la Mise en œuvre d’outils autour:
+	•	Des aspects  TESTS / RECETTES
+	•	De la qualité du Code (des développements)
+	•	Recherche et étude  de ce qui conviendrait à notre spécificité de développement et implémentation des outils
+
+	•	Le développement : 
+	•	Développements issus des spécifications fonctionnelles de petits dossiers rédigées par les Chefs de Projets
+
+De formation supérieure BAC + 4 (système d’information), justifiant d’une expérience dans le développement de système d’information de gestion d’entreprise.
+
+Maîtrisant à minima les systèmes suivants :
+Outils de développement: C#, Java, J2EE, SQL, HTML, Framework, .Net,
+PHP, Hibernate, SVN, TalendFrameworkServeurs applicatifs: Tomcat, IIS, SharePoint Business
+
+Intelligence: Microsoft SSIS, Report Server, ETL TalendSGBD: SqlServer, MySQL, PostgreSQL, Linux, ProgressOS: Windows Techniques: C++, C#, .Net (asp), HTML5, SQL-Server, PowerPivot, Active Directory, Azure (AD, BI)
+Fonctionnelles: DMS (industrie), Microsoft Dynamics (AX)
+Veuillez adresser votre candidature à l’adresse suivante en nous précisant dans l’objet l’intitulé du stage pour St Herblain (44) et le nom de votre école à l’attention d’Elodie LAFABLE: recrutement.rrg.internet@renault.com

@@ -1,0 +1,40 @@
+
+Intitulé du Stage : Mise en œuvre d’un monitoring applicatif en utilisant des technologies big data 
+		
+Référence de l’annonce : SI-CP-SNCF GC-MONIT2
+Information sur l’entreprise
+
+SNCF Gares & Connexions est la branche de SNCF en charge de l’exploitation des 3000 gares françaises. Issue des projets d’ouverture à la concurrence du transport ferroviaire en France, SNCF Gares & Connexions doit concilier un devoir nécessaire de neutralité entre les transporteurs ferroviaires qui arrivent dans les gares et une coopération étroite avec ces mêmes transporteurs pour contribuer au bon fonctionnement du transport ferroviaire en France. Sous l’impulsion de l’état, elle se doit de faciliter les mobilités douce et de contribuer au développement des quartiers où sont implantés les gares : en un mot d’être un « city booster »
+
+Description du poste 
+
+Contexte :  Afin d’atteindre cet objectif, SNCF Gares & Connexions s’est lancé dans un vaste programme de digitalisation de ses métiers. Cela commence notamment par une automatisation poussée de la supervision de ses applications
+Mission : Vous devrez donc contribuer à la mise en place un monitoring applicatif de bout en bout automatique en vous appuyant sur les conclusions d’un MVP réalisé en 2018. Au-delà de la collecte et de l’exploitation des logs applicatifs à des fins d’alarming, vous pourrez proposer et tester toutes les solutions qui pourront permettre de contribuer à l’objectif d’automatisation (process mining, intelligence artificielle, …)
+L’objectif est d’industrialiser et déployer le monitoring applicatif issu du MVP pour contribuer à une meilleure qualité de service ainsi qu’ à l’optimisation du fonctionnement des applications
+ Environnement technologique :  Agile,  Devops, Cloud (Azure, Salesforce, …),  CHATBOT, Bigdata (Hadoop, Python, Panda, Jupyter, …), Toucan Toco, PowerBI, JIRA, GITHUB, JENKINS, DOCKER, elastic stack (logstash, kibana, beats, APM, …)
+  Objectifs pédagogiques :  Ce stage vous permettra de monter en compétences sur les phases d’étude, de construction, de déploiement et d’exploitation d’un monitoring applicatif visant le Devops dans un riche contexte technologique.
+
+Description du profil
+
+De formation Bac+5 en informatique (école d’ingénieurs ou université) en cours de validation, vous recherchez un stage ou un contrat d’Alternant d’une durée de 6 à 12 mois minimum à partir de septembre / octobre 2018 (dates variables selon l’école).    Poste à pourvoir à Nantes.
+
+Coordonnées
+Arnaud Lutellier
+SNCF GARES & CONNEXIONS
+DIRECTION DIGITAL – DIRECTION DES SYSTÈMES D’INFORMATION
+DIVISION SI CUSTOMER PLATFORM
+9 avenue Carnot – BP 54123 - 44041 NANTES CEDEX 01
+EMAIL :  HYPERLINK "mailto:arnaud.lutellier@sncf.fr" arnaud.lutellier@sncf.fr                
+ INCLUDEPICTURE  "cid:image001.png@01D25C4A.63B0EB80" \* MERGEFORMATINET     HYPERLINK "https://fr.linkedin.com/in/arnaud-lutellier-9a78b848"  INCLUDEPICTURE  "cid:image006.png@01D25C4A.63B0EB80" \* MERGEFORMATINET     HYPERLINK "https://twitter.com/ArnaudLut"  INCLUDEPICTURE  "cid:image007.png@01D25C4A.63B0EB80" \* MERGEFORMATINET 
+
+
+
+
+
+
+
+
+		         INCLUDEPICTURE  "cid:image001.png@01D25C4A.63B0EB80" \* MERGEFORMATINET 	
+
+
+

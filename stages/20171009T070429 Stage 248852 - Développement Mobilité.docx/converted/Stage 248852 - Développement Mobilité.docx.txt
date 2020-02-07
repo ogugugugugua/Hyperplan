@@ -1,0 +1,53 @@
+Descriptif du poste
+Référence du poste
+248852 
+Intitulé du poste
+Stage Développement Mobilité (H/F) 
+
+ 
+Détails du poste
+Atos SE (Société Européenne), est un leader de la transformation numérique avec environ 100 000 collaborateurs dans 72 pays et un chiffre d’affaires annuel pro forma de l’ordre 12 milliards d’euros. Fort d’une base de clients mondiale, Atos est le n°1 européen du Big Data, de la Cybersécurité et de l’environnement de travail connecté, et fournit des services Cloud, des solutions d’infrastructure et gestion de données, des applications et plateformes métiers, ainsi que des services transactionnels par l’intermédiaire de Worldline, le leader européen des services de paiement. 
+Grâce à ses technologies de pointe et son expertise digitale & sectorielle, Atos accompagne la transformation numérique de ses clients dans les secteurs Défense, Services financiers, Santé, Industrie, Médias, Services aux collectivités, Secteur Public, Distribution, Télécoms, et Transports. Partenaire informatique mondial des Jeux Olympiques et Paralympiques, Atos est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Atos Consulting, Atos Worldgrid, Bull, Canopy, Unify et Worldline.
+Pour plus d’information : fr.atos.net
+Mission
+Au sein du Centre de Services de Nantes, Atos conçoit, développe et maintien des applications Mobiles à haute valeur ajoutée pour le métier de nos clients de l’eau.
+Pour le compte d’un client grand compte évoluant dans le domaine de l’eau, vous participerez à un projet à fort enjeux visant à déployer de nouvelles applications mobiles. 
+Sous la responsabilité de votre maître de stage, vous participerez à la vie de ce projet dans sa phase de réalisation et de maintenance.
+Vous pourrez, être amené à étudier, qualifier, prototyper de nouveaux produits et de nouvelles solutions et mettre en œuvre plusieurs des technologies suivantes :
+BACKEND  
+	•	JAVA (hibernate, spring, jboss), 
+	•	PHP (Symphony 2), 
+	•	PERL, 
+	•	SHELL
+FRONTEND
+	•	JAVASCRIPT (ANGULARJS, JQUERY, NODEJS, GULP), 
+	•	ANDROID, 
+	•	CORDOVA 
+Vous découvrirez l'ensemble du cycle de vie logiciel.
+ A l'issue de ce stage, vous serez à même de remplir les objectifs pédagogiques suivants :
+	•	Maîtrise technique,
+	•	Compréhension des enjeux,
+	•	Développement en mode industrialisé (Normes, Outils),
+	•	Travail en équipe,
+	•	Méthodologie (approche rigoureuse et analytique),
+	•	Adaptabilité.
+Nous considérons le stage comme un tremplin, une première expérience décisive qui vous ouvrira le champ des possibles. Nos stagiaires sont nos talents de demain !
+Alors, prêt à relever le défi ? 
+
+Profil
+En cours de formation Bac+4/ BAC+5 minimum dans le domaine de l’informatique, vous recherchez un stage d’une durée de 4 à 6 mois (dates variables selon l’école).
+Vous maîtrisez impérativement le Java, le Javascript et avez abordé l’Android en travaux pratiques ou en stage.
+Rigoureux(se) et méthodique, vous avez envie de vous investir sur des projets complexes qui nécessitent un sens aigu du service et de la performance. Vous souhaitez exprimer vos talents au service de l'équipe, du projet et de l'entreprise.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi Atos a mis en place un accord relatif à l’égalité professionnelle entre les hommes et les femmes. Par ailleurs, nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Rejoignez-nous !
+ Information additionnelle
+La rentrée chez Atos, une manière ambitieuse de booster votre carrière !
+Atos a obtenu le label Happy Trainees 2016 pour la 3e année consécutive avec une note de 4.06 /5 et un taux de recommandation de plus de 85% !
+L’alternance est basée à Nantes, une métropole dynamique parmi les meilleures aux classements qualitatifs de l’enseignement supérieur et de la vie étudiante.
+Nantes se positionne 5ème au palmarès général des villes étudiantes 2016-2017 et 2ème au classement 2016 des villes où les Français aimeraient travailler. En matière d’emploi, c’est la métropole qui a créé le plus d'emplois dans le numérique en 5 ans.
+Côté qualité de vie, Nantes se classe 3ème auprès des jeunes. La croissance de l’emploi, l’offre culturelle et universitaire ainsi que la proximité de l’océan et de la capitale en font l’une des villes privilégiées par les étudiants.
+Pour postuler
+Depuis https://jobs.atos.net: indiquez la référence 248852 dans la barre de recherche, cliquez sur l’offre puis sur « postuler » et le tour est joué !
+ 
+
+

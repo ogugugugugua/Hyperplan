@@ -1,0 +1,44 @@
+Proposition de stage 2019
+Durée : 6 mois
+e-mail : job@easybroadcast.fr
+5 Rue Alfred Kastler 44300 Nantes
+
+Stage : développeur mobile Android/iOS
+Chez Easybroadcast nous créons des applications pour les chaînes de télévision et les diﬀuseurs
+de contenu. Nous avons pour nous le bénéfice d’une technologie P2P avancée qui permet de
+réduire drastiquement les coûts en bande-passante. Chaque client a des demandes particulières
+auxquelles il est nécessaire de s’adapter ; l’essentiel de nos projets consiste donc en du
+développement sur mesure.
+Easybroadcast est une jeune entreprise dont les locaux sont situés à Nantes ; l’ensemble de
+l’équipe technique est accessible et conviviale.
+La mission :
+Fréquemment les clients souhaitent disposer d’applications mobiles fonctionnant à la fois sur
+Android et sur iOS. Actuellement, ces projets sont menés par des équipes distinctes, dans des
+langages diﬀérents (Java pour Android, Swift pour iOS). Ce fonctionnement est contraignant car il
+entraîne la nécessité de créer et de maintenir deux bases de code qui font pourtant la même
+chose. De plus, il réduit la polyvalence des développeurs, car il est diﬃcile de passer d’un
+environnement de développement à un autre.
+Pour ces raisons, et parce qu’il s’agit du langage que nous utilisons déjà sur le web ou sur nos
+serveurs, nous souhaitons passer l’intégralité de nos applications clients vers une base de code
+en javascript. L’objectif principal de ce stage sera donc d’évaluer les diﬀérentes solutions
+permettant de compiler du javascript en applications natives. En particulier, il serait intéressant de
+déterminer la meilleure façon d’adapter la technologie P2P Easybroadcast à ces solutions.
+Une fois un choix fait, nous pourrions êtres amenés à retravailler des applications existantes dans
+cet environnement, ou à en produire de nouvelles.
+Profil recherché :
+Vous êtes en dernière année de cycle ingénieur en informatique.
+Vous aimez le développement web, et vous pratiquez en particulier un javascript moderne et
+élégant. Une connaissance préalable de VueJS, de Weex, de ReactNative ou de NativeScript sont
+des plus qui pourraient nous faire gagner beaucoup de temps.
+Vous n’avez pas peur de l’inconnu, et vous êtes capable de travailler avec beaucoup
+d’indépendance. C’est une mission exploratoire parmi des technologies nouvelles et que nous
+n’avons pas encore employées.
+Vous êtes disponible à partir de mars pour une durée de six mois.
+Rémunération : 1000€
+
+Avantage :
+
+- Carte restaurant Ecole des Mines Nantes
+- Possibilité CDI à la fin du stage.
+
+

@@ -1,0 +1,45 @@
+Offre de stage 2017
+
+Dév full-stack d’une application mobile dédiée à la formation
+Contexte
+Incubée à l’école des Mines de Nantes, nous sommes une jeune coopérative innovante de 3 associés du
+secteur des edTech. Notre ambition est d’améliorer la qualité pédagogique des formations, et d’apporter
+des outils de qualité aux formateurs.
+Pour cela, nous avons développé PairForm (www.pairform.fr). Un outil simple et ergonomique pour créer,
+diffuser et animer des formations.
+La particularité de PairForm est de permettre aux apprenants d'échanger et de s’entraider sur n’importe
+quelle partie du support en ligne (paragraphe, image, vidéo…) tout au long de leur apprentissage.
+PairForm est accessible sur ordinateurs, tablettes et smartphones, et utilise des mécanismes de réseau
+social et de gamification pour susciter les interactions et l'entraide entre apprenants.
+#numérique #formation #collaboratif #scop #startup #nantestech
+
+Objet du stage
+En collaboration avec le reste de l’équipe, vous serez en charge du développement d’une nouvelle version
+cross-platform (iOS, Android, Windows Phone si possible) de l’application mobile PairForm. Vous
+interviendrez sur la conception de l’architecture technique, le développement logiciel (interface,
+application client, web-services associés) et les tests.
+•
+•
+
+Nous aimons : le versioning, les TDD, les méthodes agiles, Slack, Stackoverflow et CommitStrip.
+Nos technos : node.js, angular.js, ionic framework
+
+Informations complémentaires
+•
+•
+•
+
+Lieu du stage : incubateur de l’école des Mines de Nantes (5 rue Alfred Kastler, 44300 Nantes)
+Durée du stage : 5 à 6 mois
+Rémunération : gratification de stage + tarif réduit au restaurant Mines Nantes
+
+Si vous avez le goût de l’aventure, envoyez à contact@pairform.fr :
+•
+•
+
+une lettre de motivation,
+une page Github ou un profil Stackoverflow ou un lien vers votre site web ou un lien vers votre
+profil LinkedIn ou un CV ou, mieux, un mélange de tout ça,
+01110010 01100111 00101100 00100000 01101000 01100001 01110010 00100000 01110110 01111010 01101110 01110100 01110010 00100000 01110001 01110010 00100000 01110000 01110101 01101110 01100111 01100010 01100001
+
+

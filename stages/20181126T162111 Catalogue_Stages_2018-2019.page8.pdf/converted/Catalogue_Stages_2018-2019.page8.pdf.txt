@@ -1,0 +1,48 @@
+Stagiaire Développeur Java/Scala H/F
+Localisation : Nantes
+Durée : 6 mois
+Contexte
+Les applications WDI et Pulsar sont des pièces centrales du SI de distribution de l’offre SNCF. Ces applications sont
+utilisées par la plupart des distributeurs la vente des billets TGV notamment.
+5 équipes de réalisation travaillent en parallèle sur ces applications, qui partent en production à chaque sprint –
+toutes les 3 semaines.
+Nous avons donc de gros enjeux autour de leur tenue en charge et souhaitons renforcer les tests de performance
+dès la sortie du dev.
+Intégré dans une des équipes de réalisation Scrum à Nantes, votre mission sera de mettre en place des tests de
+performance dans le pipeline de build (Jenkins 2)..
+Activités et Principales Responsabilités
+-
+
+Prise en compte des besoins et rédaction des exigences fonctionnelles
+Documentation de l’architecture et des fonctionnalités attendues
+Chiffrage des taches de réalisation.
+Réalisation des développements en mode agile
+Mise en place de tests automatisés des développements
+Profil
+
+Etudiant en bac+5, vous êtes à la recherche de votre stage de fin d’étude.
+Ces outils ne vous sont pas inconnus :
+Jenkins 2/Rundeck/Gatling/Scala
+Java/Spring/Git/Tomcat/Vertx
+Là vous nous épatez !
+Vous possédez des connaissances théoriques des principes des méthodologies Scrum, des principes de TU et
+TDD et de l’intégration continue.
+Vos atouts !
+Rigoureux
+Autonomie
+Aisance relationnel
+Capacité à travailler en équipe
+Pragmatisme et adaptabilité aux situations
+
+Ce que vous trouverez dans ce stage
+-
+
+Un environnement de travail agréable, intégré dans une équipe sympathique
+Un stage de qualité sur lequel vous pourrez capitaliser avec une possibilité d’embauche à la clef.
+Un environnement de travail où tout est fait pour que vous vous sentiez bien
+Une ambiance chaleureuse et un esprit team player au sein d’un groupe solide (innovation, dynamisme,
+Hackathons, séminaires, « vis ma vie » etc.)
+
+8
+
+

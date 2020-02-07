@@ -1,0 +1,83 @@
+Dans le cadre de sa politique de recrutement, Nantes Métropole lutte contre toutes les formes de discrimination, vise à diversifier ses candidatures et reconnaît tous les talents.
+
+PROPOSITION DE STAGE
+
+Direction Générale Environnement et Services Urbains (DGESU)
+Direction Des Déchets
+Service Stratégie Développement Qualité
+
+
+Inventaire des données et indicateurs de la politique Déchets en préfiguration d’un observatoire.
+
+Contexte
+Nantes Métropole assure le service public de gestion des déchets ménagers et assimilés pour le compte des 24 communes. Nantes Métropole exerce la fonction d’autorité organisatrice sur la globalité de la compétence, à savoir la prévention / réduction, le tri et la collecte, le traitement / valorisation.
+
+Dans ce cadre, la Direction déchets de Nantes Métropole, en partenariat avec les pôles de proximité, assure :
+	·	la mise en œuvre du programme de réduction des déchets, 
+	·	la gestion de la collecte des déchets ménagers et assimilés,
+	·	la gestion des contrats de délégation de service public relatifs au traitement des déchets,
+	·	celle du réseau des 12 déchèteries et 4 écopoints,
+	·	celle des marchés transversaux concernant l’élimination des déchets industriels banals produits par la Métropole,
+	·	et des sites des anciennes décharges de Tougas et de la Prairie de Mauves.
+	·	elle assure également la fonction d’opérateur public de collecte sur le territoire de la ville de Nantes et sur 3 communes du Pôle Sud Ouest (La Montagne, Le Pellerin, Saint-Jean-de-Boiseau).
+Les 7 pôles de proximité sont associés à la définition de la politique de gestion des déchets de Nantes Métropole. Ils ont en charge le suivi, le contrôle des contrats de collecte et assurent les relations avec les habitants sur leur territoire.
+
+Missions
+LIVRABLE
+Création d’un outil type cartographie de visualisation d’une masse de données de la politique publique déchets : 
+	•	outils graphiques de visualisation ;
+	•	représentation et filtre d’une masse de données ;
+	•	accessibilité et compréhension de l’ensemble des données;
+	•	articulation et priorisation de l’ensemble des données.
+
+Il s’agit pour cela de réaliser une analyse de l'existant des données et indicateurs produits et utilisés par la Direction des Déchets et ses partenaires (opérateurs et prestataires).
+
+Vous collaborerez notamment avec les acteurs de la démarche Qualité de la direction des déchets ainsi qu'avec les différents services émetteurs et receveurs d'indicateurs et de données. Ces éléments s'articulent autours de trois grands domaines : les données d'activités (tonnages collectés, traités...) ; les données financières et les indicateurs qualités de performance du service à l'usager.
+
+A l'aide d'une démarche de diagnostic construite et collaborative, vous produirez un inventaires des données et indicateurs existants.
+
+Vous évaluerez l’origine et la construction des données à l’aide d’un de tableau de critère (sous plusieurs paramètres : périmètres des données, maille temporelle, acteur/producteur de la donnée, origine de la construction de la donnée :  Plan d'actions, rapport annuel, contrat performance...).
+
+Vous  expliciterez les interactions entre les différents flux de données et les outils et dispositifs déjà utilisés par les différents agents pour les besoins de leur service respectif.
+
+Vous produirez un  outil graphique de visualisation de l’ensemble des ces informations (données, indicateurs, de leurs relations sous la forme d’une arborescence (priorisation des informations selon les projets et les attentes) grâce à des outils informatiques appropriés.
+
+Enfin,vous analyserez les redondances éventuelles, la pertinences et la fiabilité des indicateurs et vous proposerez des pistes d’évolutions dans la perspective de la construction d’un observatoire.
+
+Vos activités
+	•	Vous participez au groupe de travail interne « observatoire déchets » ;
+	•	Vous effectuez un recensement organisé des données et des indicateurs au sein des différents services de la directions des déchets (interview des agents parties prenantes) ;
+	•	Vous vérifiez et tracez les informations élémentaires nécessaires à la productions de ces données ;
+	•	Vous collectez, analysez et organisez les différents flux de données ;
+	•	Vous identifier les données et indicateurs pertinents, fiables et leur inter-relations ; 
+	•	Vous construisez un tableau de bord de l’ensemble des flux de données ;
+	•	Vous construisez une arborescence de type « cartographie de l’information »
+
+Profil
+En cours de formation supérieure (école d'ingénieur, statistique, informatique, qualité,), dans le domaine des systèmes d’informations et de la modélisation des données.
+Compétences et autonomie en matière de gestion, traitement, requête et visualisation des données.
+Maîtrise d’outils et logiciels ainsi que des langages associés dans les domaines des systèmes de gestion de bases de données, la cartographie, les tableurs, les diagrammes de flux, logigrammes et les outils de manipulation de données.
+
+Connaissances et intérêt pour l’environnement, la gestion des déchets et les démarches qualité. 
+Intérêt pour le service public. 
+
+Vous faites preuve de rigueur, d’autonomie, d’esprit de synthèse et de reformulation et d’organisation dans votre travail et savez rendre compte,  vous connaissez les base de la gestion de projet.
+Doté(e) de qualités relationnelles, vous êtes aussi reconnu(e) pour vos qualités de pédagogue et d'écoute, nécessaires à la collecte des informations et à l'animation des temps d'échanges au plus proche des acteurs de la Direction des Déchets.
+
+Durée et Lieu d’accueil 
+ •  Durée et période : 5 à 7 mois - printemps-été 2017 
+•  Lieu d'accueil : immeuble Valmy - 5ème étage - 11 avenue Carnot à Nantes 
+ 
+Gratification 
+ •  Stage rémunéré 
+
+ Candidature
+Merci d’adresser CV et lettre de motivation, avant le 28 février 2017
+   Madame la Présidente 
+  Nantes Métropole 
+  DEDC – Unité Stages 
+  44923 Nantes cedex 9 
+ 
+ Et en copie par email à: heloise.even@nantesmetropole.fr
+Pour tous renseignements complémentaires sur le poste, vous pouvez contacter : Héloïse EVEN, responsable service stratégie développement qualité au sein de la direction déchets au 02.40.99.92.75
+

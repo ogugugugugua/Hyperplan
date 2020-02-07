@@ -1,0 +1,31 @@
+ 
+OFFRE DE STAGE
+Thème :	IoT – Connectivité des machines de travail mobiles
+Poste :	Ingénieur 4 ou 5ème année
+Lieu :	Nantes ou Toulouse
+Durée :	4 à 6 mois
+Date de début :	entre février et mai
+
+Notre société
+
+Secom Engineering  HYPERLINK "http://www.secom.fr" http://www.secom.fr accompagne les constructeurs de machines de travail mobiles (agricoles, TP, manutention, etc…)  en leur proposant des solutions de connectivité innovantes depuis plus de 10 ans avec des fonctionnalités avancées de maintenance et de traçabilité des travaux effectués. 
+
+Vos missions pendant la durée du stage
+
+Au sein de notre bureau d’études pluridisciplinaire, votre mission consistera essentiellement à faire évoluer l’architecture de notre solution IoT et à implémenter sur cette base une application en agriculture de précision :
+Evaluation d’une solution télématique tierce ;
+Bilan de santé de l’architecture réseau existante et propositions d’amélioration. 
+Rédaction d’une spécification technique d’infrastructure réseau pour consultation fournisseurs.
+Développement d’une application web dans le domaine de l’agriculture de précision. Vous travaillerez sur la partie front-end de l’application.
+
+Connaissances  requises/souhaitées
+
+Une première expérience des architectures web Apache – PHP – MySQL – Linux serait appréciée
+Une connaissance des Web Services serait un plus (langage HTTP, interface REST)
+
+
+Pour postuler, nous écrire à l’adresse suivante :
+SECOM – 3, rue Joseph Cholet –44 100 Nantes
+Ou par courriel :  HYPERLINK "mailto:talents@secom.fr" talents@secom.fr 
+
+Plus d’informations sur l’entreprise :  HYPERLINK "http://www.secom.fr" www.secom.fr

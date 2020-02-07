@@ -1,0 +1,89 @@
+                                        Mission : Intégrateur SI
+
+Localisation : Gradignan
+Type de contrat : stage de 5 à 6 mois
+Niveau d'études : bac +5
+Gratification : 1250€
+Début : à définir selon les stages
+
+
+                      Vous désirez relever de nouveaux défis au sein d’une équipe d’experts.
+
+Venez bénéficier de l’accompagnement de tuteurs confirmés et impliqués!
+
+Rejoindre La Poste c'est choisir un employeur de référence développeur de talents.
+Le Groupe La Poste vous offre des missions synonymes de mobilité et de diversité, à l'image de ses 260 000
+collaborateurs répartis sur 250 filiales.
+Vous intégrerez la Direction des Systèmes d’information de La Banque Postale et du Réseau La Poste. Les
+projets y sont riches et variés et visent à accompagner la transformation du Groupe La Poste. Vous collaborerez
+avec de nombreuses entités du sein du Groupe.
+Vous bénéficierez de l’apprentissage du milieu technique et de l’environnement bancaire ainsi                  que de
+l’accompagnement d’expert du milieu de l’informatique sur socle distribué.
+
+
+
+
+Contexte
+
+Vous allez découvrir le département « Centres FInanciers » (CFI) et plus précisément, être immergé au sein du service
+« Intégration Service Transverse »,
+
+Le département « Centres FInanciers » (CFI) a pour missions de :
+    - Construire et maintenir à l’état de l’art une offre de service de traitement du document, d’orchestration des
+        processus et de développement tactique
+
+     - Contribuer aux programmes, projets et évolutions des métiers LBP et de ses filiales.
+
+Le département CFI porte également l’offre de Gestion Electronique des Documents.
+
+Le service « IST», s’appuyant sur les progiciels leaders du marché, gère la construction, la qualification, la mise en
+œuvre des différentes solutions techniques ainsi que sa maintenance. Le service IST est composé de 9 personnes avec
+un profil technique qui vous permettrons de progresser sur toutes les composantes d’un SI.
+
+
+                                                         1/2
+
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur www.labanquepostale.fr
+                              – Rubrique « Nous rejoindre »
+Objectifs :
+
+     -    Participation à la construction du nouveau mode d’intégration et de déploiement continue sur les socles CFI.
+     -    Développement ksh/Java/ETL sur différents projets au sein du pôle IST.
+     -    Gestion du SI existant à travers sa maintenance, son évolution.
+     -    Gestion des mises en production
+
+
+Environnement technique
+
+    -    Red Hat /AIX
+    -    Java
+    -    DB2
+    -    ETL
+    -    No SQL Couchbase
+    -    Docker
+    -    Jenkins
+    -    Openshift
+    -    Tibco
+    -    Dialogue
+    -    Documentum
+    -
+
+Compétences comportementales
+
+    -    analyse
+    -    synthèse
+    -    écoute et compréhension des autres
+    -    bon relationnel
+    -    Intérêt prononcé pour les nouvelles technologies et le challenge technique
+
+
+Pour postuler : Envoyer CV et lettre de motivation à l’adresse suivante : sophie.despomaderes@labanquepostale.fr
+
+
+
+
+                                                          2/2
+
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur www.labanquepostale.fr
+                              – Rubrique « Nous rejoindre »
+

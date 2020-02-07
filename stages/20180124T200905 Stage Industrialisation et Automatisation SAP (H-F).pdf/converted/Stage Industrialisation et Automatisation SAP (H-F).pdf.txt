@@ -1,0 +1,97 @@
+24/01/2018
+
+Aperçu avant impression du descriptif de poste: Stage Industrialisation et Automatisation SAP (H/F)
+
+Titre: Stage Industrialisation et Automatisation SAP (H/F)
+Identifiant de la demande 66463 - Publié 24/01/2018 - B&PS-TECHNOLOGY SERVICES - B&PS-BS Ouest NantesNiort - FRANCE - (France) - (Pays De La Loire) - (Nantes - 49) - Full time - (IT Development and
+Applications) - Internship - Atos
+
+Atos est un leader international de la transformation digitale avec
+environ 100 000 collaborateurs dans 72 pays et un chiffre d’affaires
+annuel de l’ordre 12 milliards d’euros. Numéro un européen du Big Data,
+de la Cybersécurité, des supercalculateurs et de l’environnement de
+travail connecté, le Groupe fournit des services Cloud, solutions
+d’infrastructure et gestion de données, applications et plateformes
+métiers, ainsi que des services transactionnels par l’intermédiaire de
+Worldline, le leader européen des services de paiement.
+Grâce à ses technologies de pointe et son expertise digitale & sectorielle, Atos accompagne la
+transformation digitale de ses clients dans les secteurs Défense, Finance, Santé, Industrie,
+Médias, Énergie & Utilities, Secteur Public, Distribution, Télécoms, et Transports. Partenaire
+informatique mondial des Jeux Olympiques et Paralympiques, le Groupe exerce ses activités sous
+les marques Atos, Atos Consulting, Atos Worldgrid, Bull, Canopy, Unify et Worldline. Atos SE
+(Societas Europea) est une entreprise cotée sur Euronext Paris et fait partie de l’indice CAC 40.
+Pour plus d’information : fr.atos.net
+Mission
+Atos conçoit, développe et maintien des applications à haute valeur ajoutée pour le métier de
+nos clients.
+Pour le compte d’un des leaders du transport de gaz, vous serez intégré(e) à un projet qui opére
+une solution de gestion intégrée, leader mondial sur marché. Suite à une extension de son
+périmètre, Atos doit transformer son delivery via la répartition de ses activités entre plusieurs
+sites dans un modèle intégré aves son client et cela en optimisant les coûts.
+Sous la responsabilité du Service Delivery Manager, votre maître de stage, vous interviendrez sur
+le site du client à Nantes pour travailler autour la solution SAP.
+Vous participerez à la vie du projet et serez amené à mettre en œuvre des outils
+d’industrialisation et d’automatisation et contribuerez à la mise en place des outils et reportings.
+Vous serez amené(e) à utiliser les technologies suivantes:
+Rational Team Concert (RTC) de IBM – Suivi de l’activité projet
+UFT – automatisation des tests de non régression
+Excel et Visual Basic sous Excel - Automatisation de la production des indicateurs à partir
+de RTC
+UIPath – Industrialisation d’actions répétitives
+Framework Smashing - Visual management
+HP-ALM – Scénario de tests de validation interne
+BlueKiwi - RSE
+Vous découvrirez l'ensemble du cycle de vie logiciel et serez à même de remplir les objectifs
+pédagogiques suivants :
+Maîtrise technique,
+Communiquant avec un bon relationnel,
+Compréhension des enjeux,
+Développement en mode industrialisé (Normes, Outils),
+Travail en équipe,
+https://career5.successfactors.eu/xi/ui/rcmcommon/pages/jobReqPrintPreview.xhtml?drawButtons=true&jobID=66463&isExternal=true&isCareers…
+
+1/2
+
+24/01/2018
+
+Aperçu avant impression du descriptif de poste: Stage Industrialisation et Automatisation SAP (H/F)
+
+Méthodologie (approche rigoureuse et analytique),
+Adaptabilité.
+Nous considérons le stage comme un tremplin, une première expérience décisive qui vous
+ouvrira le champ des possibles. Nos stagiaires sont nos talents de demain !
+Alors, prêt à relever le défi ?
+Profil
+En cours de formation Bac+4/ BAC+5 minimum dans le domaine de l’informatique, vous
+recherchez un stage d’une durée de 4 à 6 mois (dates variables selon l’école).
+Vous maîtrisez impérativement Excel, VBA. SQL est un plus ainsi que la connaissance d’outils
+collaboratifs.
+Rigoureux(e) et méthodique, vous avez envie de vous investir sur des projets complexes qui
+nécessitent un sens aigu du service et de la performance. Vous souhaitez exprimer vos talents
+au service de l'équipe, du projet et de l'entreprise.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi Atos a mis en place un
+accord relatif à l’égalité professionnelle entre les hommes et les femmes. Par ailleurs, nos
+métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la
+nature de leur handicap.
+Rejoignez-nous !
+Information additionnelle
+La rentrée chez Atos, une manière ambitieuse de booster votre carrière !
+Atos a obtenu le label Happy Trainees 2016 pour la 3e année consécutive avec une note de 4.06
+/5 et un taux de recommandation de plus de 85% !
+L’alternance est basée à Nantes, une métropole dynamique parmi les meilleures aux classements
+qualitatifs de l’enseignement supérieur et de la vie étudiante.
+Nantes se positionne 5ème au palmarès général des villes étudiantes 2016-2017 et 2ème au
+classement 2016 des villes où les Français aimeraient travailler. En matière d’emploi, c’est la
+métropole qui a créé le plus d'emplois dans le numérique en 5 ans.
+Côté qualité de vie, Nantes se classe 3ème auprès des jeunes. La croissance de l’emploi, l’offre
+culturelle et universitaire ainsi que la proximité de l’océan et de la capitale en font l’une des villes
+privilégiées par les étudiants.
+Votre candidature
+Si vous souhaitez postuler pour ce poste, veuillez cliquer ci-dessous pour remplir notre
+formulaire de demande en ligne et joindre votre CV en format Word, rtf ou texte.
+
+https://career5.successfactors.eu/xi/ui/rcmcommon/pages/jobReqPrintPreview.xhtml?drawButtons=true&jobID=66463&isExternal=true&isCareers…
+
+2/2
+
+

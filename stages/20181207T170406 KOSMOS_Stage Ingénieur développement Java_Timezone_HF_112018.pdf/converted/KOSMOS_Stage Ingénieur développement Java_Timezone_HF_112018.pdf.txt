@@ -1,0 +1,74 @@
+Kosmos
+8 rue Kervégan
+44000 NANTES
+
+OFFRE DE STAGE
+Ingénieur Développement Java H/F
+
+Venez partager notre aventure : « Digital for Education » !
+
+KOSMOS EN
+BREF
+
+Kosmos est le leader spécialiste du numérique pour l'éducation. Créée en 1998 à
+Nantes, nous accompagnons les acteurs de l'éducation (enseignement scolaire,
+enseignement supérieur, formation professionnelle et continue) autour de quatre
+métiers : l'édition logicielle, le conseil, l'intégration et l'infogérance. Le groupe Kosmos
+(4 sociétés) est implanté à Nantes (siège social), Toulouse, Lyon, Metz, Paris et
+Montréal, compte 120 collaborateurs, et réalise un CA consolidé de 11 M€ en 2017.
+
+VOS MISSIONS
+
+Dans le cadre de l’utilisation de nos solutions numériques à travers le monde, vous
+contribuez à la cohérence entre les dates/heures du système suivant les fuseaux
+horaires des différents pays :
+Au sein de l’équipe Architecture et R&D, votre mission est de réaliser :
+● L’Étude de solutions techniques :
+>
+
+Analyse des solutions du marché
+
+>
+
+Choix de la solution à mettre en œuvre
+
+● Le Développement d’améliorations techniques et fonctionnelles sur le logiciel :
+>
+
+Coordination avec le responsable fonctionnel
+
+>
+
+Evaluation des coûts de réalisation
+
+>
+
+Développement
+
+>
+
+Réalisation des phases de tests et corrections des bugs
+
+>
+
+Rédaction de la documentation
+
+Technologies, Environnement logiciel
+-
+
+Java, Spring, Elasticsearch, MariaDB
+
+-
+
+Git, Jenkins, Maven, Sonar
+
+VOTRE PROFIL
+
+Vous êtes en dernière année de cycle ingénieur spécialisé en informatique et recherchez
+un stage de fin d’études (5/6 mois).
+Lieu de stage : 8 rue Kervégan, Nantes.
+Rejoignez une structure et une organisation à taille humaine,
+envoyez votre candidature à
+recrutement@kosmos.fr
+
+

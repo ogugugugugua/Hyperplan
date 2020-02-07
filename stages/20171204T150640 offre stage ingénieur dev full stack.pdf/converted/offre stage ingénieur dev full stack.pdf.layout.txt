@@ -1,0 +1,62 @@
+                   Offre de stage Ingénieur Développeur Full Stack
+       if(/Nodejs | Javascript | HTML5 | CSS3 | Git/.test(you)){ devs.push(you) }
+  Et si vous rejoigniez une équipe de techs, libérée, dynamique, où vos idées comptent ?
+Ideolys est une start-up innovante, éditeur de solutions web R.I.A et d’objets connectés pour le
+marché de la restauration.
+
+Notre équipe qui prône le bien-être au travail est basé sur la confiance et le respect, où il fait bon
+travailler ! Entreprise libérée, elle permet à chacun d’être autonome dans la prise d’initiatives et
+d’organisation.
+
+
+
+   Ideolys la start-up « Great Place to Work » recrute des développeurs pour un stage!
+    Vous recherchez un stage (3ème ou 5ème année) et souhaitez rejoindre une start-up innovante ?
+
+Adepte du babyfoot, notre équipe de 35 individus motivés est en plein développement. Nous
+recherchons de nouveaux équipiers, auxquels nous accordons une réelle importance. Le(s)
+poste(s) est basé sur Nantes ou La Roche sur Yon (stage de 3 à 6 mois).
+
+
+
+          L’Agilité, vous connaissez ? Avec nous, vous la pratiquerez au quotidien.
+Motivés pour analyser, concevoir et développer,
+
+Vous travaillerez en équipe où l’entraide et le partage sont nos valeurs.
+
+Vous intégrerez une équipe et profiterez de nos pratiques agiles (scrum, code review, par
+programming,…)
+
+De nature curieux(se) et empathique, vous avez un réel goût pour les nouvelles technologies.
+
+Vous êtes connu pour votre créativité et votre enthousiasme.
+
+
+
+                             Des thèmes de stage, vous en voulez ?
+Projet 1 : Outil de Business Intelligence
+
+Projet 2 : Développement d’objets connectés en restauration
+
+Projet 3 : Développement d’un module PMS au sein d’un ERP
+
+Projet 4 : Réalisation d’un Outil de pilotage de la plateforme Cloud de notre ERP Easilys
+
+Projet 5 : Lancement en opensource de nos frameworks (sous node.js)
+
+Projet 6 : Accompagnement du déploiement du framework Carbone.js
+
+Projet 7 : Développement d’application web R.I.A utilisant les nouvelles technologies
+                                Des techno, vous en voulez ?
+Vous pourrez utiliser nos frameworks sous node.js mais aussi les langages : Javascript (client et
+serveur), SQL postgreSQL, HTML/CSS, gitlab ou vos technos.
+
+Vos indemnités seront de 800 à 1000€ brut/mois.
+
+Si vous vous êtes reconnu dans cette offre, alors n’attendez plus et venez vivre l’expérience
+                                          Ideolys !
+              Merci d’envoyer CV et lettre de motivation à pleycure@ideolys.com
+
+                                                            15 Quai Ernest Renaud 44100 Nantes
+                                           52 rue Jacques Yves Cousteau 85000 La Roche sur Yon
+

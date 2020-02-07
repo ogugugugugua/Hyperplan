@@ -1,0 +1,54 @@
+                            Kosmos
+                            8 rue Kervégan
+                            44000 NANTES
+
+
+                                                                                  OFFRE DE STAGE
+                                                                 Ingénieur Développement Java H/F
+
+
+                                  Venez partager notre aventure : « Digital for Education » !
+
+
+KOSMOS EN      Kosmos est le leader spécialiste du numérique pour l'éducation. Créée en 1998 à
+BREF
+               Nantes, nous accompagnons les acteurs de l'éducation (enseignement scolaire,
+               enseignement supérieur, formation professionnelle et continue) autour de quatre
+               métiers : l'édition logicielle, le conseil, l'intégration et l'infogérance. Le groupe Kosmos
+               (4 sociétés) est implanté à Nantes (siège social), Toulouse, Lyon, Metz, Paris et
+               Montréal, compte 120 collaborateurs, et réalise un CA consolidé de 11 M€ en 2017.
+
+VOS MISSIONS   Afin de répondre à des enjeux de maintenabilité et d’évolutivité de notre solution, nous
+               souhaitons apporter des améliorations au niveau du service d’authentification. Ainsi, au
+               sein de l’équipe Architecture et R&D, votre mission sera de contribuer à la refonte du
+               service d’authentification de notre solution avec Spring Security. Spring Security est un
+               framework qui offre des fonctionnalités d'authentification, d'autorisation et d'autres
+               fonctions de sécurité pour les applications.
+
+                 ● Étude de solutions techniques :
+                      >   Analyse de l’existant
+                      >   Etude de la solution Spring Security
+
+
+                 ● Développement d’améliorations techniques et fonctionnelles sur le logiciel :
+                      >   Coordination avec le responsable fonctionnel
+                      >   Evaluation des coûts de réalisation
+                      >   Développement
+                      >   Réalisation des phases de tests et corrections des bugs
+                      >   Rédaction de la documentation
+
+
+               Technologies, Environnement logiciel
+                  -       Java, Spring, Elasticsearch, MariaDB
+                  -       Git, Jenkins, Maven, Sonar
+VOTRE PROFIL   Vous êtes en dernière année de cycle ingénieur spécialisé en informatique et recherchez
+               un stage de fin d’études (5/6 mois).
+
+
+               Lieu de stage : 8 rue Kervégan, Nantes.
+
+
+                            Rejoignez une structure et une organisation à taille humaine,
+                                            envoyez votre candidature à
+                                             recrutement@kosmos.fr
+

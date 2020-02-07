@@ -1,0 +1,47 @@
+Offre de stage Data Engineer:
+
+Objectif du stage :
+
+Energiency développe un logiciel d’analyse Big Data de la performance énergétique. Afin
+d’automatiser une partie de son activité, l’équipe data est à la recherche d’un data engineer. Vous
+serez en charge de développer des outils afin d’améliorer la chaîne de traitement de la données :
+    ● implémenter des workflows d'acquisition de la donnée via l’utilisation d’un ETL
+    ● développer des outils python pour automatiser les tâches d’analyse de la donnée
+    ● valoriser les données clients en travaillant avec les data scientist sur les problématiques de
+        visualisation de la donnée
+    ● implémenter les modèles de prédictions des data scientist dans l’application Energiency
+
+
+
+Technologie :
+
+    ●   Python
+    ●   ETL : Nifi
+    ●   API REST
+    ●   SQL / NOSQL
+
+
+
+
+À propos d’Energiency :
+
+Energiency développe un logiciel cloud pour l’Industrie qui transforme les données industrielles en
+leviers d’économie pour ses clients. La data science et l’intelligence sont des outils de l’Industrie 4.0 au
+coeur de la technologie Energiency. Energiency a déjà reçu plus de 30 récompenses pour sa
+technologie, et a été désignée Start-up de la Transition Energétique par le magazine L’Usine Nouvelle.
+Une 1ère levée de fonds de 2,7 millions d’euros a été réalisée en janvier 2017. Nous comptons
+aujourd’hui 15 collaborateurs dans nos équipes (data scientists, développeurs, opérationnels,
+commerciaux) à Rennes et Lyon et nous ne comptons pas nous arrêter là ! Pour poursuivre notre
+développement et maintenir notre forte croissance, nous sommes à la recherche de personnes
+passionnées, innovantes et créatives afin de contribuer au développement de notre logiciel et imaginer
+avec nous l’industrie numérique de demain. Welcome !
+
+
+
+Contact :
+Aymeric Hervieu
+Directeur des opérations
++336 41 89 18 09
+aymeric.hervieu@energiency.com
+www.energiency.com
+

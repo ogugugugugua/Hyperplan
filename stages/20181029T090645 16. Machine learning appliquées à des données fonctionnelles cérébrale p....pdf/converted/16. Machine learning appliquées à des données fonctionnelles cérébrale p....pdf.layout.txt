@@ -1,0 +1,81 @@
+2018-7042 Machine learning appliquées à des données fonctionnelles
+cérébrale pour évaluer stress H/F
+
+Informations générales
+         Description de l'entité Le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) est un organisme public de
+                                 recherche.
+
+                                   Acteur majeur de la recherche, du développement et de l'innovation, le CEA intervient dans le cadre de ses
+                                   quatre missions :
+                                   . la défense et la sécurité
+                                   . l'énergie nucléaire (fission et fusion)
+                                   . la recherche technologique pour l'industrie
+                                   . la recherche fondamentale (sciences de la matière et sciences de la vie).
+
+                                   Avec ses 16000 salariés -techniciens, ingénieurs, chercheurs, et personnel en soutien à la recherche- le CEA
+                                   participe à de nombreux projets de collaboration aux côtés de ses partenaires académiques et industriels.
+         Description de l'unité Le Leti, institut de recherche technologique de Cea Tech, a pour mission de créer de la valeur et de
+                                l'innovation avec ses partenaires industriels. Il fait le lien entre la recherche fondamentale et la production de
+                                micro et nanotechnologies dans le but d'améliorer la qualité de vie de chacun. Fort d'un portefeuille de 2.800
+                                brevets, le Leti façonne des solutions avancées pour améliorer la compétitivité de ses partenaires industriels:
+                                grands groupes, PME ou startups. Localisé à Grenoble (38), le Leti compte plus de 1 800 chercheurs et a des
+                                bureaux aux US et au Japon.
+
+                                   Le Laboratoire signaux et systèmes de capteurs (LSSC) mène des activités dans le domaine de la fusion de
+                                   signaux capteurs embarquée exploitant la multi-modalité par des études en traitement du signal et de
+                                   l'information et algorithmique embarquée. Ces études se focalisent d'une part, sur les fonctions de capture de
+                                   contexte et d'interaction avec l'environnement à partir de systèmes de capteurs portés par la personne ; il
+                                   adresse d'autre part des problématiques de maintenance prédictive et de contrôle de structures sur des
+                                   ouvrages d'art ou bien des installations industrielles.
+           Délai de traitement 2 mois
+
+
+Description du poste
+                         Site Grenoble
+                         Lieu 17, avenue des martyrs, 38000 GRENOBLE
+                      Domaine Composants et équipements électroniques
+                        Contrat Stage
+              Intitulé de l'offre Machine learning appliquées à des données fonctionnelles cérébrale pour évaluer stress H/F
+                Sujet de stage Approches de machine learning appliquées à des données fonctionnelles cérébrale pour l'évaluation du
+                                  stress
+    Durée du contrat (en mois) 6 mois
+          Description de l'offre   Ce stage se situe dans le cadre de la capture de contexte et notamment le monitoring du
+                                   niveau de stress. Actuellement, nos recherches dans le domaine se sont concentrées sur
+                                   l’évaluation du niveau de stress à partir de signaux physiologiques dits périphériques
+                                   (rythme cardiaque, activité électrodermale, respiration...) enregistrés à l'aide de capteurs
+                                   portables. Le stage proposé s’appliquera à l'étude de l'évolution d'un certain nombre de
+                                   paramètres caractérisant l’activité fonctionnelle cérébrale telle qu’enregistrée en
+                                   MagnétoEncéphaloGraphie (MEG) et ElectroEncéphaloGraphie (EEG). Ces données sont
+                                   des données temporelles et multicanaux. Ce stage exploitera la base de données Open
+                                   MEG Archive (https://www.mcgill.ca/bic/resources/omega - Baillet et al, Neuroimage 2016)
+                                   qui recueille actuellement les données MEG et EEG chez 182 sujets sains et 38 patients
+                                   âgés de 18 à 70 ans en condition de repos, l’activité cardiaque enregistrée par
+                                   ElectroCardioGramme (ECG), les mouvements oculaires enregistrés par
+                                   ElectroOculoGramme (EOG) ainsi que des données démographiques et le niveau de
+                                   stress autoévalué par les sujets sur une échelle de 1 à 10. L’activité cérébrale évoluant
+                                   avec l’âge, la première étape consistera à modéliser leur évolution au fil du temps afin
+                                   d’évaluer quelles variables sont les plus pertinentes pour nos modèles. L’objectif de ce
+                                   travail vise à constituer des modèles mathématiques permettant de mettre en relation le
+                                   niveau de stress d’une personne et différentes caractéristiques fonctionnelles cérébrales
+                                   extraites à partir de la MEG et de l’EEG et/ou physiologiques extraites à partir de l’ECG et
+                                   de l’EOG. Dans un second temps, le projet consistera à comparer différents classifieurs
+                                   afin d’aboutir à un modèle permettant au mieux d’évaluer le niveau de stress d’une
+                                   personne à partir de son activité fonctionnelle cérébrale. la capacité à distinguer les
+                               patients des sujets sains à l’aide des classifieurs sera également évaluée. In fine, ce type
+                               de modèle peut avoir des applications dans le domaine de la prise en charge de certains
+                               troubles psychiatriques ou neurologiques.
+ Moyens / Méthodes / Logiciels Matlab, Python
+            Profil du candidat Etudiant niveau Bac +4/5 en Master 2 ou école d'Ingénieur ayant une bonne connaissance des méthodes de
+                               machine learning et de modélisation statistique.
+
+                               Merci de bien vouloir transmettre votre candidature directement à Etienne LABYT : etienne.labyt@cea.fr
+
+
+Critères candidat
+                    Langues Anglais (Intermédiaire)
+             Diplôme préparé Bac+5 - Diplôme École d'ingénieurs
+
+
+Demandeur
+         Disponibilité du poste 01/02/2019
+

@@ -1,0 +1,13 @@
+GROUPE
+
+Stage ingénieur développement HTML5 (H/F)
+
+Entreprise : Armor est le spécialiste mondial de la chimie des encres et des technologies d'impression : N°1 mondial des consommables Transfert Thermique, N°1 de la production de cartouches jet d'encre en Europe et N°1 de la vente de cartouches laser en France. Cette ETI française appuie son développement sur une stratégie de coindustrialisation et d’innovation durable. Ses 1850 collaborateurs répartis dans 24 filiales sur tous les continents du monde, dont 680 en France, ont réalisé en 2015 un chiffre d'affaire de 240 M€. Par ailleurs, maîtrisant depuis plus de 20 ans des process industriels à la pointe, Armor a souhaité mettre à profit ses savoir-faire en créant de nouvelles activités : Films Photovoltaïques Organiques (OPV), collecteurs de courant pour batteries ou encore Encres Industrielles.
+
+Stage et missions : Rattaché(e) à la Direction des Systèmes d’Information (DSI) basé sur Nantes, vous intégrerez un service de 23 personnes. La DSI s’appuie fortement sur la plateforme SalesForce et des applications HTML5 pour accompagner le développement de l’entreprise (CRM, Espaces clients, vente en ligne...), dans un contexte international. Votre stage, d’une durée minimale de 4 mois, sera axé sur le développement d’applications HTML5, en lien avec SalesForce. Votre arrivée sera accompagnée d’une formation à l’environnement SalesForce (langage proche du Java) , votre stage sera encadré par le responsable de l’application au sein de la DSI.
+
+Profil : En cours de formation informatique (école d’ingénieur ou universitaire), vous disposez d'un bon niveau en développement Java, HTML, CSS, Javascript & Ajax. Ce stage requiert qualité d’écoute et de communication, pragmatisme et rigueur.
+
+Contact : jeanne.heuveline@armor-group.com
+
+

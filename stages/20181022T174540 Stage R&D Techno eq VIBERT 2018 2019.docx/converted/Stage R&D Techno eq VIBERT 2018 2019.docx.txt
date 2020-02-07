@@ -1,0 +1,82 @@
+
+      Offre de Stage 2018 - 2019                           Sercel - Site de Nantes
+
+
+Imager demain ce qui ne peut pas être vu aujourd’hui
+
+Premier concepteur et fabricant mondial de matériel géophysique, Sercel propose la plus grande offre de technologies de pointe pour la prospection sismique autour du globe.
+A l’écoute du client, Sercel assure le progrès de la géophysique grâce à l’innovation, en imposant toujours le meilleur dans la conception et la fabrication, avec le souci permanent de la sécurité et de l’environnement.
+Employant plus de 1800 personnes, Sercel est implanté dans 9 pays, dont la France, les Etats-Unis, la Chine, et intervient dans le monde entier.
+Sercel Carquefou, est spécialisé en conception et fabrication d’électronique professionnelle et emploie 500 salariés. 
+ http://www.sercel.com 
+Merci de nous adresser votre candidature (cv et lettre de motivation) en précisant la référence du stage à : http://www.sercel.com/careers/Pages/join-us.aspx
+SUJET 
+DESCRIPTION
+PROFIL
+DUREE
+
+1 sujet de stage proposé au sein de notre Département R&D Produits Techno
+
+
+Sujet :
+
+Etude d’un lecteur Python de fichiers au format SEG-D
+
+
+
+
+
+
+
+
+
+
+Référence :
+R&D Techno 1 -2019
+
+
+
+Contexte :
+La géophysique est un ensemble de techniques de recherche basées sur des mesures physiques permettant de localiser de façon précise les richesses du sous-sol (terrestres, sous-marines). Parmi les techniques géophysiques les plus utilisées, on compte la sismique. C'est une méthode géophysique comparable à l'échographie médicale. Elle permet l'investigation en profondeur du sous-sol et la visualisation en 3D des différentes couches géologiques constituant le sous–sol, pour aider à localiser les gisements d’hydrocarbures et d’observer leur évolution dans le temps.
+La méthode utilisée, la sismique de réflexion consiste à réaliser une échographie du sous-sol : 
+	•	Une source émet des signaux acoustiques,
+	•	Un ensemble de capteurs déployés sur le terrain enregistrent de façon synchronisée des échos des signaux émis par la source après réflexion sur les couches géologiques.
+Les données acquises sont stockées dans un fichier au format de la profession, fichier au format SEG-D.
+Nous disposons de librairies C++ et Java permettant l’écriture/lecteur des données sismiques au format SEG-D.
+
+
+Il n’existe pas de lecteur universel de fichier SEG-D en python, pourtant il existe des librairies python pour la lecture des autres formats de la profession et pour le traitement des données sismiques (par exemple obspy).
+Dans ce cadre, nous souhaitons accompagner un stagiaire dans l’étude et la mise en œuvre d’un lecteur python de fichier SEG-D. Au sein du service R&D, il évoluera sous la responsabilité d’un ingénieur confirmé.
+
+
+Mission(s) :
+
+Comprendre le format SEG-D et sa modélisation XML.
+Proposer un lecteur python s’appuyant sur la modélisation XML du format SEG-D SERCEL.
+Proposer un outil de vérification python du format SEG-D SERCEL.
+Evaluation des solutions et comparaison avec la solution existante (librairie Java).
+Interfaçage avec les librairies python existantes de display et traitements des données sismiques.
+
+
+Intérêt du stage :
+
+Développer des compétences opérationnelles en python.
+Développer des compétences opérationnelles en XML.
+Evoluer dans un environnement d’ingénieurs expérimentés.
+
+
+
+Profil :
+
+Dernière année d’Ecole d’Ingénieur ou Master.
+
+Programmation python.
+Connaissance XML.
+
+Motivation pour la technique.
+
+Durée : 
+6 mois
+
+
+

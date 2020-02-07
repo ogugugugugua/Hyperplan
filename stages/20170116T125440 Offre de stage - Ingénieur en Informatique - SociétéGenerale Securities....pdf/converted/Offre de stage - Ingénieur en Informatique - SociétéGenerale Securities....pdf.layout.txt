@@ -1,0 +1,53 @@
+Environnement
+
+Société Générale Securities Services (SGSS) est une entité du groupe Société Générale offrant une gamme
+complète de solutions Titres auprès d’une large clientèle : investisseurs institutionnels (compagnies d’assurances,
+fonds de pensions), gestionnaires d’actifs, intermédiaires financiers (courtiers, banques) et grandes entreprises.
+
+Au sein de la branche ITEC/SGS/TMS/DEV du système d’information de SGSS, entité Nantaise responsable des
+services mutualisés et transversaux, vous intégrerez une équipe de cinq personnes ayant en charge le
+développement et la maintenance d’un parc applicatif composé d’une trentaine d’applications.
+
+
+Mission
+
+Refonte d’applications et de composants applicatifs afin de prévenir la dette technique
+
+A ce titre et en collaboration avec votre maître de stage (ou tuteur) qui assurera votre formation, vous participez
+aux missions suivantes :
+
+    •    Analyse de l’existant par un reverse engineering des outils internes à refondre (Java, Struts1, Play1).
+    •    Conception des nouveaux applicatifs dans le respect du socle technique cible du groupe (JEE, Angular
+         JS, Webservices REST, Bootstrap3, JPA, Spring).
+    •    Prévention de la dette technique par la pratique du refactoring.
+    •    Automatisation des tests unitaires et d’intégrations dans une usine d’intégration continue (Jenkins).
+    •    Réalisation des documentations techniques requises à la maintenance des applications nouvellement
+         créées.
+
+Durée du stage : 5/6 mois
+
+
+Profil
+
+Etudiant de niveau Bac+4/5 en école d’ingénieurs ou université, vous êtes spécialisé en développement
+informatique. Rigoureux, proactif et autonome, vous disposez d’un excellent relationnel couplé à de solides
+compétences en programmation orientée objet.
+
+Compétences requises :
+   • Programmation Orientée Objet
+   • Java/JEE
+   • HTML/CSS
+   • SQL
+
+Les compétences suivantes seraient un plus :
+    • Maitrise des Design Pattern du GOF
+    • Maven2
+    • AngularJS
+    • Spring framework 3.0 et supérieur
+    • JPA/Hibernate
+
+
+Contact
+
+Merci d’adresser vos candidatures par mail à olivier.betant@sgss.socgen.com.
+

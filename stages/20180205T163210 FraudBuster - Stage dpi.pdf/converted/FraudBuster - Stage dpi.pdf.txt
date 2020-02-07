@@ -1,0 +1,64 @@
+Sujet de stage - Étude de stack DPI open source
+Entreprise
+FraudBuster est l'une des entreprise leader dans le domaine de l'anti-fraude téléphonique. Elle innove dans sa
+façon d'analyser les appels, détecter les fraudes et protéger en temps réelles réseaux d'opérateurs téléphonique.
+Ses solutions d'anti-fraude sont déployées en Europe, au Moyen-Orient et en Afrique.
+
+Descriptif du sujet de stage
+Mission
+La mission sera d'évaluer les différentes solutions de DPI open source existantes en termes de fonctionnalité,
+évolution et application au projet de l’entreprise : détection des communications VOIP.
+Il faudra pour cela :
+•
+Prendre connaissance des besoins et spécificités du projet de DPI de FraudBuster et en écrire un cahier
+des charges.
+•
+Mettre en place une maquette dans le lab de test pour valider les différentes solutions. Définir un cahier
+de tests validant les différents besoins.
+•
+Pour chacune des stacks DPI (nDPI/ntop et Netifyd pour ne citer qu'elles):
+o Valider la solution en validant que les principaux protocoles VOIP sont bien supportés.
+o Étude du coût nécessaire pour répondre au cahier des charges.
+o Étude du coût nécessaire pour migrer vers la solution testée.
+•
+Développement d'un POC avec la meilleure des solutions étudiées répondant aux plus de besoins
+possibles.
+
+Livrables
+•
+•
+•
+
+Un cahier des charges pour lister tous les besoins qu'il faudra valider sur les différentes solutions.
+Un rapport par solution étudiée.
+L'intégration d'une des solutions dans un POC fonctionnel répondant au maximum de besoins possibles.
+
+Profil
+Pour mener à bien cette mission, FraudBuster recherche un profil ayant les compétences suivantes :
+•
+Connaissance des outils d'analyse réseau (tcpdump, wireshark etc.).
+•
+Linux.
+•
+Langage C.
+•
+Un langage de script (shell/python).
+•
+A l'écoute et autonome.
+
+Conditions
+Convention
+Une convention de stage sera rédigée et signée conjointement.
+
+Lieu
+Sur place, à Marseille (1er arrondissement).
+
+Période
+6 mois.
+
+Rémunération
+A définir.
+
+FraudBuster © 2018 – www.fraudbuster.mobi
+
+

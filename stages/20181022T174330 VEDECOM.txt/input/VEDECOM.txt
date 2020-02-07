@@ -1,0 +1,72 @@
+Description du poste et Missions
+
+Au sein du domaine « Délégation de conduite et connectivité », l’équipe projet
+en charge des « Nouvelles communications sécurisées et de la sécurité
+coopérative » a pour objectif de spécifier et concevoir des dispositifs
+d’amélioration de la sécurité routière reposant sur une communication rapide
+et sécurisée entre véhicules, infrastructure et usagers vulnérables.
+
+L’équipe composée de chercheurs, ingénieurs, de doctorants souhaite recruter
+un(e) stagiaire ingénieur réseaux & télécommunication.
+
+Avec l’avènement des systèmes de transport intelligents coopératifs, les
+véhicules ont besoin d’échanger des informations entre eux (véhicule à
+véhicule : V2V), avec l’unité bord de route (véhicule à infrastructure : V2I)
+et aussi avec les systèmes centraux (véhicule à centre : V2C). Ces
+communications sont basées sur le protocole ITS-G5 (IEEE 802.11p) standardisé
+par l’organisme Européen de Standardisation des Télécommunications (ETSI) et
+peuvent également utiliser la technologie LTE (Long Term Evolution) afin
+d’améliorer les performances de communication véhiculaire.
+
+Dans ce contexte, une connectivité fiable et continue est un enjeu majeur pour
+accompagner le déploiement des nouveaux services offerts par les
+communications hybrides et assurer une meilleure gestion de la mobilité.
+
+L’obectif du stage est de développer des méthodes dans le cadre d’une
+communication hybride pour les véhicules connectés.
+
+Il/elle aura en charge les activités suivantes :
+-	Implémentation, simulation et évaluation des performances des
+mécanismes de gestion de la mobilité avec les technologies ITS-G5 et LTE
+-	Développement d’algorithmes sous C++
+-	Test d’algorithmes sur un framework de simulation VEINS-LTE composé
+d’un simulateur de la mobilité urbaine SUMO (Simulation of Urban MObility) et
+un simulateur réseau OMNeT (Objective Modular Network) avec des extensions
+pour la connectivité ITS-G5 et LTE.
+-	Expérimentation de prototypes conçus
+
+Mots-clés : Réseaux, télécommunication, véhicules connectés, ITS,
+Communication V2X, Mobile IP, IEEE 802.11p, LTE, Simulation d’environnement
+dynamique, C++
+
+
+Profil recherché
+Formations/compétences :
+
+•	Étudiant en Master 2 ou en école d’ingénieurs dans les domaines des
+télécommunications.
+•	Connaissances en réseaux mobiles et en communications IP
+•	Compétences en développement C++
+
+Savoir-être :
+
+•	Travail en équipe.
+•	Être force de proposition sur des thématiques de recherche.
+
+Pour postuler, merci de suivre ce lien :
+https://www.talentdetection.com/Vedecom/offre-26458-XwrMyA
+
+Qui sommes nous ?
+
+VEDECOM
+77 rue des Chantiers • Versailles • France
+L’Institut VEDECOM est un Institut français de recherche et de formation dédié
+à la mobilité individuelle décarbonnée et durable qui rassemble des
+partenaires publics (Universités, Ecoles d’ingénieurs …) et privés
+(constructeurs, équipementiers, sociétés de services,...). Il a été
+sélectionné en tant qu’Institut de Transition Energétique (ITE) dans le cadre
+du Programme des Investissements d’Avenir (PIA) de l’Etat Français.
+
+VEDECOM ambitionne de devenir un leader européen en matière d’innovation dans
+les domaines des véhicules électrifiés, autonomes et connectés grâce à des
+infrastructures et services de mobilité et d’énergie partagée.

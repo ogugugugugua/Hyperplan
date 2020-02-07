@@ -1,0 +1,32 @@
+
+
+offre de stage
+STAGE « Refonte d’Océade en Devbooster et ajout de nouvelles fonctionnalités »
+Réf : STOCE-E**
+Entreprise 
+Euro Information est la filiale Informatique du groupe de bancassurance Crédit Mutuel / CIC.
+Euro Information conçoit, réalise, maintient et exploite un système d’information commun utilisé par le Groupe.
+Les activités de développement et de production informatique au niveau national et international sont assurées par environ 2700 salariés répartis sur plusieurs sites géographiques au niveau national : Strasbourg, Nancy, Dijon, Orléans, Lyon, Lille, Cergy, Val de Fontenay, Paris et Nantes. 
+
+
+Mission
+
+Nous recherchons un stagiaire pour intégrer les équipes de Nantes – Domaine Qualification, composé de plus de 20 personnes. 
+Nous souhaitons vous  confier un projet de développement d’une application en Devbooster liée au domaine Outils et environnements de Qualification dans le but de refondre l’application dans la dernière version de notre framework internet Devbooster et d’ajouter des fonctionnalités nouvelles concernant les statistiques d’utilisation de l’outil. 
+
+Pour cela, vos missions consisteront en la rédaction des spécifications techniques et fonctionnelles, la conception,  le développement, la Qualification, le déploiement,  la réalisation de la documentation et le suivi.  
+Vous serez également amené à participer à la vie de l’équipe, et vous serez encadré par un tuteur.
+
+Profil
+
+De formation supérieure bac + 5, en école d’ingénieur ou en université (Informatique, Miage…) vous recherchez un stage d’une durée de 3 mois minimum.
+
+Vous possédez un sens de l’écoute, des capacités d’analyse et de synthèse  et êtes méthodique. 
+Vous possédez également un bon relationnel, vous aimez travailler en équipe et vous souhaitez vous investir dans des projets d’envergures.
+
+L’offre est à pourvoir sur notre site de Nantes dès le mois de Janvier 2017.
+Une proposition d'embauche en fin de stage est envisageable.
+
+
+Veuillez nous envoyer votre candidature à : recrutementei@e-i.com .
+Merci de rappeler le code STOCE-E** et l’intitulé du poste dans l’objet de votre mail.

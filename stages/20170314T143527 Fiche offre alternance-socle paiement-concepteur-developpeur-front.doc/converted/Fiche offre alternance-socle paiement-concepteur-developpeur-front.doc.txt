@@ -1,0 +1,150 @@
+
+FICHE OFFRE MISSION
+ALTERNANCE
+
+
+
+
+
+INTITULE DU POSTE : Concepteur-développeur solution front web / front mobile
+
+
+LOCALISATION GEOGRAPHIQUE DU POSTE : NANTES
+
+
+POSITIONNEMENT DANS L’ORGANISATION : DSI BSCC / FINANCES ACHATS (CCSAP PTE) / DEVELOPPEMENTS
+
+
+OPPORTUNITE DE LA MISSION POUR LA DIRECTION : CONTEXTE ET SUJET
+La DSI BSCC lance la création de socles techniques et fonctionnels qui seront des solutions mutualisées pour l’ensemble de la BSCC mais aussi du groupe La Poste.
+Le socle Paiement concerne la mise à disposition d’une solution mutualisée, sécurisée et pérenne, de gestion des moyens de paiement pour l’ensemble des applications de vente existantes et à venir du Courrier et du groupe La Poste.
+
+
+MISSIONS ET ACTIVITES CONFIEES 
+Mission 1 : Participation à l’élaboration des solutions front web du socle paiement, en mode Agile
+Conception, analyse, développement et test d’une solution front web, en mode Agile (équipe pluri-compétente de développement)
+
+Mission 2 : Participation à l’élaboration des solutions front mobile du socle paiement, en mode Agile
+Conception, analyse, développement et test d’une solution front mobile
+
+Mission 3 : Veille technologique sur les nouveaux usages en matière de moyens de paiement
+
+DUREE ENVISAGEE
+Alternance :
+  12 mois
+  Plus de 12 mois
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ BAC                       BAC+2                      BAC+3                          BAC+4                       BAC +5
+
+
+
+
+
+
+
+TUTEUR RESPONSABLE PRESSENTI : 
+
+- A déjà assuré le rôle de tuteur ?
+  Oui 
+  Non 
+
+Nb d’alternants actuellement suivis : aucun
+
+Le tuteur souhaite-t-il s’inscrire à la formation pour le tutorat ?
+  Oui 
+ Non
+
+Au-delà du tuteur responsable, est-il envisagé un relais « opérationnel »  en complément du tuteur responsable ?
+ Oui 
+  Non
+Si oui, préciser le nom : le concepteur développeur interne de l’équipe
+ 	
+
+
+
+
+
+
+
+
+
+
+Branche Service Courrier Colis
+Direction du Système d’information						
+
+
+
+
+IDENTIFICATION DU BESOIN
+
+COMPETENCES  TECHNIQUES ET COMPORTEMENTALES
+
+Compétences techniques  requises pour la mission :
+Angular ou autre stack de dev front
+Java ou kotlin pour Android
+Android studio, IDE jetbrain
+	
+
+
+Compétences techniques qui seront  développées au cours de la mission :	
+angular, java, kotlin, Rx, SQLite/ORM, Espresso, Android studio, fabric, jira, jenkins, sonar, flurry
+
+Compétences comportementales  qui seront développées au cours de la mission:	
+Autonomie
+Capacité d’analyse
+Communication
+
+Compétences comportementales  requises pour la mission :	
+Rigueur
+Ouverture d’esprit
+Recherche du résultat
+
+
+NIVEAU ADEQUAT : NIVEAU DE DIPLOME PREPARE
+
+ACCOMPAGNEMENT PREVU
+
+
+PAGE  \* Arabic  \* MERGEFORMAT2
+
+
+

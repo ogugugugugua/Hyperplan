@@ -1,0 +1,42 @@
+Poste:​ ​Stage​ ​ingénieur​ ​DevOps
+La​ ​Startup​ ​:​ ​en​ ​activité​ ​depuis​ ​2015,​ ​Semoa​ ​Group​ ​oeuvre​ ​dans​ ​le​ ​domaine​ ​des​ ​moyens​ ​de
+paiements​ ​innovants​ ​à​ ​destination​ ​des​ ​pays​ ​d’Afrique.
+
+
+Contrat​ ​:​ ​Stage​ ​3​ ​à​ ​6​ ​mois                        Indemnisation​ ​:​ ​Selon​ ​profil.
+
+Profil​ ​recherché​ ​:                                        Contact​ ​CV​ ​+​ ​LM​ ​:
+Elève​ ​Ingénieur​ ​Bac​ ​+3/4/5                              edem.adjamagbo@semoa-group.com
+
+Date​ ​de​ ​début​ ​:​ ​A​ ​définir                           Lieu:​​ ​Nantes,​ ​La​ ​beaujoire,​ ​Village
+                                                              innovation​ ​Crédit​ ​Agricole.
+
+
+Description:
+Nous​ ​proposons​ ​un​ ​poste​ ​pour​ ​un​ ​développeur​ ​informatique​ ​souhaitant​ ​s'investir​ ​dans​ ​la
+création​ ​d’une​ ​activité​ ​innovante​ ​dans​ ​l’univers​ ​des​ ​moyens​ ​de​ ​paiement​ ​en​ ​Afrique.​ ​Vous
+travaillerez​ ​sur​ ​le​ ​développement​ ​d’application​ ​web,​ ​backend​ ​et​ ​pour​ ​bornes​ ​tactiles.​​ ​Rattaché
+au​ ​chef​ ​d’entreprise​ ​ou​ ​ ​au​ ​CTO​ ​vous​ ​serez​ ​amenés​ ​à:
+     ● Développer​ ​des​ ​applications​ ​workflow​ ​client​ ​web​ ​Symfony
+     ● Développer​ ​des​ ​modules​ ​middleware​ ​en​ ​Java​ ​et/ou​ ​Python
+     ● Conception​ ​applicative​ ​et​ ​cadrage​ ​technique
+     ● Participer​ ​et​ ​animer​ ​des​ ​réunions​ ​de​ ​travail
+
+Profil​ ​recherché:
+Titulaire​ ​d’un​ ​Bac​ ​+2​ ​à​ ​+5​ ​en​ ​informatique,​ ​vous​ ​possédez​ ​d’une​ ​première​ ​expérience​ ​dans​ ​le
+développement​ ​web​ ​et/ou​ ​backend.​ ​Vous​ ​connaissez​ ​les​ ​principes​ ​d’architectures​ ​réseaux​ ​et
+les​ ​méthodes​ ​Agile.​ ​Vous​ ​avez​ ​le​ ​sens​ ​du​ ​relationnel​ ​et​ ​de​ ​la​ ​communication.​ ​Une​ ​bonne
+connaissance​ ​des​ ​langages​ ​système,​ ​et​ ​surtout​ ​du​ ​dynamisme,​ ​de​ ​la​ ​volonté​ ​d’apprendre​ ​et​ ​le
+sens​ ​de​ ​l’entrepreneuriat.
+Compétences​ ​requises                                     Compétences​ ​appréciées
+
+PHP,​ ​HTML,​ ​JavaScript,​ ​CSS,​ ​Ajax                   UML,​ ​SQL,​ ​Symfony
+
+Langage​ ​objets:​ ​Java,​ ​Python​ ​ou​ ​autres           Méthodes​ ​Agile​ ​et​ ​DevOps
+
+SCM:​ ​Git,​ ​SVN,​ ​autre                                 Outils​ ​dev​ ​tels​ ​que​ ​Maven,​ ​Docker,​ ​Vagrant,​ ​etc.
+
+Connaissance​ ​d’IDE:​ ​Eclipse,​ ​IntelliJ,​ ​autre       Bonnes​ ​notions​ ​en​ ​architecture​ ​réseau
+
+Systèmes​ ​UNIX:​ ​Shell,​ ​Bash,​ ​réseau,​ ​etc.
+

@@ -1,0 +1,22 @@
+Stage BI Reporting
+Stage – 3 à 6 mois – dès que possible
+
+L'entreprise:
+
+Dolmen est une startup spécialisée dans la conception et la commercialisation de solutions innovantes digitales. Nos clients ? les acteurs du retail et de la GMS. Notre ambition ? Que les commerçants connaissent mieux leurs clients, pour mieux les fidéliser. Devenu leader du marketing digital local, nos effectifs et notre chiffre d’affaires sont en forte croissance. 
+
+Pour accompagner le développement de notre activité en France et à l’international, nous recrutons un stagiaire BI reporting (F/H) pour une durée de 3 à 6 mois.
+
+Vos missions :
+Vous serez en charge d'explorer les solutions de reporting et d'aide à la décision : open source ou propriétaire, à vous d'identifier la plus pertinente en regard de notre activité.
+Une fois que vous aurez mis en place la solution retenue, vous interviendrez sur la création de rapports personnalisés, en fonction des besoins identifiés en interne.
+Vous construirez enfin des tableaux de bord complets, permettant aux métiers d'analyser en toute autonomie les indicateurs clés selon différentes dimensions.
+Environnements : Java / JEE, SGBD, ElasticSearch, ETL, Reporting (Jasper, Eclipse BIRT, ...)
+
+Votre Profil :
+
+Vous êtes curieux, rigoureux, autonome et souhaitez vous investir dans une structure jeune et dynamique proposant des solutions innovantes.
+Vous avez de solides compétences en bases de données (SGBD traditionnels, bases NoSQL), maîtrisez des outils de reporting et de visualisation de données.
+Idéalement vous suivez - ou avez suivi - une formation orientée informatique décisionnelle.
+
+Pour postuler : Ecrire sur l’adresse job@dolmen-tech.com 

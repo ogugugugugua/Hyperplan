@@ -1,0 +1,39 @@
+                                    Stagiaire Développeur Automaticien H/F
+                                              Localisation : Nantes
+                                                 Durée : 6 mois
+
+                                                     Contexte
+
+Au sein de l’entité DWM, en charge du développement du site principal et de l’application mobile, rejoignez
+l’équipe transverse d’outillage et automatisation des tests.
+Vous participerez au développement d’un outil transverse qui a pour but de centraliser la connaissance et
+l’exécution des tests automatisés dans le cloud pour toutes les équipes de Oui.sncf.
+
+                                     Activités et Principales Responsabilités
+
+     Recueil des besoins auprès des leaders techniques
+     Cadrage de la solution, création d’un backlog de réalisation
+     Mise en place des tests de perf dans le pipeline de build
+
+                                                       Profil
+
+Etudiant en bac+5, vous êtes à la recherche de votre stage de fin d’étude.
+
+Ceci ne vous est pas inconnu :
+•       Connaissances de Java et Javascript
+•       Des connaissances en Kotlin ou en environnement cloud est un plus
+•       Apprécie le travail en équipe
+
+                                       Ce que vous trouverez dans ce stage
+
+    -   Organisation agile
+    -   Stack technique récente (Kotlin, Angular6, Spring boot, …)
+    -   Montée en compétence back et front
+    -   Bonnes pratiques pour le développement et les tests
+    -   Un cadre de travail agréable dans nos bureaux Nantais
+
+
+
+
+                                                         9
+

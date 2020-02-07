@@ -1,0 +1,79 @@
+
+
+Participation à la construction du système d’information d’une banque Digitale
+Mission : Chef de projet banque Digitale
+
+Localisation : Nantes
+Type de contrat : Stage de 3  à 6 mois
+Niveau d'études : B+4 / B+5
+Gratification : 1250€ brut/mois
+Début : à définir selon les stages
+
+Vous désirez relever de nouveaux défis au sein d’une équipe dynamique Vous souhaitez accompagner des grands programmes de transformation ? 
+Rejoignez la DIRECTION DES SYSTÈMES D’INFORMATION DE LA BANQUE POSTALE ET DU RÉSEAU LA POSTE ! 
+Nous rejoindre, c’est évoluer au sein d’équipes, qui apportent leurs expertises au Groupe. Les projets sont riches et variés. Vous collaborez ainsi avec de nombreuses entités du sein du  Groupe 
+Accompagnez les ambitions de La Direction des systèmes d’information de la Banque et du Réseau La Poste :  « Faire du SI un levier de performance de La Banque Postale et du Réseau La Poste » : telle est l’ambition de la DISFE pour conjuguer satisfaction des utilisateurs et fidélisation des clients au service de l’efficacité commerciale. Dans un environnement concurrentiel, répondre aux attentes des clients, en proposant au quotidien un sens du service exigeant, est un véritable état d’esprit.
+
+Le Programme NEO a pour cadre le lancement d’une Banque Digitale « Mobile First » basée sur l’argent au quotidien, en se positionnant sur le marché d’ici 18 mois pour se préparer au changement d’usage.
+
+Un modèle relationnel Digital First, combinant canaux autonomes (mobile, web, notifications, …), digital care (chat, virtual assistant, SMS 2 ways, …)  et support des centres à distance (LBP CS, CNMRCI).
+
+Les objectifs, 
+se positionner sur le marché et se préparer à l’accélération des changements d’usages de consommation bancaire
+conquérir rapidement une base de nouveaux clients digitaux appétents aux usages en mobilité et fidéliser certains clients purement digitaux de La Banque Postale
+faire croître cette nouvelle activité de manière rentable, en enrichissant l’offre en fonction des besoins du marché (time to market court, capacité à générer de la valeur)
+disposer d’une plateforme flexible pouvant viabiliser des partenariats dans un écosystème alliant des Fintechs, des commerçants et des partenaires en marque blanche
+
+
+
+
+
+
+Objectifs du stage : 
+N°1 : Le stage constituera une découverte d’un monde professionnel et plus précisément de l’activité de développement applicatif utilisant les NTIC Nouvelles Technologies de l’Information et des Communications. Le stagiaire devra s’intégrer au sein des équipes opérationnelles et participer à l’activité du programme.
+N° 2 : Le stagiaire sera initié à la gestion de projet en  participant aux phases suivantes:
+conception et d’analyse, 
+Planification et coordination des contributeurs
+Mise en œuvre des stratégies de tests sur le futur SI de la banque digitale. Amélioration et industrialisation du processus de tests.
+Le stagiaire sera encadré par des experts confirmés et des tuteurs référents
+	
+Compétence
+Exigée 
+Souhaitée
+Connaissance des technologies XML
+
+✗
+Connaissance du langage Java 6
+
+✗
+Connaissance des langages JavaScript, HTML, CSS 
+
+✗
+Pratique de l’IDE RSA/WSAD ou Eclipse
+
+✗
+Connaissance des outils de test et recette (IBM RQM ou autre)
+
+✗
+
+
+
+Pour postuler : Envoyer CV et lettre de motivation à l’adresse suivante : sophie.despomaderes@labanquepostale.fr
+
+
+
+
+
+
+
+
+ SHAPE  \* MERGEFORMAT 
+
+Participez avec La Poste à l’aventure de La Banque Postale                                                                                                    	
+
+ PAGE 1/ NUMPAGES 2
+
+Retrouvez toutes nos offres de stage et d’emploi, rendez-vous sur  HYPERLINK "http://www.labanquepostale.fr" www.labanquepostale.fr – Rubrique « Nous rejoindre »
+
+
+

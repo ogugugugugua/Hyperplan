@@ -1,0 +1,47 @@
+                         Kosmos
+                         8 rue Kervégan
+                         44000 NANTES
+
+
+                                                                              OFFRE DE STAGE
+                                                       Ingénieur-e DevOps / Stockage distribué
+
+
+               Donnez du sens à votre métier, venez partager notre aventure : « Digital for Education » !
+
+
+KOSMOS EN      Kosmos est le leader spécialiste du numérique pour l'éducation. Créée en 1998 à
+BREF
+               Nantes, nous accompagnons les acteurs de l'éducation (enseignement scolaire,
+               enseignement supérieur, formation professionnelle et continue) autour de quatre
+               métiers : l'édition logicielle, le conseil, l'intégration et l'infogérance. Le groupe Kosmos
+               (4 sociétés) est implanté à Nantes (siège social), Toulouse, Lyon, Metz, Paris et
+               Montréal, compte 120 collaborateurs, et réalise un CA consolidé de 11 M€ en 2017.
+
+VOS MISSIONS   Au sein d’une équipe devops (4 personnes) gérant un parc important d’applications
+               Web critiques, vous évaluerez les outils de stockage à mettre en place afin d’assurer
+               une disponibilité maximale des machines virtuelles :
+
+                 ● Votre mission sera d’étudier les différentes solutions de stockage distribué
+                       (GlusterFS, Ceph…):
+                   >    les fonctionnalités offertes
+                   >    la facilité d’exploitation
+                   >    les performances
+                   >    le coût
+
+                 ● Vous veillerez à l’intégration de cette solution avec les solutions de virtualisation
+
+                 ● Vous participerez aux missions d’exploitation quotidiennes de l’équipe
+
+
+VOTRE PROFIL   Vous êtes en dernière année de cycle ingénieur spécialisé en informatique et recherchez
+               un stage de fin d’études (5/6 mois).
+               Vous avez une connaissance pratique du monde opensource et de linux.
+               Idéalement, vous contribuez à des projets communautaires.
+               Lieu de stage : Toulouse ou Nantes.
+
+
+                             Rejoignez une structure et une organisation à taille humaine,
+                                             envoyez votre candidature à
+                                               recrutement@kosmos.fr
+

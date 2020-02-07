@@ -1,0 +1,39 @@
+Descriptif du poste
+Référence du poste
+248687 
+Intitulé du poste
+STAGE Concepteur / développeur (Framework Angular JS) (H/F) 
+ 
+
+
+Détails du poste
+ Atos SE (Société Européenne) est un leader de la transformation numérique avec environ 100 000 collaborateurs dans 72 pays et un chiffre d’affaires annuel pro forma de l’ordre 12 milliards d’euros. Fort d’une base de clients mondiale, Atos est le n°1 européen du Big Data, de la Cybersécurité et de l’environnement de travail connecté, et fournit des services Cloud, des solutions d’infrastructure et gestion de données, des applications et plateformes métiers, ainsi que des services transactionnels par l’intermédiaire de Worldline, le leader européen des services de paiement. 
+Grâce à ses technologies de pointe et son expertise digitale & sectorielle, Atos accompagne la transformation numérique de ses clients dans les secteurs Défense, Services financiers, Santé, Industrie, Médias, Services aux collectivités, Secteur Public, Distribution, Télécoms, et Transports. Partenaire informatique mondial des Jeux Olympiques et Paralympiques, Atos est coté sur le marché Euronext Paris et exerce ses activités sous les marques Atos, Atos Consulting, Atos Worldgrid, Bull, Canopy, Unify et Worldline.
+Pour plus d’information : fr.atos.net
+Mission
+Notre entité Atos Business Services a pour mission principale de développer des services informatiques de proximité auprès de ses clients, en les accompagnant dans la mise en œuvre et l’évolution de leurs systèmes d’information. Plus de 4000 experts de proximité accompagnent nos clients tout au long de leurs projets afin de les aider à s’adapter aux contraintes liées aux évolutions de leurs secteurs.
+Pour le compte de l’un de nos clients basé à Nantes, vous participez au cycle de développement des applications dans des domaines variés. 
+Au sein d’une équipe Atos, intégrée à la DSI de notre client, vous aurez pour mission de :
+-créer et modifier des programmes conformément à l'analyse détaillée,  -planifier et exécuter des tests unitaires, -spécifier les interfaces utilisateurs/système (seul(e) ou en équipe).
+Profil
+En cours de formation bac+5 minimum, type Ecole d’ingénieur ou équivalent universitaire, vous êtes en dernière année d’études et vous recherchez un stage pour obtenir votre diplôme. Vous avez de solides connaissances dans tout ou partie des domaines techniques suivants : 
+-les concepts MVC et Design Pattern,
+-les langages MVC/ ASP.NET/ C#/ JavaScript/ HTML5/ CSS3/ JQuery/ Entity Framework et WCF/ Java J2EE/ PHP/ MYSQL/ HTML/ Angular JS / Node JS,
+-SQL Server,
+-UML, 
+-la méthode Agile (SCRUM), 
+-Les étapes du cycle de développement des projets : conception, développement, tests unitaires, recette. 
+Passionné(e) d’informatique, vous êtes créatif(ve), curieux(se), motivé(e) et avez le sens du travail en équipe. 
+Nous considérons le stage comme un tremplin, une première expérience décisive qui vous ouvrira le champ des possibles. Nos stagiaires sont nos talents de demain !
+Alors, prêt à relever le défi ? 
+ Information additionnelle
+Le stage est basé à Nantes, une métropole dynamique parmi les meilleures aux classements qualitatifs de l’enseignement supérieur et de la vie étudiante.
+Nantes se positionne 5ème au palmarès général des villes étudiantes 2016-2017 et 2ème au classement 2016 des villes où les Français aimeraient travailler. En matière d’emploi, c’est la métropole qui a créé le plus d'emplois dans le numérique en 5 ans.
+Côté qualité de vie, Nantes se classe 3ème auprès des jeunes. La croissance de l’emploi, l’offre culturelle et universitaire ainsi que la proximité de l’océan et de la capitale en font l’une des villes privilégiées par les étudiants.
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi Atos a mis en place un accord relatif à l’égalité professionnelle entre les hommes et les femmes. Par ailleurs, nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+Rejoignez nous !
+Pour postuler
+Depuis https://jobs.atos.net: indiquez la référence 248687, cliquez sur l’offre puis sur « postuler » et le tour est joué ! 
+
+
+

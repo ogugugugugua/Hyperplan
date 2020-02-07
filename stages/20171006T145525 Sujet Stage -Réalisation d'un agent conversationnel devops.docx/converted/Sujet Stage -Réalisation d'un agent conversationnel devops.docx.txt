@@ -1,0 +1,43 @@
+REALISATION D’UN AGENT CONVERSATIONNEL DEVOPS.
+
+                        
+
+
+	•	Résumé de la mission
+La mission a pour objectif d’évaluer l’apport et la faisabilité d’un agent conversationnel support d’un centre de services. 
+	•	Détails de la mission
+L’IA aura des impacts très importants sur les métiers que nous connaissons aujourd’hui. Certains évoquent le chiffre de 47% d’emplois menacés … oui mais au profit aussi d’une évolution positive de pratiques en prenant par exemple en charge des tâches à faible valeur-ajoutée. Entreprise de Services du Numérique créée il y a 30 ans, Sodifrance est intervient notamment dans le Delivery de projets informatiques.
+
+L’intelligence Artificielle fait naturellement partie des axes stratégiques de développement de Sodifrance: Création d’une communauté interne, partenariats avec des acteurs du domaine, POC mettant par exemple en œuvre Amazon Echo / Alexa, valorisation des initiatives collaborateurs, conférences, …
+
+Dans le cadre des Lab’s Sodifrance et en étroite collaboration avec les équipes de Delivery, le stage proposé a pour but de mettre en place un agent conversationnel d’aide dans des activités de conduite et réalisation de projet. Les objectifs et tâches à effectuer dans ce cadre sont les suivantes :
+Imaginer les interventions possibles d’un chatbot dans le quotidien d’un projet de développement / centre de services (wiki verbal, diffusion d’information, opérations devops, prise de date de réunion, etc.). C’est une étape de recueil et d’imagination du besoin qui s’effectuera auprès des équipes sodifrance, par recherche internet et atelier d’idéation. Cette étape mène à la rédaction d’une expression du besoin d’un tel agent conversationnel.
+Etudier les solutions de chatbot actuelles afin de choisir celle sur laquelle le prototype sera construit. Cette étape mènera à la rédaction d’un état de l’art des architectures et technologies de construction de chatbot (plate-forme chatbot / IA, plate-forme messagerie, etc.).
+Réaliser et déployer un prototype d’un tel agent conversationnel dans le cadre d’un CDS de Sodifrance afin d’en tester in situ la pertinence.
+	•	Environnement
+Nouvelles technologies web et mobile ;
+Intégration avec les plateformes d’Intelligence artificielle (compréhension du langage, reconnaissance vocale) ;
+Intégration avec les plate-formes de messagerie (Slack, Skype, etc.),  les home device (Alexa Amazon, Google Home), les smartphones (Android) 
+Déploiement dans le Cloud (services, webhook, etc.).
+	•	
+	•	
+	•	
+	•	
+	•	Connaissances/compétences nécessaires
+Le candidat doit être en capacité d’apprendre et de s’adapter mais aussi savoir restituer. La curiosité, la créativité, la communication en interne et avec les partenaires ainsi que l’esprit d’équipe sont des qualités indispensables pour ce stage. 
+
+Sur un plan technique, il devra avoir de bonnes qualités rédactionnelles et des compétences en programmation Java et/ou Javascript.
+	•	Intérêt
+Les agents conversationnels constituent un des axes de développement majeures des interfaces hommes machines des années en cours et à venir. La montée en compétences sur ce sujet de manière pragmatique avec la construction d’un prototype testable est un objectif important pour Sodifrance.
+
+	•	Profil
+Stagiaire Bac+5 Développeur passionné par les nouvelles technologies, créatif, ayant une bonne communication et à l’aise en équipe
+
+Durée
+Lieu / date
+6 mois
+Nantes
+Comment postuler ?
+Postulez en ligne ou
+Adressez-nous un mail avec votre CV, lettre de motivation et la référence de l’annonce  à l’adresse mail suivante : recrutement@sodifrance.fr
+

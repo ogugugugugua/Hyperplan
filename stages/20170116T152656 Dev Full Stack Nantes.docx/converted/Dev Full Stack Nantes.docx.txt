@@ -1,0 +1,51 @@
+
+Stage – Assistant Développeur Full Stack
+Durée 6 mois
+Localisation : Nantes
+
+
+Contexte
+
+Voyages-sncf.com est le premier site e-commerce de France et le leader européen du Voyage avec 12 millions de visiteurs uniques par mois, 1 billet vendu toutes les 3 secondes et 4,32 milliards d’euros de volume d’affaire en 2015.
+
+Au sein de notre équipe technique basée à Nantes, nous proposons plusieurs stages.
+
+Vous pourrez être amené à travailler sur des sujets variées comme : 
+	•	le développement d’un outil de cartographie dynamique d’applications déployées sur nos environnements, 
+	•	le développement et l’intégration d’algorithmes Big Data, 
+	•	Un catalogue d’offres et de contenus mis à dispositions du site voyages-sncf.com, 
+	•	la refonte d’une application en micro services, 
+	•	un outil d’automatisation des déploiements sur le cloud, 
+	•	un outil de géolocalisation 
+	•	etc. 
+  
+Activités et Principales Responsabilités
+
+	•	Prise en compte des besoins et rédaction des exigences fonctionnelles
+	•	Documentation de l’architecture et des fonctionnalités attendues
+	•	Chiffrage des taches de réalisation.
+	•	Réalisation des développements en mode agile (SCRUM)
+	•	Mise en place de tests automatisés des développements
+
+Profil
+
+	•	Etudiant en école d’ingénieur ou en bac+5, vous recherchez un stage de fin d’études orienté développement Web ou ingénierie logicielle
+
+	•	Vous avez idéalement de bonnes bases sur le développement d’application Web : 
+	•	[front] HTML5, Javascript, CSS, AngularJS, ReactJS etc. 
+	•	[Back] J2SE, JavaEE, Rest, Tomcat, json, Ruby, NodeJS, Python etc.
+	•	Si en plus OpenStack, Jenkins, Docker et les principes DevOps vous parlent, alors vous marquez des points ! 
+	•	Vous vous intéressez aux outils de développement et avez des connaissances théoriques des principes des méthodologies Scrum, TU, BDD et de l’intégration continue.
+
+Vos atouts !
+
+	•	Esprit d’équipe, Bonne humeur, Curiosité, Force de proposition
+
+Ce que nous offrons
+
+	•	Un stage de qualité sur lequel vous pourrez capitaliser avec une possibilité d’embauche à la clef.
+	•	Un environnement de travail où tout est fait pour que vous vous sentiez bien
+	•	De superbes locaux neufs et à proximité de la gare de Nantes.
+	•	Une ambiance chaleureuse et un esprit Start Up au sein d’un groupe solide (innovation, dynamisme, Hackatons, séminaires, « vis ma vie » etc.)
+
+

@@ -1,0 +1,50 @@
+                                         Stage –Développeur FullStack H/F
+                                                Localisation : Paris
+
+
+                                                      Contexte
+
+OUI.sncf est le premier site e-commerce de France et le leader européen du Voyage avec 12 millions de visiteurs
+uniques par mois, 1 billet vendu toutes les 3 secondes et 4,5 milliards d’euros de volume d’affaire en 2017.
+
+L’équipe LOKI est une Feature Team qui œuvre sur la réservation de place et la gestion du panier. Nous y retrouvons
+des développeurs, des testeurs, des PO, un ScrumMaster, un ops et l’UX/UI
+
+Durant ce stage, vous serez intégré dans l’équipe en tant que membre à part entière. Vous travaillerez en parallèle
+sur un sujet d’étude (POC ou autre) sur lequel vous serez accompagné.
+
+                                      Activités et Principales Responsabilités
+
+-   En collaboration avec les membres de l’équipe, vous concevez les solutions fonctionnelles et techniques
+    répondant aux besoins et évolutions à mettre en œuvre.
+-   Vous êtes investi depuis le début des sprints en partant de la rédaction des specs jusqu'à la livraison et la mise
+    en production de votre travail
+-   Nous travaillons en mixant les méthodologies Agiles/Scrum et Kanban, où votre voix et vos suggestions
+    comptent vraiment. Les cycles de développement sont rapides, passionnants et les mises en production
+    régulières
+
+                                                        Profil
+
+Etudiant en école d’ingénieurs ou bac+5, vous recherchez un stage de fin d’études orienté développement
+Mobile
+
+Compétences Techniques
+Notre stack technique se compose notamment de Java, ReactJS, Springboot et Mongo DB. Vous démontrez donc
+un gout avéré pour le développement et vous avez déjà codé soit en JS, soit en Java.
+
+Qualités requises
+Esprit d’équipe, Bonne humeur, Curiosité, Force de proposition, Envie de découvrir l’autre côté d’une des applis
+les plus téléchargées de France.
+
+                                                Ce que nous offrons
+
+    -   Un stage de qualité sur lequel vous pourrez capitaliser avec une possibilité d’embauche à la clef.
+    -   Un environnement de travail où tout est fait pour que vous vous sentiez bien
+    -   Une ambiance chaleureuse et un esprit Start Up au sein d’un groupe solide (innovation, dynamisme,
+        Hackatons, séminaires, « vis ma vie » etc.)
+
+
+
+
+                                                         15
+

@@ -1,0 +1,97 @@
+                                                                                                                                                                     OFFRE
+                                                                                                                                                                    D’EMPLOI
+
+
+                                                                                                                                                       Lieu : TOULOUSE
+                                                                                                                                                       Date de démarrage: FEV / MARS 2019
+
+
+
+                                                                                                      OBJET : OFFRE DE STAGE (6mois)
+Ce document est la propriété exclusive de NEXEYA FRANCE; il ne peut être utilisé sans autorisation
+
+
+
+
+                                                                                                                              OFFRE DE STAGE INFORMATIQUE
+                                                                                                              Centralisation et unification de fichiers de configuration distribués
+
+                                                                                                     Présentation de l’entreprise
+
+                                                                                                     NEXEYA est au cœur de l'économie de l'innovation avec plus de 800 techniciens et ingénieurs et une présence croissante à l’international.
+                                                                                                     Partenaire des plus grands secteurs industriels, NEXEYA intervient sur les enjeux-clés de ses clients dans des secteurs aussi variés que la
+                                                                                                     Défense, l'Aéronautique, le Spatial, l’Industrie, l’Energie, le Transport, les Télécoms et la Finance.
+
+                                                                                                     Nos activités d'ingénierie industrielle et technique, de réalisation de produits et de services fédèrent des métiers multiples et une large
+                                                                                                     diversité d'expertises.
+
+                                                                                                     Descriptif du stage : Analyse, centralisation et unification de fichiers de configuration répartis sur un système distribué
+
+                                                                                                     NEXEYA, pour sa gamme de systèmes de contrôle de mission tactique ARGOSIA, utilise de multiples machines utilisant plusieurs systèmes
+                                                                                                     d’exploitation, interconnectés pour former le système ARGOSIA.
+
+                                                                                                     Un tel système implique de dupliquer certaines données afin de permettre la communication entre les diverses machines (par exemple, un
+                                                                                                     port TCP ou un nom de fichier). Or, des erreurs de configuration (oubli d’une machine ou d’un fichier de configuration) peuvent provoquer des
+                                                                                                     dysfonctionnements allant du refus de démarrage au crash du système.
+
+                                                                                                     À ce titre, le stagiaire aura pour principales activités :
+                                                                                                          •      Lister l’intégralité des fichiers de configuration du système ARGOSIA, quelle que soit la plate-forme et le système d’exploitation.
+                                                                                                          •      Déterminer les éléments devant être identiques à l’aide d’une configuration stable d’exemple, des spécifications et des procédures
+                                                                                                                 d’installation.
+                                                                                                          •      Centraliser tous ces éléments de configuration dans un seul fichier XML maître, en créant également le schéma XSD
+                                                                                                                 correspondant permettant de valider une configuration facilement et en ligne de commande.
+                                                                                                          •      Déployer une configuration complète à partir du fichier de configuration maître depuis n’importe quel poste d’ARGOSIA vers tous
+                                                                                                                 les autres postes composant le système (ex : par FTP, SSH, CIFS, …).
+                                                                                                          •      Le fichier de configuration maître peut être susceptible de contenir des identifiants et mots de passe, chiffrés ou non suivant les
+                                                                                                                 besoins, ainsi que des éléments matériels propres aux machines composant le système (ex : adresse MAC, nom de machine, etc.).
+                                                                                                                 Un mot de passe maître peut être requis pour déchiffrer d’éventuelles informations sensibles.
+                                                                                                          •      Lors de l’installation du produit, le fichier de configuration maître peut être analysé afin de proposer à l’utilisateur le choix du type de
+                                                                                                                 machine à installer (ex : « Station 1 », « Serveur », …) de façon automatique ou semi-automatique.
+                                                                                                          •      Le code source C++ d’ARGOSIA accédant aux fichiers de configuration devra être adapté pour utiliser le système centralisé au
+                                                                                                                 mieux.
+                                                                                                          •      Le système de distribution (setup Windows et paquet Debian) devra être modifié pour utiliser le système centralisé au mieux.
+
+
+
+
+                                                                                                                                                  NSQ-F-018 Ed B Offre emploi                                                               Page : 1 / 2
+Ce document est la propriété exclusive de NEXEYA FRANCE; il ne peut être utilisé sans autorisation
+
+
+
+
+                                                                                                     Profils recherchés
+
+                                                                                                     Elève ingénieur de niveau BAC +4/5, avec de solides connaissances dans les technologies requises (XML, XSD, C++), connaissance
+                                                                                                     basique d’une ou plusieurs technologies annexes (Innosetup, packages Debian) et très familier avec les environnements Windows et
+                                                                                                     Linux Debian.
+
+                                                                                                     Une connaissance basique des technologies annexes (FTP, SSH, CIFS, batch Windows, shell Linux, machines virtuelles VMWare, etc.)
+                                                                                                     est un plus, le stagiaire devant être capable d’utiliser ces technologies avec peu ou pas d’assistance externe car elles sont largement
+                                                                                                     documentées sur Internet.
+
+                                                                                                     Le stagiaire doit impérativement être capable, comme un ingénieur confirmé, d’autonomie importante et d’auto-formation lors de la prise en
+                                                                                                     main d’une technologie non-maîtrisée, ceci afin d’arriver à un niveau de compréhension minimal par ses propres moyens.
+                                                                                                     Ainsi, le stagiaire aura la possibilité d’échanger des discussions techniques avec des ingénieurs confirmés en ayant au minimum le
+                                                                                                     vocabulaire spécifique et le principe général de la technologie en tête.
+
+                                                                                                     Le stagiaire doit avoir envie de travailler dans un contexte fortement technique impliquant l’apprentissage de multiples technologies.
+                                                                                                     Zone géographique : Toulouse (Haute-Garonne), zone sud-ouest (ZI Thibaud).
+                                                                                                     Durée envisagée : 6 mois
+
+
+
+                                                                                                     Pour postuler :
+
+                                                                                                     Si vous êtes vous-même intéressé(e) ou si vous connaissez quelqu’un dans votre entourage intéressé(e) par cette offre de stage, faites-nous
+                                                                                                     parvenir votre CV accompagné obligatoirement d’une lettre de motivation (en indiquant clairement vos dates de disponibilité)
+
+
+
+                                                                                                               Postuler directement sur notre site : https://recrutement.nexeya.com/?offerid=143
+
+
+
+
+                                                                                                                                                NSQ-F-018 Ed B Offre emploi                                                           Page : 2 / 2
+

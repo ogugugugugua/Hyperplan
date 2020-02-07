@@ -1,0 +1,34 @@
+                     Kosmos
+                     8 rue Kervégan
+                     44000 NANTES
+                                                                              OFFRE DE STAGE
+                                                 Reprise du porte-document de K-d’ecole
+
+
+
+MISSIONS    L’une des fonctionnalités de l’ENT (Environnement Numérique de Travail) K-d’école est
+            de stocker des documents personnels ou partagés : le porte-document. L’objectif est de
+            travailler sur l’implémentation technique de cette fonction.
+
+               •   Etude du fonctionnement technique actuel,
+               •   Étude des améliorations fonctionnelles à apporter,
+               •   Étude des alternatives techniques et élaboration du dossier de choix,
+               •   Implémentation de la solution.
+
+
+
+
+QUALITES    Passionné(e) par le Web, vous suivez de près l’évolution des nouvelles technologies et
+REQUISES
+            avez un réel intérêt pour l'Open Source. Vous êtes rigoureux(se), motivé(e), et vous vous
+            adaptez facilement. Vous souhaitez vous investir dans cette mission au sein d'une
+            ambiance jeune, dynamique et professionnelle.
+            Curiosité, autonomie et savoir-faire technique seront vos atouts essentiels.
+
+
+MODALITÉS
+            Durée 5-6 mois
+            A pourvoir dès que possible
+            Poste basé à Nantes
+            CV et lettre de motivation à transmettre à recrutement@kosmos.fr
+

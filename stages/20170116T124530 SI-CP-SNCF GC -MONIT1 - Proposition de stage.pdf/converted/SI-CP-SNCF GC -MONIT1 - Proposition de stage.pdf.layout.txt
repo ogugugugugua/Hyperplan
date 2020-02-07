@@ -1,0 +1,105 @@
+Intitulé du Stage : ETUDE ET MISE EN PLACE D’UN MONITORING DIGITAL
+
+Référence de l’annonce : SI-CP-SNCF GC-MONIT1
+
+Information sur l’entreprise
+
+
+SNCF Gares & Connexions a été créée en 2009 pour répondre à l’ouverture à la concurrence du marché ferroviaire de
+voyageurs. Il s’agit d’une branche autonome au sein de SNCF Mobilités (avec ses filiales AREP et A2C) Ses principales
+missions peuvent se résumer ainsi :
+
+       Assurer aux entreprises ferroviaires l’accès à la prestation de base, dans le respect de l’équité de traitement,
+       Piloter la réalisation des missions de gestion de site : propreté, sûreté et disponibilité des équi pements…
+       Contrôler la réalisation des obligations réglementaires en matière de sécurité et d’environnement (règlement
+        intérieur, plans de prévention…),
+       Contribuer au développement des activités non ferroviaires dans la gare (commerces, autres services).
+
+La gare, en tant que "City Booster", est le promoteur de la vie urbaine, fait grandir le volume et la valeur des flux pour
+améliorer la vie des gens.
+
+5 principes clés viennent appuyer cette vision de "City Booster"
+
+
+        Le client au centre : la priorité est donnée au service et à la satisfaction utilisateur. C'est la culture de l'art
+         d'observer, d'écouter et de comprendre nos parties prenantes internes et externes.
+        Oser : c'est bousculer les évidences, questionner les contraintes, adopter une posture de conquête, accepter le
+         risque d'échec.
+        Voir grand : pour concevoir des solutions prévues d'emblée pour être industrialisables et déployables à grande
+         échelle.
+        Jouer collectif : c'est travailler en équipe pour décloisonner et favoriser le mode projet et aider les transporteurs
+         dans les situations difficiles.
+        Responsable : c'est agir en cohérence avec les règles et les valeurs du groupe et agir en conséquence avec la
+         responsabilité d'une entité régulée.
+
+Le rôle de SNCF Gares & Connexions
+
+SNCF Gares & Connexions est la 5ème et dernière-née des branches de SNCF. Son rôle est de rénover et développer les
+3000 gares ferroviaires du réseau. Outre la gestion des gares, SNCF Gares & Connexions porte les projets de
+développement et d’investissement des gares, en collaboration avec les collectivités locales et les acteurs des territoires.
+Progresser sur les fondamentaux des services en gare, moderniser et adapter les gares sont les deux engagements de
+SNCF Gares & Connexions.
+
+La vocation des Gares
+
+Leur vocation première, c’est d’être des lieux de correspondance, des plateformes d’échanges, entre la ville et le monde
+ferroviaire, entre les différents modes de transport. Les réflexions qui se nouent aujourd’hui sur les nouveaux modes de
+transport, sur le renouveau du tramway, le renouveau du tram-train, renforcent et régénèrent le lien entre la ville et ses
+formes de mobilités. SNCF Gares & Connexions n’est pas le seul vecteur de mobilité durable, mais l’un de ses contributeurs
+importants
+
+Description du poste
+
+
+Contexte :
+La division « Customer Platform », au sein de la DSI de Gares&Connexions a pour mission de construire le système
+d’information de la branche orienté client. Pour ce faire elle développe des applications autour de 4 domaines :
+
+
+        le site web gares-sncf.com, l’application mobile EnGare et la présence des gares sur les réseaux sociaux
+        la digitalisation des services en gare et le création de nouveaux service digitaux en gare
+        le CRM, construit sur la plateforme Salesforce
+        le big data bâti autour la suite Hadoop Hortonworks
+Mission :
+Dans le cadre du stage, vous serez amené à
+
+
+         Élaborer une étude de cadrage Monitoring / Supervision,
+         Proposer une approche standard de construction du monitoring applicatif dans les projets,
+         Et ensuite mettre en place un monitoring applicatif de bout en bout suffisant pour certaines applications en
+          production.
+
+L’objectif est double : stabiliser le monitoring applicatif en production pour contribuer à une meilleure qualité de service, et
+offrir une approche pérenne de construction du monitoring dans le projet.
+
+Environnement technologique :
+Méthodologies agiles, Cloud (Azure, Heroku, …), Plateforme Salesforce, Bigdata (Hadoop Hortonworks), SAS, PowerBI,
+toucan toco, Java, Jira, Drupal, …
+
+Objectifs pédagogiques :
+Ce stage vous permettra de monter en compétences sur les phases d’étude, de construction, de déploiement et d’exploitation
+d’un monitoring applicatif digital de bout en bout dans un contexte technologique innovant, et de développer un savoir-faire
+dans le monitoring de bout en bout d’applications digitales.
+
+
+
+Description du profil
+
+De formation Bac+5 en informatique (école d’ingénieurs ou université) en cours de validation, vous recherchez un stage d’une
+durée de 6 mois minimum à partir de mars ou avril 2017 (dates variables selon l’école).
+
+Poste à pourvoir à Nantes. Déplacements ponctuels à Paris
+
+Coordonnées
+
+
+SNCF GARES & CONNEXIONS
+
+DIRECTION DIGITAL – DIRECTION DES SYSTEMES D’INFORMATION
+
+DIVISION SI CUSTOMER PLATFORM
+
+9 avenue Carnot – BP 54123 - 44041 NANTES CEDEX 01
+
+EMAIL : arnaud.lutellier@sncf.fr
+

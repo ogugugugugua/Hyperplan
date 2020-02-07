@@ -1,0 +1,86 @@
+COMMISSARIAT A L’ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES
+DRHRS / SECF
+STAGES ET ALTERNANCE
+
+LAURENCE LOURS / CEA Saclay
+01.69.08.20.85
+stages@cea.fr
+http://www.cea.fr/ressources_humaines/stages
+
+Centre : Saclay
+
+Formulaire d’offre de stage
+Direction :
+
+Institut/Dépt/Service/Labo : (*champ obligatoire)
+ex : LITEN/DTS/SPMV/LMPV (sans espaces)
+
+DRT
+
+LIST/DIASI/LVIC
+
+_________________________________________________________________Imputation
+
+Encadrement
+Nom - Prénom du tuteur :
+
+LE BORGNE Hervé
+
+Tél (8 chiffres) : 0169080152
+Mail (auquel les candidatures doivent être adressées): herve.le-borgne@cea.fr
+Tél :
+Nom du responsable d’unité : Patrick Sayd
+
+Titre du stage (visible sur internet)
+Universalité des représentations par Deep Learning pour le Transfer-Learning
+Sujet / objectifs du stage (visible sur internet)
+(suggestion : ajouter les liens Webs extranet vers le laboratoire et la page personnelle du tuteur)
+
+Présentation du laboratoire d'accueil :
+Le CEA-LIST est un Institut de 600 personnes, localisé sur le plateau de Saclay, dont les axes de recherche
+s'inscrivent dans le domaine des systèmes complexes à logiciel prépondérant. Au sein du CEA LIST, le Laboratoire
+Vision et Ingénierie des contenus regroupe 80 chercheurs autour de différents thèmes de recherche dont l'analyse
+des documents multimédia, l'apprentissage et la vision par ordinateur. Démonstrations sur www.kalisteo.fr
+
+Description du stage
+La reconnaissance automatique du contenu des images a désormais des performances permettant la mise en place
+d'application industrielles, du fait du bond qualitatif des résultats consécutifs à l'utilisation massive d'algorithme de
+deep learning dans le domaine de la vision par ordinateur. Toutefois en pratique, pour un problème particulier
+donné, cela nécessite de disposer d'un grand nombre de données annotées dont la production est coûteuse (travail
+manuel important). Pour y palier, le transfert de connaissance (transfer learning) consiste à utiliser un réseau
+pré-appris pour représenter les données. Se pose néanmoins la question de construction du réseau "de base" qui
+doit permettre de répondre efficacement au plus grand nombre de problèmes possibles. Cette "universalité de la
+représentation" est une thématique porteuse dans la communauté scientifique et industrielle et en particulier pour
+le CEA LIST qui a proposé un schéma d'apprentissage peu coûteux et efficace [Tamaazousti et al., CVPR 2017]. Le
+stage vise à améliorer ce schéma d'apprentissage, en collaboration avec les chercheurs et doctorants impliqués.
+
+Contenu technique du stage
+- étude bibliographique sur le sujet du transfert learning (contexte deep learning)
+- prise en main des modules logiciels existants au Laboratoire
+- conception et développement d'une méthode répondant aux objectifs du stage
+- évaluation des performances sur des cas applicatifs et benchmark scientifiques
+- rédaction article scientifique si opportunité
+
+Domaine de spécialité requis :
+
+Mathématiques appliquées
+
+Autres domaines de spécialités, mots clés :
+
+apprentissage, vision par ordinateur
+
+Moyens mis en œuvre (expériences, méthodes d’analyses, autres...)
+
+Moyens informatiques mis en œuvre :
+Langages :python
+Logiciels : tensorflow ou pytorch ou caffe2
+Niveau souhaité : Bac + 5
+Durée : 6 mois
+Niveau d’habilitation défense (AS au minimum) : AS
+
+Formation souhaitée : Ingénieur/Master
+Possibilité de poursuite en thèse :
+
+✔
+
+

@@ -1,0 +1,44 @@
+Intitulé
+Évolution ergonomique de Pollen
+
+Pollen est un logiciel d’aide à la prise de décision en groupe. Il permet de consulter des collectifs de personnes sur une ou plusieurs question en utilisant différents modes de scrutin (Majoritaire, Condorcet, Borda, Coombs, Jugement majoritaire...).
+Dans le cadre de l’évolution de Pollen, nous avons fait évoluer les APIs afin de pouvoir étendre les consultations, actuellement mono-questions, aux assemblées générales d’associations... (vote multi-questions). Un essai est en cours avec l’association APRIL, et nous souhaiterions généraliser cette approche à tous les utilisateurs de Pollen.
+Nous souhaiterions également optimiser le stockage et le requêtage des données pour pouvoir prendre en charge des consultations importantes (plusieurs milliers de votes)
+http://www.codelutin.com/page-stage-pollen.html
+
+Basé à Saint Sébastien-sur-Loire (44)
+Durée du stage : 5 mois
+Principales missions
+Les principales missions du stage seront de :
+	•	Concevoir et implanter une ergonomie efficace pour les consultations multi-questions ;
+	•	Rechercher et implanter une solution de persistance efficace, tant pour la production (consommation mémoire, rapidité…) que pour le développement (simplicité d’utilisation…) ;
+
+Technologies utilisées :
+	•	Java
+	•	Javascript/CSS/HTML
+	•	PostgreSQL
+	•	Flyway
+	•	Hibernate
+	•	REST, RiotJS
+Qualités recherchées :
+	•	Autonome
+	•	Volontaire
+	•	Rigoureux
+	•	Créatif
+	•	Perspicace
+Profil recherché
+Nous recherchons une personne motivée et force de proposition.
+Niveau(x) d’études : Bac +4/5
+Pré-requis : Formation développeur web
+Autre 
+Gratification : 26,25 €/jour travaillé
+Avantages : tickets restaurant (9€ dont 5,40€ pris en charge par l’employeur)
+Présentation de la société 
+Créée en 2002, Code Lutin propose des projets de développement informatique en se basant sur des briques de logiciels libres. Code Lutin a fait le choix d’utiliser des technologies robustes, fiables et pérennes dotée de larges librairies : Java, JavaScript.
+Nous proposons à nos clients des projets au forfait, de la régie et de la TMA. Nous travaillons avec des acteurs majeurs du marché sur différents secteurs d’activité : Vewd (télé connectées), Inra, CNRS, Ifremer, My Money Bank, Agence Française pour la Biodiversité …
+
+Nous invitons toujours nos clients à construire et à travailler avec eux pour que l'application soit la plus conforme à leurs attentes ainsi qu'à celle des utilisateurs finaux. Cela nous permet également de créer une relation de confiance, indispensable selon nous à la réussite des projets.Au-delà des projets de nos clients, nous développons également en interne certaines solutions, libres, nous permettant de répondre à nos besoins spécifiques (par exemple la prise de décision collective avec Pollen[1], la gestion du temps avec WID[2]) et d’effectuer une veille technologique constante ainsi que de la R&D.
+
+[1] https://pollen.cl [2] https://wid.chorem.com
+
+

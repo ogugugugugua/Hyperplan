@@ -1,0 +1,52 @@
+
+Offre de Stage  2019
+ 		     Sercel - Site de Nantes
+
+Imager demain ce qui ne peut pas être vu aujourd’hui
+Premier concepteur et fabricant mondial de matériel géophysique, Sercel propose la plus grande offre de technologies de pointe pour la prospection sismique autour du globe.
+A l’écoute du client, Sercel assure le progrès de la géophysique grâce à l’innovation, en imposant toujours le meilleur dans la conception et la fabrication, avec le souci permanent de  la sécurité et de l’environnement.
+Employant plus de 1800 personnes, Sercel est implanté dans 9 pays, dont la France, les Etats-Unis, la Chine, et intervient dans le monde entier.
+Sercel Carquefou, est spécialisé en conception et fabrication d’électronique professionnelle et emploie 500 salariés. 
+ http://www.sercel.com. Merci de nous adresser votre candidature (cv et lettre de motivation) en précisant la référence du stage à : www.sercel.com/Careers/ 
+SUJET 
+DESCRIPTION
+PROFIL
+DUREE
+DATE SOUHAITEE
+1 Sujet de stage proposé au sein du service R&D Marine
+
+Sujet : 
+Etude et maquettage d’une solution serverless et cloud
+
+
+
+
+Référence : Stage R&D Marine N°2 
+
+
+Contexte : 
+Les systèmes d’acquisitions sismiques marines nécessitent l’utilisation de drones sous-marins pour connaitre et ajuster la position du réseau de capteurs tractés par les bateaux sismiques.
+
+Au sein de l'équipe de développement du logiciel marine, vous aurez pour mission l'étude de solutions cloud pour l'hébergements et l’analyse des données.
+Sujet de stage : 
+
+Le stagiaire sera amené à étudier en premier lieu différentes plateformes de cloud et d’en faire une synthèse selon différents critères.
+
+Dans un second temps, le stagiaire aura à développer une maquette de faisabilité permettant d’exploiter et visualiser les données dans une architecture serverless.
+
+Intérêt de stage : 
+Développer des compétences opérationnelles dans la mise en œuvre de solutions cloud : stockage de données et analyse via une application cloud native.
+
+Environnement :
+Le stagiaire évoluera dans un environnement très technique, entourés d’ingénieurs expérimentés.
+Profil :
+Vous connaissez les métiers de l'informatique, le langage de programmation Java.
+La connaissance des solutions de cloud et de solutions sans serveur est un plus.
+
+Doté(e) d'un excellent esprit d'analyse, vous êtes rigoureux(se), méthodique et créatif
+Vous avez l'esprit d'équipe, savez rendre compte et collaborer.
+
+
+
+Durée : 6 mois
+

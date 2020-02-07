@@ -1,0 +1,78 @@
+2018-7025 Plateforme Linux sur Zynq pour pilotage de réseau de
+capteurs ultrasons H/F
+
+Informations générales
+        Description de l'entité Le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) est un organisme public de
+                                recherche.
+
+                                Acteur majeur de la recherche, du développement et de l'innovation, le CEA intervient dans le cadre de ses
+                                quatre missions :
+                                . la défense et la sécurité
+                                . l'énergie nucléaire (fission et fusion)
+                                . la recherche technologique pour l'industrie
+                                . la recherche fondamentale (sciences de la matière et sciences de la vie).
+
+                                Avec ses 16000 salariés -techniciens, ingénieurs, chercheurs, et personnel en soutien à la recherche- le CEA
+                                participe à de nombreux projets de collaboration aux côtés de ses partenaires académiques et industriels.
+         Description de l'unité Le Leti, institut de recherche technologique de Cea Tech, a pour mission de créer de la valeur et de
+                                l'innovation avec ses partenaires industriels. Il fait le lien entre la recherche fondamentale et la production de
+                                micro et nanotechnologies dans le but d'améliorer la qualité de vie de chacun. Fort d'un portefeuille de 2.800
+                                brevets, le Leti façonne des solutions avancées pour améliorer la compétitivité de ses partenaires industriels:
+                                grands groupes, PME ou startups. Localisé à Grenoble (38), le Leti compte plus de 1 800 chercheurs et a des
+                                bureaux aux US et au Japon.
+
+                                Le Laboratoire capteurs haute performance (LCHP) mène des activités de conception de capteurs miniatures
+                                (qqcm3) haute performance (par exemple gyroscope en classe navigation). Il a notamment un savoir-faire
+                                historique sur les capteurs à pompage optique : magnétomètre, gyromètre et électromètre marin. Il mène
+                                également des activités en modélisation, simulation et instrumentation magnétique ce qui lui permet de
+                                proposer des solutions innovantes exploitant toutes les possibilités de la magnétométrie.
+           Délai de traitement 2 mois
+
+
+Description du poste
+                          Site Grenoble
+                          Lieu 17, avenue des martyrs, 38000 GRENOBLE
+                     Domaine Composants et équipements électroniques
+                      Contrat Stage
+              Intitulé de l'offre Plateforme Linux sur Zynq pour pilotage de réseau de capteurs ultrasons H/F
+                Sujet de stage Plateforme Linux sur Zynq pour pilotage de réseau de capteurs ultrasons
+    Durée du contrat (en mois) 6 mois
+         Description de l'offre Ce stage  s'insère dans un projet de pilotage d'un réseau de capteurs ultrasons. Une carte
+                                électronique analogique embarquant des convertisseurs analogique numérique et
+                                numérique analogique a été développée afin de piloter les capteurs ultrasons en émission
+                                et en réception.
+                                Cette carte électronique analogique s'interface avec une carte numérique MicroZed
+                                embarquant un Zynq 7z010 : un cœur numérique proposant une partie logique PL
+                                programmable en VHDL/Verilog et une partie système PS (processeur ARM
+                                programmable en C/C++).
+                                La partie PL est en cours de développement.
+                                Le stage consiste :
+                                - à compiler et configurer un linux embarqué sur la partie PS du Zynq (Buildroot /
+                                DeviceTree / U-Boot)
+                                - à développer des moyens de communication entre processeur et logique programmable
+                                (FIFO, DMA, IRQ)
+                                - à développer des drivers Linux ADC et DAC
+                                - à développer une API de communication HTTP (de type serveur Web Apache ou autre)
+                                - à développer une interface Web permettant la visualisation, l'import, l'export des
+                                données (AngularJS, JQuery, Highcharts, JSON, Ajax, ...)
+                                Pour réaliser ces travaux, il faudra dans un premier temps, prendre en main
+                                l'environnement de travail : Vivado (outils Xilinx) + SDK + Git (gestionnaire de version
+                                décentralisé).
+            Profil du candidat Le candidat devra avoir de solides compétences en électronique numérique, architectures processeurs, de
+                               l'environnement de développement XILINX. La maîtrise du langage de description matériel VHDL (ou Verilog)
+                               et celle du langage C sont indispensables. Une connaissance d'un OS type Linux embarqué et
+                              et celle du langage C sont indispensables. Une connaissance d'un OS type Linux embarqué et
+                              communication réseau (protocole IP) est nécessaire. L'environnement pluridisciplinaire du stage demande
+                              une bonne capacité d'adaptation et une autonomie rapide. Un intérêt pour les nouvelles technologies Web et
+                              logicielles est apprécié.
+
+                              Merci de bien vouloir transmettre votre candidature directement à Jérôme PAULET : jerome.paulet@cea.fr
+
+
+Critères candidat
+            Diplôme préparé Bac+5 - Diplôme École d'ingénieurs
+
+
+Demandeur
+        Disponibilité du poste 01/02/2019
+

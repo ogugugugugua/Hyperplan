@@ -1,0 +1,41 @@
+                                 Chef de projet iOs/Androïd
+
+Hi ! est une jeune start-up nantaise qui développe des solutions innovantes et connectées
+pour améliorer et accompagner le quotidien de chacun d’entre nous, de la digital mum au
+cadre surbooké.
+
+Vous aimez les codes, vous rêvez d’écran et ne vivez que pour voir vos créations Ios/Android
+s’animer sous vos yeux ? Nous avons besoin de vous.
+
+Vous participerez activement à la conception et à la gestion de plusieurs applications mobiles
+en tant que chef de projet, vous aurez en charge :
+- la mise en œuvre du projet : rédaction des spécifications fonctionnelles et techniques,
+développement d’application
+- la gestion et suivi du projet : délais et contrôle des coûts,
+- la mise en conformité des livrables et respect du planning,
+- le support technique de 1er niveau.
+
+Vous serez au quotidien l'interface principale sur les projets qui vous seront confiés entre les
+développeurs (prestataires, freelance…) et Hi!.
+
+Vous êtes motivé par l’aventure ? l’esprit start-up ? la co-création ? le design thinking ? vous
+êtes donc polyvalent, autonome, créatif et énergique ?
+Si en plus vous maîtrisez aussi l’anglais professionnel, les outils logiciels collaboratifs et de
+gestion de planning (Slack, Trello, Dropbox, Evernote), la gestion de projet, ce sera parfait !
+
+Nous recherchons dans ce cadre un/une partenaire avec une expérience réussie en gestion
+de projets informatiques et/ou mobiles avec de préférence une bonne connaissance
+technique de l’environnement mobile Apple/Android (Framework, CocoaTouch/pods, Swift,
+Xcode, Android Studio, Gradle, principe d'interface utilisateur sur mobile), idéalement au travers
+d'une expérience de gestion de projet mobile.
+
+
+Durée minimum de 6 mois.
+Contactez Robin Sauzet : rsauzet@hi-goji.com
+
+
+
+
+         SAS Hi I 445 avenue du séquoia 44300 Nantes I contact@hi-goji.com I www.hi-goji.com
+   SAS au Capital de 1 000 € I SIREN 815 319 652 I RCS NANTES I APE 7410Z I TVA FR81531965200013
+

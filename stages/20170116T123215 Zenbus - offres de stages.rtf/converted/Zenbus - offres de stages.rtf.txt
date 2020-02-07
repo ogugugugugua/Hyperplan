@@ -1,0 +1,16 @@
+Intitulé: Stage ingénieur: développements web et assistant chef de projet
+
+Descriptif:  "En binôme avec un ingénieur chef de projet ancien de polytech, le stagiaire abordera plusieurs facettes du métier d'ingénieur, à travers diverses activités:
+- modélisation de réseaux de transport (analyse topographique, intégration des données...)
+  - conception et rédaction de spécifications fonctionnelles
+  - interactions clients/utilisateurs et relevés de besoins métiers
+ - réalisation de documentations
+
+D'autre part, le stagiaire participera directement aux projets techniques de la start-up, basés sur la plateforme Google App Engine et utilisant les APIs zenbus.
+
+Environnement:
+- Serveur: Google App Engine (Java, noSQL)
+- Web: HTML5, CSS3, Sass, Javascipt
+- Versionning: bazaar, git
+
+Pour plus d'information sur l'entreprise et notre application zenbus: zenbus.fr

@@ -1,0 +1,110 @@
+                              Dual de l’ensemble des discrétisations à translation près
+                                                   étude de cas
+                                                                                         Thématique : informatique de l’image
+                                                                                                          Stage de Master 2
+
+
+
+
+Laboratoire d’accueil
+ICube (UMR 7357) CNRS-Univ. de Strasbourg
+Parc d’Innovation, Boulevard Sébastien Brant, BP 10413,
+67412 Illkirch Cedex
+
+Encadrement
+Loïc MAZO (mazo@unistra.fr), bur. C219, tel : 03 68 85 44 96, équipe MIV, ICube
+Étienne BAUDRIER (baudrier@unistra.fr), bur. C221, tel : 03 68 85 44 94, équipe MIV, ICube
+
+Mots-clefs : Discrétisation, Combinatoire
+
+
+
+Présentation
+    Lorsqu’on discrétise un objet continu, il y a plusieurs résultats possibles suivant la façon dont on positionne la
+grille sur l’objet (et bien sûr, suivant le pas de grille). Ainsi, la ﬁgure 1 représente l’ensemble des discrétisations
+d’un objet délimité par une astroïde (en fait, une astroïde dilatée dans une direction) lorsque la grille subit des
+translations ([MB16], voir aussi [BM16]). Cet ensemble de discrétisations « modulo les translations » peut être
+  1                                                     1                                            1                                            1                                            1
+
+
+  0                                                     0                                            0                                            0                                            0
+                               u = (0.5, 0.5)
+  -1                                                    -1                                           -1                                           -1                                           -1
+
+                                                                  u = (0.6, 0.55)                              u = (0.0, 0.6)                               u = (0.5, 0.9)                               u = (0.25, 0.95)
+  -2                                                    -2                                           -2                                           -2                                           -2
+       -3           -2         -1         0     1   2        -3          -2         -1   0   1   2        -3          -2         -1   0   1   2        -3          -2         -1   0   1   2        -3           -2         -1   0   1   2
+
+  1                                                     1                                            1                                            1                                            1
+
+
+  0                                                     0                                            0                                            0                                            0
+
+
+  -1                                                    -1                                           -1                                           -1                                           -1
+
+             u = (0.5, 0.0)                                       u = (0.1, 0.25)                              u = (0.1, 0.75)                              u = (0.9, 0.25)                              u = (0.9, 0.75)
+  -2                                                    -2                                           -2                                           -2                                           -2
+       -3           -2         -1         0     1   2        -3          -2         -1   0   1   2        -3          -2         -1   0   1   2        -3          -2         -1   0   1   2        -3           -2         -1   0   1   2
+
+  1                                                     1                                            1
+
+
+  0                                                     0                                            0
+
+
+  -1                                                    -1                                           -1
+
+            u = (0.05, 0.85)                                      u = (0.0, 0.2)                               u = (0.0, 0.0)
+  -2                                                    -2                                           -2
+       -3           -2         -1         0     1   2        -3          -2         -1   0   1   2        -3          -2         -1   0   1   2
+
+
+
+
+F IGURE 1 – Les 13 discrétisations de Sastro , la région du plan déﬁnie par (x/2)2/3 + y 2/3 ≤ 1 (la première
+discrétisation est l’ensemble vide).
+
+représenté sur le tore sous forme de carte coloriée, chaque couleur étant associée à une discrétisation particulière
+(ﬁgures 2). Le fait que cette carte soit tracée sur un tore tient au fait que, dans une discrétisation, seule la position
+relative des points nous intéresse. Cette représentation de l’ensemble des discrétisations peut permettre d’améliorer
+les tests de performance des estimateurs de grandeurs géométriques en remplaçant l’estimation ponctuelle de la
+grandeur par la distribution des estimations déduites des aires mesurées sur le tore.
+    Plusieurs articles ont déjà été consacrés à la génération et à la combinatoire de l’ensemble des discrétisa-
+tions du disque par d’autres méthodes [HB97, MO90, Zun04b, HZ04, Zun04a, Nag05, HZ06, HZ07, Hux10,
+HZ16]. L’objectif du stage de M2 que nous proposons est d’étudier par notre méthode le cas de quelques sur-
+faces/solides/objets/régions planaires et de décrire le plus précisément possible la combinatoire et la distribution
+de leurs discrétisations.
+
+
+
+
+F IGURE 2 – Représentation du dual de Sastro sur le tore (haut) et plane (bas). Les régions correspondant à des
+discrétisations à 7 points contiennent seulement un point et ne sont pas visibles.
+
+Nous contacter pour plus de renseignements.
+
+
+Références
+[BM16]    E. BAUDRIER et L. M AZO : Curve digitization variability. In DGCI, volume 9647 de LNCS, pages
+          59–70. IAPR, Springer, Apr 2016.
+[HB97]    D. R. H EATH -B ROWN : Lattice points in the sphere. Number theory in progress, 2:883–892, 1997.
+[Hux10] M N H UXLEY : The number of conﬁgurations in lattice point counting i. Forum Mathematicum,
+        22(1):127–152, 2010.
+[HZ04]    M N H UXLEY et J D Z UNIC : On the number of digitizations of a disc depending on its position. In
+          Combinatorial Image Analysis, 10th Int Workshop, IWCIA 2004, New Zealand, pages 219–231, 2004.
+[HZ06]    M N H UXLEY et J D Z UNIC : Different digitisations of displaced discs. Found of Comput Math,
+          6(2):255–268, 2006.
+[HZ07]    M N H UXLEY et J D Z UNIC : The number of n-point digital discs. IEEE Trans. Pattern Anal. Mach.
+          Intell., 29(1):159–161, 2007.
+[HZ16]    M N H UXLEY et J D Z UNIC : The number of different digital n-discs. J Math Imaging and Vision,
+          56(3):403–408, 2016.
+[MB16]    L M AZO et É BAUDRIER : Object digitization up to a translation. preprint, septembre 2016.
+[MO90]    J E M AZO et A M O DLYZKO : Lattice points in high-dimensional spheres. Monatshefte für Mathematik,
+          110(1):47–61, 1990.
+[Nag05] B NAGY : An algorithm to ﬁnd the number of the digitizations of discs with a ﬁxed radius. Electronic
+        Notes in Discrete Math, 20:607–622, 2005.
+[Zun04a] J D Z UNIC : On the number of digital discs. J Math Imaging and Vision, 21(3):199–204, 2004.
+[Zun04b] J D Z UNIC : On the number of ways to occupy n lattice points by balls in d-dimensional space. J
+         Number Theory, 110(2):396–402, 2004.
+

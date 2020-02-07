@@ -1,0 +1,77 @@
+2018-7040 Application de l'Intelligence Artificielle aux communications
+sans fil H/F
+Informations générales
+Description de l'entité Le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) est un organisme public de
+recherche.
+Acteur majeur de la recherche, du développement et de l'innovation, le CEA intervient dans le cadre de ses
+quatre missions :
+. la défense et la sécurité
+. l'énergie nucléaire (fission et fusion)
+. la recherche technologique pour l'industrie
+. la recherche fondamentale (sciences de la matière et sciences de la vie).
+Avec ses 16000 salariés -techniciens, ingénieurs, chercheurs, et personnel en soutien à la recherche- le CEA
+participe à de nombreux projets de collaboration aux côtés de ses partenaires académiques et industriels.
+Description de l'unité Le Leti, institut de recherche technologique de Cea Tech, a pour mission de créer de la valeur et de
+l'innovation avec ses partenaires industriels. Il fait le lien entre la recherche fondamentale et la production de
+micro et nanotechnologies dans le but d'améliorer la qualité de vie de chacun. Fort d'un portefeuille de 2.800
+brevets, le Leti façonne des solutions avancées pour améliorer la compétitivité de ses partenaires industriels:
+grands groupes, PME ou startups. Localisé à Grenoble (38), le Leti compte plus de 1 800 chercheurs et a des
+bureaux aux US et au Japon.
+Le Laboratoire systèmes sans fil haut débit (LSHD) mène des travaux de R&D dans le domaine des
+systèmes de communications sans fil haut débit (codage canal, modulation et émetteur/récepteur associés,
+traitement de correction du signal transmis, protocoles d'accès au canal, gestion des ressources radio au
+sens large). Ses activités englobent des travaux de simulation, de caractérisation et de réalisation de
+systèmes électroniques et logiciels pour le traitement analogique et numérique du signal transmis, les
+protocoles de communication, la gestion des ressources radio, des données et calculs locaux.
+Délai de traitement 2 mois
+
+Description du poste
+Site Grenoble
+Lieu 17, avenue des martyrs, 38000 GRENOBLE
+Domaine Composants et équipements électroniques
+Contrat Stage
+Intitulé de l'offre Application de l'Intelligence Artificielle aux communications sans fil H/F
+Sujet de stage Application de l'Intelligence Artificielle aux communications sans fil
+Durée du contrat (en mois) 6 mois
+Description de l'offre Les réseaux
+
+de communications de cinquième génération ont l’ambition de faire coexister
+des services hétérogènes incluant, le très haut débit mobile, les communications entre
+machines, celles nécessitant une très forte robustesse aux erreurs et de très faible
+latences. Une des problématiques clefs dans la gestion de tels systèmes est l’adaptation
+des paramètres de transmission à l’environnement. Les méthodes classiques de
+traitement du signal appliquées aux communications numériques sont basées sur des
+modèles statistiques et la génération de signaux est réalisée de telle manière à ce que le
+récepteur soit simple. Ces modèles ont démontré leurs capacités et l’utilisation de
+nouvelles méthodes basées sur l’intelligence artificielle ne pourra sans doute pas
+prétendre de faire mieux. Cependant, dans un système réel, déployé, les imperfections
+des émetteurs/récepteurs (non linéarité des organes d’amplification, effet de couplage,
+quantification du signal), les effets du canal de propagation ne sont pas facilement
+modélisables.
+Dans ce contexte le traitement de ces imperfections peut être traiter à l’aide d’outils
+utilisant l’intelligence artificielle. L’objectif du stage est double :
+- Il sera tout d'abord demandé un travail de recherche consistant à recenser et analyser
+dans la littérature les méthodes/algorithmes héritées de l’intelligence artificielle appliqué
+au contexte des communications numériques.
+- Dans un second temps, les approches les plus pertinentes seront étudiées et
+modélisées afin de les confronter à des modèles représentatifs (non linéarité des chaines
+de transmission, environnement de propagation…). Une comparaison avec des méthodes
+traditionnelles pourra également être réalisée.
+
+traditionnelles pourra également être réalisée.
+Le sujet proposé est un sujet de recherche avec par la suite l’opportunité de poursuivre
+une thèse de doctorat (sous condition de financement).
+Moyens / Méthodes / Logiciels MATLAB, C/C++, TensorFlow
+Profil du candidat Dernière année d'école d'ingénieur ou Master.
+Connaissance requises : Mathématiques, outils d'optimisation, traitement du signal, communications
+numériques
+Merci de bien vouloir transmettre votre candidature directement à Jean-Baptiste DORE : jeanbaptiste.dore@cea.fr
+
+Critères candidat
+Diplôme préparé Bac+5 - Diplôme École d'ingénieurs
+Formation recommandée Bac +5
+
+Demandeur
+Disponibilité du poste 01/02/2019
+
+

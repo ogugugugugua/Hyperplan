@@ -1,0 +1,43 @@
+Intitulé
+Création d’une progressive web app pour le logiciel WID
+
+WID (What I Did?) est un logiciel de suivi des activités. Il travaille d'une façon différente des outils traditionnels, il permet d’associer des étiquettes à une période de temps passée. Pour aider l’utilisateur, le système collecte des données de différents agents (android, extension chrome, GitLab, GitHub). Ainsi avec les données collectées et par le biais d’algorithmes de data learning, WID est capable de proposer l’activité sur lequel l’utilisateur était.
+http://www.codelutin.com/page-stage-wid.html
+Basé à Saint Sébastien-sur-Loire (44)
+Durée du stage : 6 mois
+Principales missions
+La principale mission est de porter l’application WID sur une approche PWA (Progressive Web App). Ceci a pour conséquence les objectifs suivants :
+- l’installation de l’application sur téléphone (android)
+- la gestion du cache pour le démarrage de l’application sans réseau
+- la gestion de la resynchronisation des données
+- l’intégration des gestures pour les téléphones
+
+Technologies utilisées : 
+- JavaScript/CSS/HTML
+- Node
+- Riot
+- Data learning
+- Worbox
+Qualités recherchées : 
+- autonome
+- volontaire
+- rigoureux
+- créatif
+- perspicace
+Profil recherché
+Nous recherchons une personne motivé, force de proposition. 
+Niveau(x) d’études : Bac +4/5
+Pré-requis : formation développeur web 
+Autre 
+Gratification : 
+Avantages : frais de transport pris en charge à 50 % + tickets restaurant
+Présentation de la société 
+
+Créée en 2002, Code Lutin propose des projets de développement informatique en se basant sur des briques de logiciels libres. Code Lutin a fait le choix d’utiliser des technologies robustes, fiables et pérennes dotée de larges librairies : Java, JavaScript.
+
+Nous proposons à nos clients des projets au forfait, de la régie et de la TMA. Nous travaillons avec des acteurs majeurs du marché sur différents secteurs d’activité : Vewd (télé connectées), Inra, CNRS, Ifremer, My Money Bank, Agence Française pour la Biodiversité …
+Nous invitons toujours nos clients à construire et à travailler avec eux pour que l'application soit la plus conforme à leurs attentes ainsi qu'à celles des utilisateurs finaux. Cela nous permet également de créer une relation de confiance, indispensable selon nous à la réussite des projets. Au-delà des projets de nos clients, nous développons également en interne certaines solutions, libres, nous permettant de répondre à nos besoins spécifiques (par exemple la prise de décision collective avec Pollen[1], la gestion du temps avec WID[2]) et d’effectuer une veille technologique constante ainsi que de la R&D.
+
+[1] https://pollen.cl [2] https://wid.chorem.com
+
+

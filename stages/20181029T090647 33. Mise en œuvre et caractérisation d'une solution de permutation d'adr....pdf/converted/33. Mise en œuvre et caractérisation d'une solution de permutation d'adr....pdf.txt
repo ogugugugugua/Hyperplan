@@ -1,0 +1,79 @@
+2018-7191 Mise en œuvre et caractérisation d'une solution de
+permutation d'adressage d'un cache H/F
+Informations générales
+Description de l'entité Le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) est un organisme public de
+recherche.
+Acteur majeur de la recherche, du développement et de l'innovation, le CEA intervient dans le cadre de ses
+quatre missions :
+. la défense et la sécurité
+. l'énergie nucléaire (fission et fusion)
+. la recherche technologique pour l'industrie
+. la recherche fondamentale (sciences de la matière et sciences de la vie).
+Avec ses 16000 salariés -techniciens, ingénieurs, chercheurs, et personnel en soutien à la recherche- le CEA
+participe à de nombreux projets de collaboration aux côtés de ses partenaires académiques et industriels.
+Description de l'unité Le Leti, institut de recherche technologique de Cea Tech, a pour mission de créer de la valeur et de
+l'innovation avec ses partenaires industriels. Il fait le lien entre la recherche fondamentale et la production de
+micro et nanotechnologies dans le but d'améliorer la qualité de vie de chacun. Fort d'un portefeuille de 2.800
+brevets, le Leti façonne des solutions avancées pour améliorer la compétitivité de ses partenaires industriels:
+grands groupes, PME ou startups. Localisé à Grenoble (38), le Leti compte plus de 1 800 chercheurs et a des
+bureaux aux US et au Japon.
+Le LSOSP, Laboratoire sécurité des objets et des systèmes physiques, mène des activités de R&D dans le
+domaine des technologies de sécurité et de protection de la vie privée. Il analyse et caractérise les risques
+auxquels sont soumis les systèmes électroniques et les composants; il conçoit des contre-mesures
+s'appuyant notamment sur des techniques cryptographiques mais aussi sur des modifications dans
+l'architecture des systèmes pour intégrer les technologies nécessaires (composants, codes embarqués,
+interfaces ou protocoles de communications...). Il caractérise l'efficacité des contremesures intégrées dans
+des composants, des objets (communicants) et des systèmes cyberphysiques afin de résister aux attaques
+au niveau de leur structure, de leurs fonctions ou de leur utilisation.
+Délai de traitement 2 mois
+
+Description du poste
+Site Grenoble
+Lieu Route du Cyclotron, 91400 Saclay, France
+Domaine Composants et équipements électroniques
+Contrat Stage
+Intitulé de l'offre Mise en œuvre et caractérisation d'une solution de permutation d'adressage d'un cache H/F
+Sujet de stage Mise en œuvre et caractérisation d'une solution de permutation d'adressage d'un cache
+Durée du contrat (en mois) 6 mois
+Description de l'offre Les mémoires
+
+caches sont devenues au fils des années indispensables aux performances
+et à l'efficacité énergétique des processeurs. Les variations des temps d'accès (cache hit
+ou cache miss) inhérentes à ces mémoires peuvent malheureusement révéler des motifs
+d'accès mémoires et dans certains cas causer la fuite de données extrêmement critiques
+[1]. À titre d’exemple, les fameuses attaques Spectre et Meltdown qui ont marqué le début
+de l’année 2018 sont rendues possibles en partie par une vulnérabilité au niveau des
+caches.
+Le CEA LETI et l’IRT Nanoelec à travers le projet Nanotrust repense la sécurité des
+processeurs et développe une architecture de processeur sécurisée basée sur le jeu
+d’instruction RISC-V. Dans ce stage, le candidat rejoindra ce projet et sera chargé de la
+mise en œuvre et de la caractérisation d’une architecture de cache sécurisée brevetée par
+l’équipe Nanotrust.
+Le stage se déroulera en trois parties :
+1. Se familiariser avec le projet, et prendre en main la solution à mettre en œuvre.
+2. Développer et caractériser un modèle isolé de l’architecture proposée.
+3. Intégrer la solution dans le cœur Nanotrust et la valider sur des applications réalistes.
+
+Evidemment, toute piste d’amélioration de la solution entrevue par le candidat pourra être
+explorée.
+References
+---------[1] HE, Zecheng et LEE, Ruby B. How secure is your cache against side-channel attacks?.
+In : Proceedings of the 50th Annual IEEE/ACM International Symposium on
+Microarchitecture. ACM, 2017. p. 341-353.
+Moyens / Méthodes / Logiciels VHDL/Verilog, C/C++
+Profil du candidat Etudiant en troisième année d'école d'ingénieur ou deuxième année de master. Le candidat recherché devra
+avoir de bonnes compétences en conception matérielle (VHDL ou Verilog) et quelques bases en architecture
+des processeurs, notamment des caches. Des compétences en développement embraqué (C, C++) sont un
+plus.
+Merci de bien vouloir transmettre votre candidature directement à Mustapha EL MAJIHI :
+Mustapha.ELMAJIHI@cea.fr
+
+Critères candidat
+Langues Anglais (Intermédiaire)
+Diplôme préparé Bac+5 - Diplôme École d'ingénieurs
+Formation recommandée Etudiant en 3ème année d'école d'ingénieur ou 2ème année de master
+
+Demandeur
+Disponibilité du poste 01/02/2019
+
+

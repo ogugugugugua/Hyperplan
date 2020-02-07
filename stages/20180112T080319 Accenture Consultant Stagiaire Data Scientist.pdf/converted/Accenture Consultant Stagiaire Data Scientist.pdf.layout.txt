@@ -1,0 +1,43 @@
+Stagiaire Consultant(e) Data Scientist
+Description du poste
+Accenture, référence mondiale dans le secteur du conseil, conjugue son expérience, son expertise et
+ses capacités de recherche et d'innovation, pour accompagner les plus grandes entreprises
+mondiales dans toutes les phases de leur transformation, de la stratégie à la mise en œuvre.
+
+Au sein du groupe, le département Industry X.0 aide ses clients à innover et à croitre dans un contexte
+de révolution digitale de l’industrie.
+
+Dans le cadre du développement de SOO (Service Operations & Optimisation), dédiée à l’optimisation
+et à la digitalisation des services après-vente et appartenant à Industry X.0, nous recherchons un/une
+Stagiaire Consultant(e) Data Scientist.
+
+En tant que Stagiaire Consultant(e) Data Scientist, vous serez amené(e) à :
+    • Traduire une problématique client en approche analytics
+    • Identifier les techniques de data mining et machine learning pour répondre aux
+       problématiques des clients
+    • Identifier les sources de données nécessaires à la mise en place d’une solution
+    • Proposer, prototyper (puis industrialiser) les algorithmes pertinents
+    • Contribuer au développement de l’offre Analytics (Outils, Méthodes, Promotion interne et
+       externe)
+
+Ce que notre Business Service vous apporte :
+   • Un réseau d'experts Data Science mondiaux, avec des spécialistes sur des cas d'usage
+       spécifiques
+   • Une expérience internationale pour de grands comptes sur des industries et des sujets variés
+   • Une collaboration avec nos autres entités Stratégie, Consulting, Technologies et Opérations
+       dans la livraison de projets de grande envergure
+   • Un apprentissage continu sur les nouvelles technologies
+
+Qualifications
+
+   •   Vous êtes bientôt diplômé(e) de l’enseignement supérieur : Bac+5 en école d’ingénieur ou
+       université avec une spécialisation mathématiques appliquées, statistiques, recherche
+       opérationnelle, data science, etc.
+   •   Vous maîtrisez les familles d’algorithmes de Data Science et les principales implémentations
+   •   Vous manipulez des librairies de machine learning en R et/ou Python.
+   •   Vous êtes doté(e) de capacités reconnues d'analyse et de synthèse. Vous êtes capables de
+       présenter et communiquer les résultats de manière claire et synthétique à tout type de public
+   •   Vous êtes autonome, organisé(e) et avez démontré vos capacités à travailler en équipe
+   •   Votre anglais est courant
+Poste basé à Paris
+

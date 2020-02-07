@@ -1,0 +1,49 @@
+Stage Développeur FullStack ERA (H/F)
+Localisation : Nantes
+Contexte
+Le programme ERA a pour objectif de construire la nouvelle plateforme de distribution pour RailEurope (filiale du
+groupe OUI.sncf) qui vise à remplacer l’actuelle plateforme utilisée pour vendre du train européen (B2B & B2C) à
+l’international (Chine / Amérique / Inde / …).
+Une équipe de delivery distribuée (Paris / Nantes / Lille / New York) est engagée dans ce programme depuis plus
+d’un an. Un périmètre MVP est en production et évolue continuellement. L’application est une application déployée
+sur le cloud Amazon (AWS) et s’appuie sur une usine logicielle de déploiement continue performante
+Sujet :
+- Participation à la réalisation et au développement de nouvelles fonctionnalités sur la plateforme de
+distribution
+- Contribution à la prise en charge de certains sujets dans le backlog technique (MCO / POC / …)
+- Participation au plan général d’amélioration continu du processus de delivery (outils internes divers)
+Activités et Principales Responsabilités
+-
+
+Participation aux sessions d’estimation de la complexité des sujets (poker planning)
+Contribution à la mise à jour de la conception et de la documentation technique
+Participation aux différences cérémonies agile de l’équipe
+Contribution à l’implémentation et à la validation automatique des développements réalisés
+Vérification de l’adéquation de la solution avec ce qui est attendu en sollicitant les Product Owner (Fonctionnel
+et Technique)
+Profil
+
+Stack Technique
+Une application Web Frontend et un Backend exposant une API
+HTML5, javascript / Angular (5) (typescript) / CSS / API REST / Java (10) / springboot (2.0)
+Les Particularités :
+Anglais (parlé et écrit). L’anglais est la langue du projet !
+Principes agiles (Lean & Kanban), de l’approche BDD, de l’approche DEVOPS et du principe du cloud computing
+(AWS).
+Vos atouts :
+Curieux, Communiquant, Engagé, Pragmatique, Proactif, Collectif
+Ce que vous trouverez dans ce stage
+-
+
+Un contexte international
+Des technologies, des méthodologies et des approches innovantes (Cloud AWS / Lean & Kanban / DEVOPS
+…)
+La possibilité d’apprendre le métier de développeur sur la totalité de la chaîne de delivery (Full Cycle
+Development : STUDY / DEVELOP/ DEPLOY / OPERATE)
+Un stage de qualité sur lequel vous pourrez capitaliser avec une possibilité d’embauche à la clef.
+Un environnement de travail où tout est fait pour que vous vous sentiez bien
+Une ambiance chaleureuse et un esprit team player au sein d’un groupe solide (innovation, dynamisme,
+Hackathons, séminaires, « vis ma vie » etc.)
+5
+
+

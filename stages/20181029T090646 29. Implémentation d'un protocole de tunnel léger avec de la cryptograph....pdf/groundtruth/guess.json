@@ -1,0 +1,10 @@
+{
+  "guessed": {
+    "where": "GRENOBLE",
+    "who": "LSOSP",
+    "what": "Implémentation d'un protocole de tunnel léger avec de la cryptographie asymétrique"
+  },
+  "provided": {
+    "who": "CEA Tech/Leti"
+  }
+}

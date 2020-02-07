@@ -1,0 +1,67 @@
+Kosmos
+8 rue Kervégan
+44000 NANTES
+
+OFFRE DE STAGE
+Refonte de la couche d’authentification de Ksup
+
+MISSIONS
+
+•
+
+Remise à niveau du service d’authentification pour répondre à plusieurs enjeux :
+maintenabilité, évolutivité,
+
+•
+
+Support du protocole OAuth 2.0 pour faciliter l’intégration avec des services
+tiers,
+
+•
+
+Amélioration du niveau de sécurité de l’application,
+
+•
+
+Gestion des sources d’authentification (migration des services existants vers des
+services basés sur Spring security),
+o Interne (base de données),
+o LDAP,
+o CAS,
+o Cleartrust,
+o Shibboleth,
+o NTLM/Kerberos,
+
+QUALITES
+REQUISES
+
+•
+
+Mise en place d’une authentification via OAuth 2.0 (OpenID Connect),
+
+•
+
+Amélioration de la sécurité,
+
+•
+
+Sécurité des mots de passe (brut-force, etc…),
+
+•
+
+Configurations serveur.
+
+Passionné(e) par le Web, vous suivez de près l’évolution des nouvelles technologies et
+avez un réel intérêt pour l'Open Source. Vous êtes rigoureux(se), motivé(e), et vous vous
+adaptez facilement. Vous souhaitez vous investir dans cette mission au sein d'une
+ambiance jeune, dynamique et professionnelle.
+Curiosité, autonomie et savoir-faire technique seront vos atouts essentiels.
+
+MODALTÉS
+
+Durée 5-6 mois
+A pourvoir dès que possible
+Poste basé à Nantes
+CV et lettre de motivation à transmettre à recrutement@kosmos.fr
+
+

@@ -1,0 +1,30 @@
+ 
+OFFRE DE STAGE
+Thème :	Interface utilisateur intuitive et interactive  pour machines de travail mobiles (agriculture, BTP, manutention, aéroportuaire)
+Poste :	Ingénieur 5ème année
+Lieu :	Nantes
+Durée :	4 à 6 mois
+Date de début :	entre février et mai
+
+Notre société :
+
+Secom Engineering  HYPERLINK "http://www.secom.fr" http://www.secom.fr accompagne les constructeurs de machines de travail mobiles (agricoles, TP, manutention, etc…)  en leur proposant des solutions de connectivité innovantes depuis plus de 10 ans avec des fonctionnalités avancées de maintenance et de traçabilité des travaux effectués.
+
+Mission :
+
+Spécialiste reconnu des machines de travail mobile, SECOM Engineering a pour objectif de rendre toujours plus intuitive l’utilisation et la supervision de machines toujours plus complexes. Au sein du pôle « logiciel embarqué  » de SECOM Engineering, vous participerez aux études de faisabilité technique de fonctionnalités avancées sur des écrans embarqués à OS Linux (3D, cartographie, Text To Speech, Reconnaissance Vocale etc…).
+
+Sous la responsabilité du chef de projet, vos principales contributions seront : 
+Spécifications fonctionnelles des démonstrateurs
+Recherche et analyse comparative des solutions techniques
+Implémentation du démonstrateur de faisabilité
+Présentation des résultats et des enseignements
+
+Profil du stagiaire :
+
+Connaissances obligatoires * Programmation : C, C++ * Framework  QT * Linux  Connaissances appréciées * Yocto  * Open GL / Moteur 3D * QML  * Géomatique  
+Pour postuler, nous écrire à l’adresse suivante :
+SECOM – 3, rue Joseph Cholet –44 100 Nantes
+Ou par courriel :  HYPERLINK "mailto:talents@secom.fr" talents@secom.fr 
+
+Plus d’informations sur l’entreprise :  HYPERLINK "http://www.secom.fr" www.secom.fr

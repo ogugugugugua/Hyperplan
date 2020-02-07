@@ -1,0 +1,40 @@
+Outil d’édition de modèle d’aéroport
+•
+•
+•
+
+Durée : 6 mois
+Type de formation : ingénieur (stage de dernière année)
+Compétences requises :
+• connaissance des langages objets, en particulier C++, et développement sous
+linux
+• des notions de 3D et d’OpenGL serait un plus
+• curiosité et envie d'apprendre
+• bonne maîtrise de l'anglais.
+
+La société : Alsim conçoit, fabrique et vend des simulateurs de vol professionnels depuis
+plus de 20 ans. Nous avons à cœur de proposer des produits innovants et de qualité afn
+d'améliorer la formation des pilotes. Entreprise à taille humaine, nous avons cependant
+vendu nos machines dans le monde entier et avons acquis une solide réputation dans le
+domaine.
+Mission
+Les simulateurs sont livrés avec un système visuel qui comprend un système de
+projection panoramique et un générateur d’images (moteur graphique) qui permet
+d’affcher l’environnement extérieur. Cet environnement est une scène 3D qui inclut le
+relief, les textures représentant les types de terrain, ainsi que les aéroports sur la planète
+entière. Ces aéroports sont pour la plupart représentés de manière générique, mais un
+certain nombre d’entre sont plus fdèles à la réalité. Cela passe par une phase de création
+manuelle de contenu 3D.
+Intégré au sein de l'équipe de recherche et développement, vous aurez pour mission
+l'étude et le développement d’outils d’aide à la création de ces contenus, permettant de
+placer de manière automatisée ou semi-automatisée un certains nombre d’objets 3D, de
+marquages au sol, etc.
+Vous aurez l’occasion de travailler dans un environnement stimulant, ouvert, et
+accueillant, dans le domaine de l’aéronautique, avec accès à des simulateurs de vol
+professionnels.
+Site web : http://www.alsim.com
+contact : Thierry Lebourque (responsable R&D logiciel)
+mail : t.lebourque@alsim.com
+tél : +33 240 037 774
+
+

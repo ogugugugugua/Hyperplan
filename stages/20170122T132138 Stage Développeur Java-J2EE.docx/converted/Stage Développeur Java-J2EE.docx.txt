@@ -1,0 +1,18 @@
+Stage Développeur Java/J2EE
+Agence Nantaise du Groupe CREATIVE, CREATIVE Atlantique est une société locale de conseil et d'ingénierie qui oriente son offre vers le Système d'Information et l’ISTI (l’Informatique Scientifique Technique et Industrielle).
+L’objectif du Groupe CREATIVE est d’apporter à ses clients la compétence technique attendue mais aussi l’écoute, la souplesse et la réactivité qui permettent de créer une relation client/fournisseur pérenne.
+L’esprit de service est une valeur forte de notre Groupe !
+Cette approche portant ses fruits, notre croissance est soutenue et constante depuis notre création en 2012.
+Poste et missions
+L’objectif du stage est d’intégrer une équipe de développement pour un projet au sein de nos locaux de Saint-Herblain.
+Vous serez en charge des tâches suivantes :
+- Développement d’applications web en environnement J2EE et Javascript
+- Rédaction et passation de tests unitaires
+Profil
+En fin de cursus d’une formation supérieure en informatique (Bac+3 à Bac+5), vous disposez d’une première expérience autour des technologies Java/J2EE, vous ayant permis d’acquérir des compétences dans certains des domaines suivants :
+- J2EE : Spring, Hibernate
+- Javascript : JQuery, AngularJS
+Le choix des matériels et des technologies utilisés à d’ores et déjà été effectué par les équipes techniques.
+Vous êtes autonome, curieux et créatif et avez de bonnes capacités de synthèse et de présentation.
+Saisissez aujourd'hui l'opportunité d'intégrer un Groupe qui monte en nous rejoignant !
+Stage à pourvoir entre février et mars d'une durée de 4 à 6 mois avec de fortes perspectives d'évolution.

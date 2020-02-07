@@ -1,0 +1,78 @@
+2018-7026 Évaluation des solutions de communication entre véhicules
+(V2X) H/F
+Informations générales
+Description de l'entité Le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) est un organisme public de
+recherche.
+Acteur majeur de la recherche, du développement et de l'innovation, le CEA intervient dans le cadre de ses
+quatre missions :
+. la défense et la sécurité
+. l'énergie nucléaire (fission et fusion)
+. la recherche technologique pour l'industrie
+. la recherche fondamentale (sciences de la matière et sciences de la vie).
+Avec ses 16000 salariés -techniciens, ingénieurs, chercheurs, et personnel en soutien à la recherche- le CEA
+participe à de nombreux projets de collaboration aux côtés de ses partenaires académiques et industriels.
+Description de l'unité Le Leti, institut de recherche technologique de Cea Tech, a pour mission de créer de la valeur et de
+l'innovation avec ses partenaires industriels. Il fait le lien entre la recherche fondamentale et la production de
+micro et nanotechnologies dans le but d'améliorer la qualité de vie de chacun. Fort d'un portefeuille de 2.800
+brevets, le Leti façonne des solutions avancées pour améliorer la compétitivité de ses partenaires industriels:
+grands groupes, PME ou startups. Localisé à Grenoble (38), le Leti compte plus de 1 800 chercheurs et a des
+bureaux aux US et au Japon.
+Le Laboratoire communication des objets intelligents (LCOI) mène des activités dans le domaine de la R&D
+pour les systèmes de communications dans l'internet des objets et les réseaux de capteurs. Il traite
+également des fonctions de localisation radiofréquence et multimodales. Ses activités englobent des travaux
+de simulation, de réalisation et de caractérisation de systèmes électroniques et logiciels pour le traitement
+analogique et numérique du signal transmis et les protocoles de communication.
+Délai de traitement 2 mois
+
+Description du poste
+Site Grenoble
+Lieu 17, avenue des martyrs, 38000 GRENOBLE
+Domaine Composants et équipements électroniques
+Contrat Stage
+Intitulé de l'offre Évaluation des solutions de communication entre véhicules (V2X) H/F
+Sujet de stage Évaluation des solutions de communication entre véhicules (V2X)
+Durée du contrat (en mois) 6 mois
+Description de l'offre L'adoption
+
+des véhicules électriques et l'introduction progressive de mécanismes de
+conduite autonome apportent des transformations importantes à l'automobile. La
+communication entre les véhicules et de véhicules aux infrastructures devrait prendre une
+part importante à ces transformations.
+Deux grandes technologies ont été identifiées dans ce domaine :
+(i) une première issue du WiFi, appelée ITS-G5 / IEEE WAVE / DSRC,
+(ii) une autre issue du cellulaire (3GPP), évolution du LTE et appelée C-V2X.
+L'objectif de ce stage est de comparer techniquement ces deux technologies (couche
+physique/radio, couche MAC). Ce stage pourra alors se dérouler comme suit:
+1. Les technologies de communication seront étudiées et analysées via un état de l'art des
+solutions ITS-G5 et C-V2X (couches physiques PHY et protocolaires MAC).
+2. Une évaluation des performances des deux standards à travers des simulations des
+deux chaînes de communication sera conduite (Critères d'évaluation: BER (taux d'erreur
+binaire), PDR (rapport de livraison de paquet), latence…). Les chaînes de simulation
+seront à développer sous Matlab. Cette analyse de la qualité de la liaison de donnée sera
+associée à des scénarios de mobilité (croisement en ville, ralentissement sur autoroute,
+...) simulés via un environnement de simulation de type SUMO ("Simulation of Urban
+MObility").
+
+Moyens / Méthodes / Logiciels Langages/logiciels: Matlab, C/C++
+Profil du candidat Stagiaire de fin d'études, issu(e) d'une formation Bac +5 en école ingénieur (ou Master) avec une
+
+spécialisation en télécommunication et/ou traitement du signal et/ou protocole et/ou système.
+Compétences requises:
+- Traitement du signal pour les communications numériques (modulation, synchronisation, filtrage, codage,
+...),
+- Systèmes de communication numérique,
+- Protocoles de communication,
+- Standards LTE (4G) et Wifi,
+- Matlab, C/C++, etc.
+Qualités requises : bon relationnel, force de proposition, travail en équipe, rigueur, dynamisme et esprit
+d'analyse.
+Merci de bien vouloir transmettre votre candidature directement à Valérian MANNONI :
+valerian.mannoni@cea.fr
+
+Critères candidat
+Diplôme préparé Bac+5 - Diplôme École d'ingénieurs
+
+Demandeur
+Disponibilité du poste 01/02/2019
+
+

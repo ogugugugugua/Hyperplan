@@ -1,0 +1,39 @@
+Notre ambition ? Innover. Notre mission ? Relever les défis nutritionnels de demain. Spécialistes de la Nutrition Végétale, de la Nutrition et du Bien-Être Animal, nous cultivons notre réussite dans le monde entier en nous appuyant sur une structure solide et dynamique et en maîtrisant l'ensemble des étapes de notre processus industriel et commercial. Notre force ? Nos 7 900 femmes et hommes qui portent nos valeurs : innovation, performance, esprit entrepreneurial et audace.
+
+Timac Agro International (TAI), holding du métier agrofourniture du Groupe recherche pour son service SI un(e) futur(e) : 
+
+CHEF DE PROJET DECISIONNEL H/F 
+Poste basé à Dinard / Saint-Malo (35)
+
+Vos principales missions : 
+
+Sous la responsabilité du Responsable SI du métier Agrofourniture, et dans le cadre des projets décisionnels auprès des filiales et en central, vous aurez en charge : 
+
+	•	la mise en place de nouveaux applicatifs ETL:
+	•	recueil des besoins et rédaction des cahiers des charges,
+	•	planification,
+	•	réalisation jusqu’à la mise en production.
+	•	spécifications générales et détaillées,
+	•	création et documentation normée des jobs,
+	•	vérification et validation de l’intégrité des données et du référentiel,
+	•	suivi du processus d’alimentation de l’entrepôt de données,
+	•	gestion et optimisation de la base de données,
+	•	gestion de la sécurité et des profils,
+	•	tests et mise en production,
+	•	l’administration et l’optimisation de l’ETL,
+	•	L’expertise ETL interne,
+	•	Le déploiement et la maintenance des cubes JEDOX auprès des filiales,
+	•	La mise en place de cubes de consolidation pour les fonctions centrales,
+	•	La formation et le support aux utilisateurs,
+	•	La gestion de projet et la coordination avec les équipes internes (ERP, infrastructure, métiers,…) et les prestataires extérieurs.
+
+Profil : 
+
+De formation supérieure (Bac+4/5) en informatique, 
+Vous possédez idéalement une première expérience de stage dans le développement et la gestion de projets décisionnels avec l’ETL TALEND et des outils de restitution type JEDOX, Cognos ou IBM TM1, idéalement dans un contexte international. 
+Vous connaisez la base de données ORACLE et les outils de modélisation (type POWERAMC).
+Vous maitrisez l’anglais, la maitrise de l’espagnol ou du portugais est un plus.
+Vous êtes autonome, rigoureux, organisé et avez de bonnes capacités rédactionnelles, un bon relationnel et un réel esprit d’équipe.
+Vous souhaitez vous impliquer dans des projets à forte valeur ajoutée dans un Groupe international en fort développement, alors nous vous proposons de nous rejoindre.
+
+Si cette opportunité vous intéresse, merci de nous faire parvenir votre candidature (CV + lettre de motivation + prétentions).

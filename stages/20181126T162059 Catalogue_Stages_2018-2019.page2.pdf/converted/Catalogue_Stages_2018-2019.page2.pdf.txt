@@ -1,0 +1,47 @@
+Stage Développeur FullStack AOM (H/F)
+Localisation : Nantes
+Contexte
+L’application AOM (Appel d’Offre Manager) est une application développée en interne pour gérer
+les appels d’offre de prestation IT auprès des fournisseurs ESN.
+Basée sur une architecture en micro services REST et hébergée sur AWS elle s’adresse aux 130
+managers du groupe Oui.Sncf et 80 fournisseurs référencés.
+AOM est une application clé pour notre performance économique.
+Sujet :
+- Participation au recueil de besoin, à la réalisation et au développement de nouvelles
+fonctionnalités à forte valeur ajoutée (Gestion intelligente des propositions de prestation,
+Indicateurs de performance, …)
+- Contribution à la prise en charge de sujets du backlog technique (automatisation tests E2E,
+purge dette, …)
+Activités et Principales Responsabilités
+-
+
+Contribution à l’étude de faisabilité des nouvelles fonctionnalités avec le Product Owner.
+Contribution au cadrage, estimation, conception et mise à jour de la doc technique.
+Contribution à l’implémentation et à la validation automatique des développements réalisés.
+Contribution aux tests, à l’intégration et à l’exploitation de l’application.
+Profil
+
+Stack Technique
+Application micro-services API REST.
+Front en Angular 5 et Back en Java 8 Springboot. API REST. Docker.
+Les Particularités :
+Principes agiles (Kanban), Hébergement AWS, Approche DevOps.
+Vos atouts :
+Curieux, Communiquant, Engagé, Pragmatique, Proactif.
+Ce que vous trouverez dans ce stage
+-
+
+Une équipe dynamique orientée R&D
+Des technologies, des méthodologies et des approches innovantes (Cloud AWS / Kanban /
+DEVOPS)
+La possibilité d’apprendre le métier de développeur sur la totalité de la chaîne de delivery
+(Full Cycle Development : STUDY / DEVELOP/ DEPLOY / OPERATE)
+Un stage de qualité sur lequel vous pourrez capitaliser avec une possibilité d’embauche à
+la clef.
+Un environnement de travail où tout est fait pour que vous vous sentiez bien
+Une ambiance chaleureuse et un esprit team player au sein d’un groupe solide (innovation,
+dynamisme, Hackathons, séminaires, « vis ma vie » etc.)
+
+2
+
+

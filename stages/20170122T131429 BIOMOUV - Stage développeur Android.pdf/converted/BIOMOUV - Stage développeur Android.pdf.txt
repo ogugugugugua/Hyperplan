@@ -1,0 +1,39 @@
+Stage conventionné développement mobile Android
+Entreprise
+Biomouv est une startup innovante (labels OSEO, JEI) créée en 2010, la Société
+propose des services en ligne (web + mobile) qui combine la nutrition et l’activité
+physique et sportive pour proposer des programmes personnalisés en fonction de
+l’étude du profil de chaque utilisateur.
+Mission
+Biomouv développe de nouveaux services innovants pour sa branche d’activité
+médicale et recherche un stagiaire pour participer au développement d’une application
+mobile (Android), notamment connectée à des devices externes comme des cardiofréquencemètres et des lecteurs de glycémie.
+Mission :
+En collaboration avec le Directeur Technique, le stagiaire sera associé aux
+spécifications techniques de l’application et participera aux développements.
+Compétences souhaitées :
+• une expérience significative dans le développement d'applications sur Android
+• Être à l'aise dans la conception et la manipulation d'API
+• Idéalement avoir mis en œuvre dans une application des fonctionnalités de connexion
+tiers via bluetooth
+• Être familier avec l'intégration graphique sur mobile
+Profil :
+Vous êtes passionné par le développement d’applications mobile et êtes intéressé par
+travailler sur un projet de type R&D innovant au sein d’une startup. Dynamique &
+force de proposition, vous appréciez participer à la conception et aux spécifications.
+Rigoureux dans votre travail, vous savez travailler en autonomie.
+Fonction : Développeur mobile
+
+
+
+
+
+Démarrage : Dès que possible
+Durée : 3 mois minimum
+Type de contrat : Stage conventionné
+Localisation : Paris
+
+Contact :
+Fabrice.albrecht@biomouv.com – Directeur Technique
+
+

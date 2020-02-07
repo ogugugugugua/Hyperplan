@@ -1,0 +1,64 @@
+Kosmos
+8 rue Kervégan
+44000 NANTES
+
+OFFRE DE STAGE
+Ingénieur-e DevOps / PAAS-Kubernetes
+
+Donnez du sens à votre métier, venez partager notre aventure : « Digital for Education » !
+
+KOSMOS EN
+BREF
+
+Kosmos est le leader spécialiste du numérique pour l'éducation. Créée en 1998 à
+Nantes, nous accompagnons les acteurs de l'éducation (enseignement scolaire,
+enseignement supérieur, formation professionnelle et continue) autour de quatre
+métiers : l'édition logicielle, le conseil, l'intégration et l'infogérance. Le groupe Kosmos
+(4 sociétés) est implanté à Nantes (siège social), Toulouse, Lyon, Metz, Paris et
+Montréal, compte 120 collaborateurs, et réalise un CA consolidé de 11 M€ en 2017.
+
+VOS MISSIONS
+
+Au sein d’une équipe devops (4 personnes) gérant un parc important d’applications
+Web critiques et ayant pour objectif d’automatiser les déploiements d’applications :
+● Votre mission sera d’étudier les différentes solutions basées sur Kubernetes
+(rancher, openshift…) :
+>
+
+les fonctionnalités offertes
+
+>
+
+la facilité d’exploitation
+
+>
+
+les possibilités de mutualisation
+
+>
+
+le coût
+
+● Vous réaliserez des POC illustrant un-e :
+>
+
+offre PAAS
+
+>
+
+usine logicielle
+
+>
+
+catalogue d’applications
+
+● Vous participerez aux missions d’exploitation quotidiennes de l’équipe
+VOTRE PROFIL
+
+Vous êtes en dernière année de cycle ingénieur spécialisé en informatique et
+recherchez un stage de fin d’études (5/6 mois).
+Vous avez une connaissance pratique du monde opensource et de linux.
+Idéalement, vous contribuez à des projets communautaires.
+Lieu de stage : Nantes.
+
+

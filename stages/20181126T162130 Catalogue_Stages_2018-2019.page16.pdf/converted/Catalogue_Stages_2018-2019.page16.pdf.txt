@@ -1,0 +1,40 @@
+Stage – Ingénieur Innovation (H/F)
+Localisation : Paris
+
+Contexte
+L’équipe Urbanisation et Innovation est en charge de travailler sur les fonctionnalités et innovations différenciantes
+que proposera, à l’avenir, Voyages-SNCF.com à ses clients. Vous réaliserez vos missions en interaction directe avec
+les équipes R&D.
+Activités et Principales Responsabilités
+-
+
+Exploration des assistants virtuels en utilisant les algorithmes NLP et Deep Learning (Google Home / Amazon
+Echo / S.A.R.A.H )
+Reconnaissance d’images par machine learning – Deep Learning
+Développements open-source sur github
+Veille Technologique
+Profil
+
+-
+
+Etudiant en bac+5, vous recherchez un stage de fin d’études en conception et développement d’algorithmes.
+Vous avez idéalement déjà une première expérience dans le développement de langages
+
+Ces outils ne vous sont pas inconnus !
+- Java et idéalement un langage de développement mobile ; Les bases de données NoSQL ; Algorithmie
+Là vous nous épatez !
+- Vous avez déjà entendu parler du Deep Learning
+- L’expérience ou l’envie de travailler dans un environnement Agile
+Vos atouts !
+Esprit d’équipe, Bonne humeur, Curiosité, Force de proposition
+Ce que nous offrons
+-
+
+Un stage de qualité sur lequel vous pourrez capitaliser
+Un environnement de travail où tout est fait pour que vous vous sentiez bien
+Une ambiance chaleureuse et un esprit Start Up au sein d’un groupe solide (innovation, dynamisme,
+Hackatons, séminaires, « vis ma vie » etc.)
+
+16
+
+

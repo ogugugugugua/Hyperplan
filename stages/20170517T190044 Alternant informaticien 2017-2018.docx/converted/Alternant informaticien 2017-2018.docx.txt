@@ -1,0 +1,51 @@
+AXA France accompagne ses clients, particuliers et entreprises, à toutes les étapes de leur vie. Aujourd’hui, 9 millions de clients en France font confiance à AXA pour assurer leurs biens (véhicules, habitation, équipement), protéger leur famille ou leurs collaborateurs en matière de santé et de prévoyance, gérer leur patrimoine ou les actifs de leur entreprise.
+
+
+
+Intitulé du poste (F/H) – Contrat Alternance
+Informaticien junior (F/H)
+
+Rejoignez le département Actuariat, Réassurance et Support au Pilotage au sein de la Direction de Marché IARD des Particuliers, et contribuez à l’objectif de mesure, d’analyse et de maîtrise des risques IARD.
+
+
+Missions principales
+
+Au sein de l’équipe Réassurance et Modèle Interne IARD (9 personnes), nous vous proposons de participer à la mise en œuvre d’outils pour optimiser la qualité des données afin de satisfaire les demandes pour le modèle interne d’AXA France  et la réassurance. En fonction du plan d’actions qui sera défini par le Groupe, vous serez amené à :
+	•	Développer des programmes et outils afin de vérifier l’exhaustivité et la qualité des données, en particulier sur les risques portés par AXA France envers ses assurés (engagement / localisation etc.).
+	•	Optimiser et participer à la migration des programmes SAS vers WPS
+	•	Mettre en place des Dashboard et des indicateurs de qualité
+	•	Documenter les outils et process
+
+
+Profil recherché
+
+Diplôme préparé en 2017/2018
+Ecoles d’ingénieurs, 3èmes cycles universitaires
+BAC + 4 / 5
+
+Compétences spécifiques attendues (informatiques, langues…)
+Maîtrise des outils informatiques : Excel, SAS, R, WPS serait un plus
+Rigueur, Autonomie, curiosité, travail en équipe
+
+Durée souhaitée : 1 an en alternance 
+
+
+Informations complémentaires 
+
+Poste basé à Nanterre ou Nantes
+Terrasse 2
+313 Terrasses de l’Arche
+92 000 Nanterre
+
+6 rue du Château de l’Eraudière
+44300 Nantes
+
+Entité : AXA Particuliers/Professionnels
+Direction :  Direction de Marché IARD des Particuliers
+Service : Actuariat réassurance / STEC
+
+Manager N+1 : Marie MEIGNIE
+                Coordonnées téléphoniques : 04 72 75 45 96
+                Mail :  marie.meignie@axa.fr
+
+Tuteur : Stéphanie BUREL

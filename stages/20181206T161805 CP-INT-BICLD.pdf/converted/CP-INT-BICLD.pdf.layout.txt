@@ -1,0 +1,52 @@
+Oﬀre de stage
+
+
+                            Business intelligence
+Présentation de la société
+Cube est une société de conseil crée en 2010 qui dispose d’une expertise dans la mise en œuvre
+de solutions de Business Intelligence et plus généralement dans la gestion de données métier. La
+société, indépendante de tout éditeur, base son expertise sur le juste choix de stacks techniques
+adaptées aux besoins de ses clients.
+
+De culture « process » plus que « développement », nous nous diﬀérencions de nos concurrents
+par l’intégration de leurs problématiques au-delà du projet et de la technique BI.
+
+Historiquement au Luxembourg, Cube s’installe en France pour répondre aux besoins du marché.
+
+Descriptif du stage
+         Création d’une oﬀre Business Intelligence intégrée Agile et indépendante.
+
+Le monde de la BI connait un profond changement et l’arrivée de profusions d’acteurs alternatifs
+concurrence les historiques et leurs solutions intégrées. Cube souhaite utiliser le meilleur de ces
+solutions afin de créer une oﬀre de BI complète à coût d’exploitation accessible visant à
+démocratiser l’oﬀre et la proposer à des structures de moindre importance.
+La mission du stagiaire sera :
+   - Identifier et recenser les besoins d’une oﬀre BI généraliste (ETL, Datamark, Dataviz…)
+   - Analyser, comparer, évaluer les oﬀres des « nouveaux » acteurs (Dremio, reeport.io, looker…)
+   - Élaborer l’oﬀre la plus adapté au rapport coût de possession/fonctionnalité pour Cube
+   - Mettre en œuvre la solution et formaliser l’oﬀre à destination des consultants de Cube
+En parallèle de cette mission, le stagiaire sera intégré dans le quotidien de la société avec la
+réalisation de missions ponctuelles : notamment de développement d’applicatifs sous Qliksense.
+
+Profil et compétences
+Futur diplômé d’une école d’ingénieur bac+5 (option Data Analyse, ou BI) votre parcours vous a
+mis sur la voie de la data. Autonome, motivé, curieux de tout (mais surtout de nouvelles technos),
+passionné d’informatique et d’optimisation de la performance, vous êtes “développeur dans
+l’âme”, mais vous cherchez toujours à comprendre les enjeux business liés à votre job.
+
+La maîtrise de SQL est impérative, et un premier niveau de compétences sur ces technologies est
+un plus :
+- Bases de données : MySQL, Oracle, SQL Server…
+- Solutions décisionnelles & restitution : QlikView / QlikSense, Tableau Software…
+
+Informations
+Localisation : Nantes
+Durée du stage : 5 mois minimum
+Le stage pourra débuter dès Février 2019
+Indemnités de stage : 550 euros bruts + Gratification suivant résultats
+
+
+
+
+          jobs@cube-project.net                                    cube-project.net
+

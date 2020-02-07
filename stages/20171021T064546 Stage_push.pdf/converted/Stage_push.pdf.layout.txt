@@ -1,0 +1,37 @@
+                     Kosmos
+                     8 rue Kervégan
+                     44000 NANTES
+                                                                  OFFRE DE STAGE
+                             Reprise du système de communication push de K-d’ecole
+
+
+
+MISSIONS    L’ENT fournit de nombreux services clés pour les établissements scolaires. L’objectif de
+            la mission est d’apporter des fonctionnalités transverses de notifications
+            événementielles au sein de plusieurs de ces services (messagerie, tchat, emploi du
+            temps).
+
+               •   Étude des améliorations fonctionnelles à apporter,
+               •   Étude d’une solution technique pour la mise en place d’un mécanisme
+                   événementiel (push),
+               •   Implémentation des notifications en temps réel (nouveau message, changement
+                   de cours, etc.),
+               •   Extension du mécanisme de push à l’application mobile,
+               •   Etude et mise en place d'une solution de suivi de l'usage et de facturation du
+                   push par techno SMS.
+
+
+
+
+QUALITES    Passionné(e) par le Web, vous suivez de près l’évolution des nouvelles technologies et
+REQUISES    avez un réel intérêt pour l'Open Source. Vous êtes rigoureux(se), motivé(e), et vous vous
+            adaptez facilement. Vous souhaitez vous investir dans cette mission au sein d'une
+            ambiance jeune, dynamique et professionnelle.
+            Curiosité, autonomie et savoir-faire technique seront vos atouts essentiels.
+
+
+MODALITÉS   Durée 5-6 mois
+            A pourvoir dès que possible
+            Poste basé à Nantes
+            CV et lettre de motivation à transmettre à recrutement@kosmos.fr
+

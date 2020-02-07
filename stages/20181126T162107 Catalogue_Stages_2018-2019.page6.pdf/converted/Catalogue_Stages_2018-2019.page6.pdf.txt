@@ -1,0 +1,48 @@
+Stage – Machine learning / Data Engineer / Data Scientist (H/F)
+Localisation : Nantes
+Contexte
+La feature team Watto intervient sur le Cross Sell (ventes additionnelles) du site www.oui.sncf et dans différents
+sujets de personnalisation.
+Dans le cadre des sujets de personnalisation, l’équipe commence à alimenter un datalake en données de navigation
+et souhaite pouvoir exploiter ces données pour augmenter la conversion cliente sur les produits d’attachement.
+Le Cross Sell (offres hôtels, location de voiture, VTC, services train, activités…) est affiché selon des règles
+chronoresponsive, c’est-à-dire avec une priorisation de l’affichage des offres en fonction des dates de voyages et
+du profil client. La matrice chronoresponsive est pour le moment contribuée de manière statique par le métier.
+Nous souhaitons faire évoluer ce mécanisme pour que les règles soient issues d’un apprentissage automatisé des
+données de navigation déversées dans le datalake.
+Sujet :
+- Définition du modèle et d’un algorithme de construction de la matrice de chronoresponsivité (alimentation et
+exploitation du datalake).
+- Mise en place d’un mécanisme de feedbackloop automatisé (matrice mise à jour réinjectée dans le moteur de
+personnalisation)
+- Participation au plan général d’amélioration continu du processus de delivery
+Activités et Principales Responsabilités
+-
+
+Analyse des données, conception de modèles de données, expérimentation d’algorithme.
+Industrialisation des développements et participation au move to prod.
+Participation aux différences cérémonies agile de l’équipe.
+Présentation des avancés et revue des choix techniques auprès du reste de la feature team et de l’équipe
+BigData.
+Vérification de l’adéquation de la solution avec ce qui est attendu en sollicitant les Product Owner.
+Suivi des KPI Business suite à mise en production des différentes versions de l’algorithme.
+Profil
+
+Stack Technique
+ETL, Data Stream, Data Viz
+Spark, Hadoop, Zeppelin, Python, Kafka, Java
+Les Particularités :
+Principes agiles (Lean & Kanban), approche DEVOPS.
+Vos atouts :
+Curieux, Communiquant, Engagé, Pragmatique, Proactif, Collectif
+Ce que vous trouverez dans ce stage
+-
+
+Des technologies, des méthodologies et des approches innovantes (Lean & Kanban / DEVOPS …)
+Un stage de qualité sur lequel vous pourrez capitaliser avec une possibilité d’embauche à la clef.
+Un environnement de travail où tout est fait pour que vous vous sentiez bien
+Une ambiance chaleureuse et un esprit team player au sein d’un groupe solide (innovation, Hackathons,…)
+
+6
+
+

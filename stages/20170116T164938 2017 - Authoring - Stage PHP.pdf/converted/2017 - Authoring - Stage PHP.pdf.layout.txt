@@ -1,0 +1,50 @@
+Qui sommes-nous ?
+Un peu plus de 70 personnes forment la famille Aquafadas, éditeur de logiciel basé à Montpellier, distribuant
+ses solutions en Europe, en Amérique et en Asie, filiale du géant japonais Rakuten. L’esprit start-up nous
+caractérise: nous sommes toujours prêts à développer de nouveaux outils. Notre dernier challenge :
+s’adresser aux entreprises et au marché du eLearning.
+
+Découvrez les outils Aquafadas gratuitement sur http://www.aquafadas.com.
+
+
+
+                                 Développeur PHP - Stage (H/F)
+
+Les équipes d’Aquafadas développent toute une gamme d’outils, gravitant autour de son format AVE, et
+permettent aux éditeurs de publier facilement leurs contenus papiers sur des kiosques (applications mobiles
+natives, et web) au travers notamment de l'importation de fichiers PDF, ou de la création "from-scratch" d'un
+magazine depuis Adobe InDesign.
+
+Au sein de l’équipe Authoring (création / transformation de contenu), votre mission consistera à développer
+une API permettant de facilité l’utilisation de nos outils back-end. Le but est de pouvoir exposer deux API :
+une API privée qui sera seulement pour un usage interne, et une API publique qui pourra être utilisée par
+nos clients pour automatiser des tâches, développer leurs propres interfaces web, ou simplement vérifier
+l’état de leurs publications.
+
+Votre rôle sera divisé en plusieurs parties :
+   • S'approprier les fonctionnalités existantes afin de différencier les fonctions privées des fonctions
+       publiques
+   • Créer les API privées et publiques
+   • Documenter ces API.
+
+Votre candidature est pertinente si :
+   • vous avez une formation Bac+4 en développement informatique,
+   • vous avez un bon niveau en PHP,
+   • vous êtes sensible à la qualité et la lisibilité de votre code ;
+   • vous avez l’esprit d’équipe
+   • vous avez un don pour la pâtisserie ;-)
+
+
+Intérêts :
+• Produit à forte visibilité, avec des utilisateurs dans le monde entier,
+• Équipe talentueuse, ambitieuse et passionnée,
+• Moyenne d’âge : 32 ans,
+• Ville ensoleillée de Montpellier,
+• Stage de 6 mois à pourvoir dès que possible
+• Gratification de stage selon la loi en vigueur, Tickets restaurants + 50 % transports en commun.
+
+
+                                   N'hésitez plus, rejoignez nous !
+             Envoyez nous votre candidature (CV + Lettre de Motivation) à l’adresse suivante :
+                                        stages@aquafadas.com
+

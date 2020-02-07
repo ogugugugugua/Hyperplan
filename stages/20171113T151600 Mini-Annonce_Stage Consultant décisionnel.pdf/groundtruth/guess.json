@@ -1,0 +1,10 @@
+{
+  "guessed": {
+    "who": null,
+    "where": "Nantes",
+    "what": "Consultant Décisionnel"
+  },
+  "provided": {
+    "who": "CGI"
+  }
+}

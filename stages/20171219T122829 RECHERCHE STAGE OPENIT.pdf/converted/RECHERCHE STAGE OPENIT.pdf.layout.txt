@@ -1,0 +1,52 @@
+                      STAGE BAC+5
+         DEVELOPPEMENT LOGICIEL DE SUPERVISION IoT
+QUI SOMMES NOUS ?
+OpenIt Solutions est une start-up développant une technologie innovante
+de distribution de produits frais. Plus précisément, l’entreprise prépare la mise sur le
+marché d’une technologie de réfrigérateurs connectés.
+Les marchés adressés sont la restauration collective, la distribution automatique,
+et la restauration commerciale.
+Le projet vise la vente de produits alimentaires, disponibles en permanence,
+avec une expérience utilisateur inédite. Il s’agit du distributeur automatique du futur.
+La technologie RFID utilisée permet à l’exploitant de suivre ses stocks à distance et
+de piloter ses opérations grâce aux données générées par le système.
+Le développement de la technologie hard est au point, et nous abordons maintenant
+le développement du software.
+OpenIt Solution est basé à Nantes et Créteil. Le stage se déroulera dans nos locaux
+de Nantes
+
+
+QUI ETES VOUS ?
+Vous êtes familier de :
+• Développement orienté objet (C#, JAVA)
+• Les technologies du Web / Cloud
+• L’environnement Microsoft et Linux
+• Vous faites preuve de curiosité, de créativité et d’initiative ?
+• Vous êtes rigoureux(se) et pouvez travailler en autonomie ?
+• Travailler au sein d’une start-up sur un sujet de développement informatique
+et d’innovation vous motive ?
+
+
+CE QUE NOUS POUVONS CREER ENSEMBLE :
+Vous intégrez l’équipe technique d’OpenIt Solutions qui conçoit le réfrigérateur IoT
+et participez à la définition de l’architecture du système informatique. Puis vous
+développez l’application utilisateur, ainsi que le logiciel de supervision permettant
+une gestion /exploitation optimale du parc machine installé.
+
+
+CONDITIONS DE STAGE
+• Stage de 4 mois minimum, à partir de janvier 2018
+• Poste basé à Nantes
+• Possibilité d’embauche à l’issu du stage
+• Indemnité de stage : 1400€/mois
+• Vous intégrez une équipe de 7 personnes.
+• Déjeuner offert
+
+
+                          Envoyez nous votre candidature !
+             olivier.veron@hexatronic.fr & e.houri@gti-monetique.com
+
+            Open It Solutions 20, rue Soddy 94 000 Créteil
+            Contact : Eric Houri 06 80 72 05 30
+            Raphaël Marchant- 06 52 53 77 91
+

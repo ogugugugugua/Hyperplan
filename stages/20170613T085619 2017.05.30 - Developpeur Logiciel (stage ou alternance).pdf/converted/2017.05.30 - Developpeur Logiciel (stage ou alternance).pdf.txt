@@ -1,0 +1,40 @@
+H/F Développeur Logiciel (stage ou alternance)-Référence
+DEL_2017
+Expert drone depuis 2011, PIXIEL GROUP imagine aujourd’hui le robot volant de demain.
+Acteur leader du secteur des drones civils volants professionnels, PIXIEL GROUP imagine, conçoit et
+fabrique des solutions spécifiques et inédites pour les industriels. Innovante et pionnière dans la filière,
+PIXIEL GROUP maîtrise toute la chaînes de valeur du drone. En hyper croissance depuis sa création,
+PIXIEL GROUP a été récompensé en 2015 par le cabinet Deloitte et son prix TECHNOLOGY FAST50 pour
+son taux de croissance de près de 1500% en 4 ans.
+Pour accompagner son développement, PIXIEL GROUP recrute les talents capables de concrétiser son
+ambition et de repousser les limites technologiques et réglementaires du drone civil professionnel.
+
+Missions
+Intitulé : Conception et réalisation d'un logiciel dédié à la maintenance de drones.
+Dans le cadre de ses travaux en recherches et développement, les membres de l'équipe R&D de Pixiel
+utilisent aujourd'hui différents outils servant à la maintenance et à la production de drones volant.
+L'objectif de ce stage est de concevoir et de réaliser un outil rassemblant l'ensemble de ses outils puis
+de rajouter des fonctionnalités spécifiques aux besoins de la R&D Pixiel.
+Le premier objectif sera de rédiger un cahier des charges rassemblant notamment l'ensemble des
+besoins de l'équipe R&D. Une fois ce premier travail accomplis, le stagiaire aura pour mission de
+proposer une architecture logicielle permettant à l'outil d'être modulable et multi-plateforme. Le
+développement des premières briques logicielles seront la dernière étape. L'objectif final étant que le
+logiciel soit opérationnel pour certaines fonctionnalités à la fin du stage.
+Cet outil sera doté d'une interface graphique permettant à l'utilisateur de communiquer avec un drone
+selon différents protocoles.
+Ce stage est l'opportunité de découvrir le travail du développement en informatique industriel au sein
+d'une entreprise jeune et dynamique tout en ayant en charge le développement complet, depuis la
+constitution d'un cahier des charges jusqu'à la livraison en passant par l'analyse, la conception, la
+réalisation et le test, d'un logiciel à haute valeur ajoutée pour les membres de la société.
+
+Matériel ou logiciels utilisés
+Linux/Windows, C++, Qt. LaTeX
+
+Profil
+Vous êtes actuellement en dernière année de cursus universitaire ou d'école d’ingénieur en
+spécialisation informatique et devez, dans le cadre de votre cursus, effectuer un stage de fin d'études
+de 6 mois.
+Poste basé à Bouguenais.
+Poste à pourvoir immédiatement
+
+

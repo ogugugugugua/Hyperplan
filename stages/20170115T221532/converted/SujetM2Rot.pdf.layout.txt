@@ -1,0 +1,96 @@
+                         Dual de l’ensemble des discrétisations
+                           à une transformation rigide près
+                                  Thématique : informatique de l’image
+                                                Stage de Master 2
+
+
+
+
+Laboratoire d’accueil
+ICube (UMR 7357) CNRS-Univ. de Strasbourg
+Parc d’Innovation, Boulevard Sébastien Brant, BP 10413,
+67412 Illkirch Cedex
+
+Encadrement
+Loïc MAZO (mazo@unistra.fr), bur. C219, tel : 03 68 85 44 96, équipe MIV, ICube
+Étienne BAUDRIER (baudrier@unistra.fr), bur. C221, tel : 03 68 85 44 94, équipe MIV, ICube
+
+
+Mots-clefs : Discrétisation, Combinatoire
+
+
+
+
+Présentation
+    Lorsqu’on discrétise un objet continu, il y a plusieurs résultats possibles suivant la façon dont on positionne la
+grille sur l’objet (et bien sûr, suivant le pas de grille). Ainsi, la ﬁgure 1 représente l’ensembles des discrétisations
+d’un objet délimité par une astroïde (en fait, une astroïde dilatée dans une direction) lorsque la grille subit des
+translations ([MB16], voir aussi [BM16]). Cet ensemble de discrétisations « modulo les translations » peut être
+représenté sur le tore sous forme de carte coloriée, chaque couleur étant associée à une discrétisation particulière
+(ﬁgures 2 et 3). Le fait que cette carte soit tracée sur un tore tient au fait que, dans une discrétisation, seule la
+position relative des points nous intéresse. Cette représentation de l’ensemble des discrétisations peut permettre
+d’améliorer les tests de performance des estimateurs de grandeurs géométriques en remplaçant l’estimation ponc-
+tuelle de la grandeur par la distribution des estimations déduites des aires mesurées sur le tore.
+    L’objectif du stage de M2 que nous proposons est d’étendre la notion de dual des discrétisations à l’ensemble
+des transformations rigides (translations et rotations) puis d’en étudier les propriétés.
+
+Nous contacter pour plus de renseignements.
+
+
+Références
+[BM16] E. BAUDRIER et L. M AZO : Curve digitization variability. In DGCI, volume 9647 de LNCS, pages 59–70.
+       IAPR, Springer, Apr 2016.
+[MB16] Loïc M AZO et Étienne BAUDRIER : Object digitization up to a translation. working paper or preprint,
+       septembre 2016.
+  1                                                    1                                                1                                            1                                            1
+
+
+  0                                                    0                                                0                                            0                                            0
+                              u = (0.5, 0.5)
+ -1                                                    -1                                               -1                                           -1                                           -1
+
+                                                                 u = (0.6, 0.55)                                  u = (0.0, 0.6)                               u = (0.5, 0.9)                               u = (0.25, 0.95)
+ -2                                                    -2                                               -2                                           -2                                           -2
+      -3           -2         -1         0     1   2        -3          -2         -1   0   1   2            -3          -2         -1   0   1   2        -3          -2         -1   0   1   2        -3           -2         -1   0   1   2
+
+  1                                                    1                                                1                                            1                                            1
+
+
+  0                                                    0                                                0                                            0                                            0
+
+
+ -1                                                    -1                                               -1                                           -1                                           -1
+
+            u = (0.5, 0.0)                                       u = (0.1, 0.25)                                  u = (0.1, 0.75)                              u = (0.9, 0.25)                              u = (0.9, 0.75)
+ -2                                                    -2                                               -2                                           -2                                           -2
+      -3           -2         -1         0     1   2        -3          -2         -1   0   1   2            -3          -2         -1   0   1   2        -3          -2         -1   0   1   2        -3           -2         -1   0   1   2
+
+  1                                                    1                                                1
+
+
+  0                                                    0                                                0
+
+
+ -1                                                    -1                                               -1
+
+           u = (0.05, 0.85)                                      u = (0.0, 0.2)                                   u = (0.0, 0.0)
+ -2                                                    -2                                               -2
+      -3           -2         -1         0     1   2        -3          -2         -1   0   1   2            -3          -2         -1   0   1   2
+
+
+
+
+F IGURE 1 – Les 13 discrétisations de Sastro , la région du plan déﬁnie par (x/2)2/3 + y 2/3 ≤ 1 (la première
+discrétisation est l’ensemble vide).
+
+
+
+
+                                                                                                    F IGURE 2 – Le dual de Sastro .
+
+
+
+
+F IGURE 3 – Une représentation déployée du dual de Sastro . La dernière discrétisation (avec 7 points) n’est obtenue
+qu’en un point du tore ce qui la rend imperceptible.
+

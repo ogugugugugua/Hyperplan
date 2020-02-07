@@ -1,0 +1,83 @@
+2018-7189 Evaluation d'environnement d'exécution sécurisé TEE H/F
+
+
+Informations générales
+         Description de l'entité Le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) est un organisme public de
+                                 recherche.
+
+                                Acteur majeur de la recherche, du développement et de l'innovation, le CEA intervient dans le cadre de ses
+                                quatre missions :
+                                . la défense et la sécurité
+                                . l'énergie nucléaire (fission et fusion)
+                                . la recherche technologique pour l'industrie
+                                . la recherche fondamentale (sciences de la matière et sciences de la vie).
+
+                                Avec ses 16000 salariés -techniciens, ingénieurs, chercheurs, et personnel en soutien à la recherche- le CEA
+                                participe à de nombreux projets de collaboration aux côtés de ses partenaires académiques et industriels.
+         Description de l'unité Le Leti, institut de recherche technologique de Cea Tech, a pour mission de créer de la valeur et de
+                                l'innovation avec ses partenaires industriels. Il fait le lien entre la recherche fondamentale et la production de
+                                micro et nanotechnologies dans le but d'améliorer la qualité de vie de chacun. Fort d'un portefeuille de 2.800
+                                brevets, le Leti façonne des solutions avancées pour améliorer la compétitivité de ses partenaires industriels:
+                                grands groupes, PME ou startups. Localisé à Grenoble (38), le Leti compte plus de 1 800 chercheurs et a des
+                                bureaux aux US et au Japon.
+
+                                Le LSOSP, Laboratoire sécurité des objets et des systèmes physiques, mène des activités de R&D dans le
+                                domaine des technologies de sécurité et de protection de la vie privée. Il analyse et caractérise les risques
+                                auxquels sont soumis les systèmes électroniques et les composants; il conçoit des contre-mesures
+                                s'appuyant notamment sur des techniques cryptographiques mais aussi sur des modifications dans
+                                l'architecture des systèmes pour intégrer les technologies nécessaires (composants, codes embarqués,
+                                interfaces ou protocoles de communications...). Il caractérise l'efficacité des contremesures intégrées dans
+                                des composants, des objets (communicants) et des systèmes cyberphysiques afin de résister aux attaques
+                                au niveau de leur structure, de leurs fonctions ou de leur utilisation.
+           Délai de traitement 2 mois
+
+
+Description du poste
+                        Site Grenoble
+                        Lieu 17, avenue des martyrs, 38000 GRENOBLE
+                     Domaine Composants et équipements électroniques
+                        Contrat Stage
+              Intitulé de l'offre Evaluation d'environnement d'exécution sécurisé TEE H/F
+                Sujet de stage Evaluation d'environnement d'exécution sécurisé TEE
+    Durée du contrat (en mois) 6 mois
+         Description de l'offre Un environnement    d'exécution sécurisé (TEE: trusted execution environment) est une
+                                zone sécurisée d'un processeur principal. Ce stage, au sein du LSOSP, laboratoire
+                                sécurité des objets et des systèmes physiques, s'inscrit dans la continuité d'activités qui
+                                visent à évaluer la robustesse de certains de ces dispositifs.
+
+                                Il pourra par exemple se dérouler en 3 phases:
+
+                                1) Etat de l'art des attaques connues (clkscrew, rowhammer, etc...) et liste de suites de
+                                tests existantes
+
+                                2) Reproduction de certaines attaques logicielles et/ou matérielles. Des plateformes ARM
+                                à base de Cortex-A pourront être utilisées
+
+                                3) Développement de nouveaux tests pertinents au regard de l'existant, de nouvelles
+                                plateformes (arrivée de la technologie Trust Zone sur ARM Cortex-M) et de projets en
+                                cours de développement dans le laboratoire.
+
+
+
+
+ Moyens / Méthodes / Logiciels Linux/Android Cortex ARM
+           Profil du candidat Etudiant en 3ème année d'école d'ingénieur, le candidat devra posséder de bonnes bases d'électronique
+                              embarquée (utilisation d'outils pour la reproduction d'attaques à canaux auxiliaires). Familier des plateformes
+                              Linux, le candidat pourra évoluer facilement dans des environnements logiciels ouverts (cross-compiler,
+                              modifier, intégrer des modules dans un noyau Linux pour différentes architectures matérielles) , et de
+                              microcontrôleurs (C/C++ bas niveau). Beaucoup de persévérance et d'obstination seront requises. Un intérêt
+                              pour les activités de sécurité est indispensable.
+
+                              Merci de bien vouloir transmettre votre candidature directement à Raphael COLLADO :
+                              raphael.collado@cea.fr
+
+
+Critères candidat
+                    Langues Anglais (Intermédiaire)
+             Diplôme préparé Bac+5 - Diplôme École d'ingénieurs
+     Formation recommandée 3ème année d'école d'ingénieur ou 2ème année de master
+
+
+Demandeur
+        Disponibilité du poste 01/02/2019
+

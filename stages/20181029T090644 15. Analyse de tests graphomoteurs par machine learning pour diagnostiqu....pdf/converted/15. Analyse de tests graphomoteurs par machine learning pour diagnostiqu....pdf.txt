@@ -1,0 +1,80 @@
+2018-7041 Analyse de tests graphomoteurs par machine learning pour
+diagnostiquer la dysgraphie H/F
+Informations générales
+Description de l'entité Le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) est un organisme public de
+recherche.
+Acteur majeur de la recherche, du développement et de l'innovation, le CEA intervient dans le cadre de ses
+quatre missions :
+. la défense et la sécurité
+. l'énergie nucléaire (fission et fusion)
+. la recherche technologique pour l'industrie
+. la recherche fondamentale (sciences de la matière et sciences de la vie).
+Avec ses 16000 salariés -techniciens, ingénieurs, chercheurs, et personnel en soutien à la recherche- le CEA
+participe à de nombreux projets de collaboration aux côtés de ses partenaires académiques et industriels.
+Description de l'unité Le Leti, institut de recherche technologique de Cea Tech, a pour mission de créer de la valeur et de
+l'innovation avec ses partenaires industriels. Il fait le lien entre la recherche fondamentale et la production de
+micro et nanotechnologies dans le but d'améliorer la qualité de vie de chacun. Fort d'un portefeuille de 2.800
+brevets, le Leti façonne des solutions avancées pour améliorer la compétitivité de ses partenaires industriels:
+grands groupes, PME ou startups. Localisé à Grenoble (38), le Leti compte plus de 1 800 chercheurs et a des
+bureaux aux US et au Japon.
+Le Laboratoire signaux et systèmes de capteurs (LSSC) mène des activités dans le domaine de la fusion de
+signaux capteurs embarquée exploitant la multi-modalité par des études en traitement du signal et de
+l'information et algorithmique embarquée. Ces études se focalisent d'une part, sur les fonctions de capture de
+contexte et d'interaction avec l'environnement à partir de systèmes de capteurs portés par la personne ; il
+adresse d'autre part des problématiques de maintenance prédictive et de contrôle de structures sur des
+ouvrages d'art ou bien des installations industrielles."
+Délai de traitement 2 mois
+
+Description du poste
+Site Grenoble
+Lieu 17, avenue des martyrs, 38000 GRENOBLE
+Domaine Composants et équipements électroniques
+Contrat Stage
+Intitulé de l'offre Analyse de tests graphomoteurs par machine learning pour diagnostiquer la dysgraphie H/F
+Sujet de stage Analyse de tests graphomoteurs par machine learning pour une aide au diagnostic précoce et universel de la
+dysgraphie
+Durée du contrat (en mois) 6 mois
+Description de l'offre
+
+Ce stage se situe dans le cadre de la capture de contexte et fait suite à des premiers
+travaux exploitant les paramètres cinématiques de l’écriture appliqués au test BHK, test
+de référence pour le diagnostic de la dysgraphie. Cependant, cette approche est
+dépendante de l’écriture cursive latine et n’est donc pas universelle. Elle ne permet pas
+non plus d’envisager un diagnostic de la dysgraphie avant le CE1, lorsque l’écriture
+cursive est globalement acquise par l’enfant.
+La base de données acquise auprès de 400 à 500 enfants présentant ou non des troubles
+de l'écriture - dysgraphie (collaboration avec C Jolly, LPNC – UGA) inclut non seulement
+les traces numériques d’écriture mais également celles obtenues lors de tests
+graphomoteurs (reproduction de dessins, tracés guidés). Le stage proposé vise à exploiter
+des caractéristiques extraites de ces tests graphomoteurs afin de proposer une approche
+d’aide au diagnostic de la dysgraphie qui soit plus précoce et indépendante de l’écriture.
+Dans cette approche, l’annotation de la base de données effectuée sur les tests BHK
+permet de distinguer les enfants dysgraphiques des enfants non dysgraphiques. Ainsi, les
+patterns obtenus à partir des tests graphomoteurs pourront être mis en relation avec ces
+scores afin de définir un pattern graphomoteur typique de la dysgraphie. Cependant, les
+variables extraites à partir des tests graphomoteurs évoluant avec l’âge, une modélisation
+de leur évolution en fonction de l’âge devra d’abord être effectuée afin d’évaluer quelles
+variables sont les plus pertinentes pour le diagnostic de la dysgraphie (collaboration avec
+V Brault, LJK (IMAG) - UGA). Le but est de trouver les paramètres, ou toute autre
+caractéristique, qui seraient les plus discriminants pour alimenter les modèles visant à
+évaluer si un enfant est dysgraphique ou non. A l’issue de cette étape, le lien entre l’écart
+
+d’un comportement « typique » et la possibilité qu’un enfant soit dysgraphique sera estimé
+à l’aide de modèles statistiques (par exemple, la régression logistique) et par des
+techniques de machine learning (algorithme de classification).
+A terme, le modèle proposé devrait permettre d'identifier des paramètres discriminant
+formellement les enfants dysgraphiques des enfants non dysgraphiques sans se baser sur
+l’écriture, proposant ainsi une aide au diagnostic de la dysgraphie applicable chez le jeune
+enfant et universelle.
+Moyens / Méthodes / Logiciels Python
+Profil du candidat Etudiant niveau Bac +4/5 en Master 2 ou école d'Ingénieur ayant une bonne connaissance en traitement du
+signal, modélisation statistique et machine Learning.
+Merci de bien vouloir transmettre votre candidature directement à Etienne LABYT : etienne.labyt@cea.fr
+
+Critères candidat
+Diplôme préparé Bac+5 - Diplôme École d'ingénieurs
+
+Demandeur
+Disponibilité du poste 01/02/2019
+
+

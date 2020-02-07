@@ -1,0 +1,21 @@
+Stage Data Science
+Stage – 4 à 6 mois – dès que possible
+
+L'entreprise:
+
+Dolmen est une startup spécialisée dans la conception et la commercialisation de solutions innovantes digitales. Nos clients ? les acteurs du retail et de la GMS. Notre ambition ? Que les commerçants connaissent mieux leurs clients, pour mieux les fidéliser. Devenu leader du marketing digital local, nos effectifs et notre chiffre d’affaires sont en forte croissance. 
+
+Pour accompagner le développement de notre activité en France et à l’international, nous recrutons un stagiaire Data Science (F/H) pour une durée de 4 à 6 mois.
+
+Vos missions :
+Dans un premier temps, vous mènerez des activités d'audit des bases : qualité et cohérence des données seront au coeur de vos préoccupations. Vous aurez ainsi l'occasion d'enrichir les traitements d'audit et de correction existants.
+Votre mission s'intéressera également à l'analyse avancée de données (exploration, classification, prédiction, corrélation, ...) : à vous de faire parler les gisements de données.
+Enfin en fonction de vos affinités, vous pourrez aborder le sujet de la protection des données personnelles (en lien avec la CNIL).
+Environnement : Java / JEE, Spring, Spark, Hadoop, ElasticSearch, R, Python
+
+Votre Profil :
+
+Vous êtes curieux, rigoureux, autonome et souhaitez vous investir dans une structure jeune et dynamique proposant des solutions innovantes.
+Vous avez de solides compétences en bases de données (SGBD traditionnels, bases NoSQL), maîtrisez les méthodes et outils du data scientist.
+
+Pour postuler : Ecrire sur l’adresse job@dolmen-tech.com 

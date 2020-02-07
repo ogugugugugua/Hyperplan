@@ -1,0 +1,54 @@
+                         Stage Développeur FullStack Cartographie (H/F)
+                                            Nantes
+
+
+                                             Contexte
+
+L’équipe intégration a développé un outil permettant de cartographier de manière dynamique les
+applications déployées sur les environnements VSCT, en utilisant les informations présentes dans
+les outils de déploiement actuels et ceux de demain.
+
+Sujet :
+- Développement de nouvelles fonctionnalités de l’outil de cartographie
+
+                             Activités et Principales Responsabilités
+
+-   Prise en compte des besoins et rédaction des exigences fonctionnelles
+-   Documentation de l’architecture et des fonctionnalités attendues
+-   Chiffrage des taches de réalisation.
+-   Réalisation des développements en mode agile
+-   Mise en place de tests automatisés des développements
+
+                                               Profil
+
+Attentes Techniques
+
+Bonnes bases sur le développement d’application Web : J2SE, Tomcat, json
+Industrialisation : Maven, Jenkins Pipeline, GIT
+Front : HTML5, CSS, AngularJS 5, BootStrap 4
+Back : NodeJS, API REST, MongoDB
+
+Les plus
+
+Maitrise des outils de développement (Intellij Idea si possible)
+Connaissances théoriques des principes de tests automatisés, de l’intégration continue et du réseau.
+
+Vos atouts :
+
+Rigoureux, Motivé, Constructif, Capacité à travailler en équipe, Pragmatisme et adaptabilité aux
+situations
+
+                                       Ce que nous offrons
+
+    -   Un stage de qualité sur lequel vous pourrez capitaliser avec une possibilité d’embauche à la
+        clef.
+    -   Un environnement de travail où tout est fait pour que vous vous sentiez bien
+    -   De superbes locaux neufs et à proximité de la gare de Nantes.
+    -   Une ambiance chaleureuse et un esprit Start Up au sein d’un groupe solide (innovation,
+        dynamisme, Hackathons, séminaires, « vis ma vie » etc.)
+
+
+
+
+                                                 3
+

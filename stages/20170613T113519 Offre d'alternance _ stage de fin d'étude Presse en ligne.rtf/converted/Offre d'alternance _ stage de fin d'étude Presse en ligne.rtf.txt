@@ -1,0 +1,59 @@
+Alternance/apprentissage/stage de fin d'étude pour élève-ingénieur en informatique   2017-2018
+
+
+Chef de projet web
+
+
+CadredeVille.com est un éditeur de presse en ligne dans le domaine de
+l’urbanisme qui édite un site web d'information quotidienne, de veille
+urbaine et de contacts entre professionnels de la ville de toutes
+spécialités. Le site permet de suivre l'actualité des développements
+urbains, les stratégies des villes, de prendre connaissance des projets,
+et de répondre à des consultations publiques.
+
+L’accès aux informations diffusées par CadredeVille est réservé aux
+abonnés professionnels.
+
+
+CadredeVille, fondée en 2003, est un service de presse en ligne reconnu
+par la Commission Paritaire des Publications et Agences de Presse qui
+sert en 2017 une audience nationale de près de 2000 abonnés.
+
+
+Pour charpenter son savoir faire technique et porter
+son architecture web au meilleur niveau
+Cadredeville souhaite s’attacher les services, dans un premier
+temps dans le cadre d’une alternance/ d’un apprentissage/ d'un stage de
+fin d'étude, d’un(e) élève-ingénieur en informatique ayant vocation à devenir
+
+chef de projet web
+
+pour assurer les missions suivantes :
+
+
+-  suivi et améliorations de l'architecture web de cadredeville.com et
+de ses sites frères
+
+- enrichissement de la production cartographique par l'intégration de
+données publiques & privées
+
+- mise en place d'outils interactifs divers, tant pour les journalistes,
+l'administration que pour les lecteurs
+
+- prise en main et pilotage des développements : Plone/Python, Ldap,
+LAMP
+
+· Supervision du support interne et à la clientèle
+
+
+Profil : Élève-ingénieur en informatique en dernière ou avant dernière
+année, qualités relationnelles, autonomie, goût pour la presse en ligne
+
+
+Lieu de l’alternance/stage : au siège de CadredeVille  à  Paris 2ième
+et/ou à distance
+
+
+Rémunération conventionnelle et éventuelle prise en charge des frais de
+transport liés à l’alternance.
+
