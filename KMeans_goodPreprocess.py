@@ -4,10 +4,6 @@ import json
 import numpy as np
 import csv
 import codecs
-<<<<<<< HEAD
-
-=======
->>>>>>> bf2062c2715f6b64ccf8314a8aeacf20f5deb08e
 import time
 from sklearn import feature_extraction
 from sklearn.feature_extraction.text import TfidfTransformer
@@ -32,10 +28,6 @@ for i in range(len(dossiers)):
     dossiers[i] = path + dossiers[i]
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> bf2062c2715f6b64ccf8314a8aeacf20f5deb08e
 for i in range(len(dossiers)):
     #In each directory which contains converted input && ground labels, we get them both out:
 
@@ -155,11 +147,7 @@ print("centers for the ",clusters," clusters: \n",clf.cluster_centers_)
 #print clusters for each text file
 i = 1
 while i<=len(clf.labels_):
-<<<<<<< HEAD
     print("\nThe ",i,"th file --> ",clf.labels_[i-1]," cluster")
-=======
-    print("The ",i,"th file belongs to ",clf.labels_[i-1]," cluster")
->>>>>>> bf2062c2715f6b64ccf8314a8aeacf20f5deb08e
     print(labels[i-1])
     i = i+1
 
